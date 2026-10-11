@@ -3,7 +3,7 @@
 // The sentence after the blank must depend on the answer ("Inoltre…", "Per questo…", "Tuttavia…", "Senza di loro…");
 // wrong candidates are off-topic, contradict the paragraph, or break the link to the next sentence.
 
-export const EXAM_PARAGRAPH = [
+const BASE = [
   [3, "Molte persone pensano che il caffè faccia male alla salute. ---- Alcuni studi suggeriscono addirittura che possa ridurre il rischio di certe malattie. Naturalmente è meglio non esagerare.", 'In realtà, bevuto con moderazione, non sembra causare danni.', ['Il caffè è nato in Italia nel Seicento.', 'Per questo molti medici lo vietano completamente.', 'Il tè, invece, contiene più zucchero del caffè.', 'Tutti dovrebbero berne almeno dieci tazze al giorno.'], '"addirittura" adds to a reassuring claim; "meglio non esagerare" confirms moderation.'],
   [4, "Le api sono fondamentali per l'agricoltura. ---- Senza di loro, molte colture produrrebbero molto meno. Per questo la scomparsa delle api preoccupa gli scienziati.", 'Impollinano infatti una grande quantità di piante da cui dipende la produzione di cibo.', ['Le api producono il miele in primavera e in estate.', 'Il miele è più dolce dello zucchero.', 'Gli scienziati preferiscono studiare gli uccelli.', 'Le api vivono soltanto nelle città.'], '"Senza di loro" needs the reason crops depend on bees: pollination.'],
   [3, "Imparare una lingua straniera richiede costanza. ---- Chi studia venti minuti ogni giorno ottiene risultati migliori di chi studia tre ore una volta alla settimana. La regolarità conta più della quantità.", 'Non serve studiare molto in una volta sola, ma farlo spesso.', ['Le lingue straniere sono tutte molto simili.', 'Basta un weekend di studio intensivo.', 'Conviene studiare solo prima degli esami.', 'Chi ha talento non ha bisogno di studiare.'], 'The following sentences compare daily short study with one long session.'],
@@ -17,3 +17,6 @@ export const EXAM_PARAGRAPH = [
   [3, "Per preparare una buona torta servono ingredienti freschi. ---- Si mescolano poi con cura, aggiungendo il latte poco alla volta.", 'Si comincia mettendo in una ciotola le uova, lo zucchero e la farina.', ['Il forno va tenuto spento per tutto il tempo.', "La torta si mangia meglio d'estate.", 'Il latte non si usa mai nei dolci.', 'Si comincia togliendo la torta dal forno.'], '"poi… si mescolano" needs a first step that puts the ingredients together.'],
   [4, "La memoria non funziona come una videocamera. ---- Per questo due testimoni dello stesso episodio possono ricordarlo in modo molto diverso.", 'Ogni volta che ricordiamo un fatto, lo ricostruiamo e a volte lo modifichiamo.', ['Ricordiamo con precisione ogni dettaglio di ciò che vediamo.', 'I testimoni ricordano sempre la stessa versione.', 'Le videocamere si ricordano meglio delle persone.', 'La memoria funziona solo di notte.'], '"Per questo" needs the reason witnesses differ: memory is reconstructive.'],
 ];
+
+import { PARAGRAPH_MORE } from './exam-paragraph-more.js';
+export const EXAM_PARAGRAPH = [...BASE, ...PARAGRAPH_MORE];

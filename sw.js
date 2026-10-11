@@ -1,6 +1,6 @@
 // Mille service worker: network-first (always fresh when online), cache fallback (works offline).
 // Bump CACHE when the list of files changes.
-const CACHE = 'mille-v2-7';
+const CACHE = 'mille-v2-8';
 const ASSETS = [
   './',
   'index.html',

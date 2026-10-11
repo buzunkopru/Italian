@@ -4,7 +4,7 @@
 // Rules: the answer must follow from the text (not from outside knowledge); every wrong option contradicts the
 // text, is not mentioned, or answers a different question. Explanations point to the supporting sentence.
 
-export const EXAM_READING = [
+const BASE = [
   {
     id: 'biblioteca',
     level: 2,
@@ -138,3 +138,6 @@ export const EXAM_READING = [
     ],
   },
 ];
+
+import { READING_MORE } from './exam-reading-more.js';
+export const EXAM_READING = [...BASE, ...READING_MORE];

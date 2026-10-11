@@ -110,3 +110,14 @@ test('grammar, translation, paragraph and irrelevant-sentence items are well for
   const both = bank.filter((q) => q.section === 'translation');
   assert.ok(both.some((q) => q.prompt.startsWith('Best Italian')) && both.some((q) => q.prompt.startsWith('Best English')));
 });
+
+test('correct answers are spread evenly over positions A-E in every section, and the odd sentence over 1-5', () => {
+  const by = {};
+  for (const q of bank) {
+    const key = q.section;
+    (by[key] ||= [0, 0, 0, 0, 0])[q.answer]++;
+  }
+  for (const [section, counts] of Object.entries(by)) {
+    assert.ok(Math.max(...counts) - Math.min(...counts) <= 1, `${section}: ${counts}`);
+  }
+});

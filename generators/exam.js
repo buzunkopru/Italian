@@ -13,8 +13,13 @@ import { EXAM_IRRELEVANT } from './handwritten/exam-irrelevant.js';
 import { hash } from './util.js';
 import { shuffle } from '../engine/picker.js';
 
+// The correct answer cycles through positions A-E within each section, so no letter is favoured.
+let slots = {};
 function build({ section, topic, level, prompt, answer, wrong, explain, rng, tag, extra = {} }) {
   const options = shuffle([answer, ...wrong], rng);
+  const target = (slots[section] = (slots[section] ?? -1) + 1) % 5;
+  const at = options.indexOf(answer);
+  [options[at], options[target]] = [options[target], options[at]];
   return {
     id: `x-${tag}-${hash(prompt + '|' + answer)}`,
     section,
@@ -118,5 +123,6 @@ export function irrelevantQuestions() {
 }
 
 export function generate(rng) {
+  slots = {};
   return [...vocabQuestions(rng), ...clozeQuestions(rng), ...completionQuestions(rng), ...dialogueQuestions(rng), ...paraphraseQuestions(rng), ...readingQuestions(rng), ...grammarQuestions(rng), ...translationQuestions(rng), ...paragraphQuestions(rng), ...irrelevantQuestions()];
 }
