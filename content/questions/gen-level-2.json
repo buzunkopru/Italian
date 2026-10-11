@@ -22540,5 +22540,1110 @@
   "explain": "I ragazzi = loro → si vestono. vestirsi: mi, ti, si, ci, vi, si + the verb.",
   "source": "generated",
   "verified": true
+ },
+ {
+  "id": "h-14883yx",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Abito a Roma ---- tre anni.",
+  "options": [
+   "durante",
+   "da",
+   "dopo",
+   "fa"
+  ],
+  "answer": 1,
+  "explain": "da + period = since / for (still true now).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-151nsel",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Il treno ---- parte alle otto è in ritardo.",
+  "options": [
+   "che",
+   "cui",
+   "dove",
+   "chi"
+  ],
+  "answer": 0,
+  "explain": "Subject of \"parte\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-156nfw0",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Il lavoro ---- faccio è interessante.",
+  "options": [
+   "cui",
+   "dove",
+   "che",
+   "chi"
+  ],
+  "answer": 2,
+  "explain": "Direct object of \"faccio\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-15jarnx",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Studio italiano ---- un anno.",
+  "options": [
+   "da",
+   "dopo",
+   "durante",
+   "fa"
+  ],
+  "answer": 0,
+  "explain": "da + period = for (and I still do).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-15pzlb1",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Spero ---- tu stia bene.",
+  "options": [
+   "cui",
+   "dove",
+   "che",
+   "chi"
+  ],
+  "answer": 2,
+  "explain": "\"Spero che\" + congiuntivo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-16va11a",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Il tuo voto è ---- del mio.",
+  "options": [
+   "più ben",
+   "più bene",
+   "migliore",
+   "molto bene"
+  ],
+  "answer": 2,
+  "explain": "Comparative of buono = migliore.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-16wubzx",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "È più difficile parlare ---- ascoltare.",
+  "options": [
+   "di",
+   "da",
+   "che",
+   "a"
+  ],
+  "answer": 2,
+  "explain": "Comparing two infinitives → più... che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-17f2io3",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Devo finire il lavoro ---- venerdì.",
+  "options": [
+   "entro",
+   "durante",
+   "da",
+   "fa"
+  ],
+  "answer": 0,
+  "explain": "entro = by (a deadline).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-17n308z",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Vado in vacanza ---- agosto.",
+  "options": [
+   "da",
+   "su",
+   "di",
+   "ad"
+  ],
+  "answer": 3,
+  "explain": "\"ad agosto\" (a becomes ad before a vowel).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-180ds30",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Ho un amico ---- parla cinque lingue.",
+  "options": [
+   "dove",
+   "che",
+   "chi",
+   "cui"
+  ],
+  "answer": 1,
+  "explain": "Subject of \"parla\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-18vgh75",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Abbiamo vissuto a Londra ---- cinque anni.",
+  "options": [
+   "fa",
+   "da",
+   "tra",
+   "per"
+  ],
+  "answer": 3,
+  "explain": "A completed period in the past → per.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-19h0cgi",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "È nata ---- marzo.",
+  "options": [
+   "su",
+   "da",
+   "a",
+   "di"
+  ],
+  "answer": 2,
+  "explain": "\"a marzo\" = in March.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1bexovi",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "L'esame è ---- tre giorni.",
+  "options": [
+   "fa",
+   "fra",
+   "da",
+   "durante"
+  ],
+  "answer": 1,
+  "explain": "fra + period = in (future).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1bvf4l4",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Questo libro è più interessante ---- quello.",
+  "options": [
+   "come",
+   "che",
+   "di",
+   "da"
+  ],
+  "answer": 2,
+  "explain": "Comparing two things → più... di.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1ccjcrk",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Questo esercizio è più facile ---- credevo.",
+  "options": [
+   "che",
+   "da",
+   "di cui",
+   "di quanto"
+  ],
+  "answer": 3,
+  "explain": "Before a clause: più... di quanto + verb.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1efl3cx",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "La signora ---- ti ho presentato è la direttrice.",
+  "options": [
+   "chi",
+   "che",
+   "cui",
+   "dove"
+  ],
+  "answer": 1,
+  "explain": "Direct object of \"ti ho presentato\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1eivxxq",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Ho più amici ---- parenti.",
+  "options": [
+   "di",
+   "che",
+   "a",
+   "da"
+  ],
+  "answer": 1,
+  "explain": "Comparing two nouns (amici / parenti) → più... che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1ekqrt",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Marco corre ---- veloce di me.",
+  "options": [
+   "così",
+   "tanto",
+   "molto",
+   "più"
+  ],
+  "answer": 3,
+  "explain": "più veloce di me = faster than me.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1fdgywo",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Studio tanto ---- te.",
+  "options": [
+   "di",
+   "che",
+   "quanto",
+   "da"
+  ],
+  "answer": 2,
+  "explain": "\"tanto quanto\" = as much as.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1g8c6vc",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Ci vediamo ---- due settimane.",
+  "options": [
+   "durante",
+   "fa",
+   "da",
+   "tra"
+  ],
+  "answer": 3,
+  "explain": "tra + period = in (future).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1hopkgc",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Giulia è ---- alta di Anna.",
+  "options": [
+   "molto",
+   "tanto",
+   "così",
+   "meno"
+  ],
+  "answer": 3,
+  "explain": "meno alta di Anna = less tall than Anna.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1id070f",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Non ci vediamo ---- molto tempo.",
+  "options": [
+   "fa",
+   "durante",
+   "tra",
+   "da"
+  ],
+  "answer": 3,
+  "explain": "da + period = for a long time (still true).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1kktayo",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Il treno parte ---- dieci minuti.",
+  "options": [
+   "da",
+   "tra",
+   "durante",
+   "fa"
+  ],
+  "answer": 1,
+  "explain": "tra + period = in ten minutes.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1m9voyi",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Preferisco il mare ---- montagna.",
+  "options": [
+   "dalla",
+   "alla",
+   "della",
+   "nella"
+  ],
+  "answer": 1,
+  "explain": "preferire A = to prefer (one) to (another).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1nkqfmd",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "La ragazza ---- abita qui è mia amica.",
+  "options": [
+   "cui",
+   "chi",
+   "che",
+   "dove"
+  ],
+  "answer": 2,
+  "explain": "Subject of \"abita\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1p8l7pa",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Sta ---- di ieri.",
+  "options": [
+   "meglio",
+   "più buono",
+   "migliore",
+   "più bene"
+  ],
+  "answer": 0,
+  "explain": "Comparative of the adverb bene = meglio.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1qcskxx",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Oggi il tempo è ---- di ieri.",
+  "options": [
+   "molto male",
+   "peggiore",
+   "più mal",
+   "più male"
+  ],
+  "answer": 1,
+  "explain": "Comparative of cattivo = peggiore.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1qcy9uq",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Penso ---- sia una buona idea.",
+  "options": [
+   "chi",
+   "che",
+   "dove",
+   "cui"
+  ],
+  "answer": 1,
+  "explain": "\"Penso che\" = I think that (conjunction).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1qrqs5r",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Non so ---- sia venuto.",
+  "options": [
+   "chi",
+   "ci",
+   "cosa",
+   "cui"
+  ],
+  "answer": 0,
+  "explain": "chi = who (an unknown person).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1ri0spo",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Ho incontrato Marco tre giorni ----.",
+  "options": [
+   "dopo",
+   "fa",
+   "da",
+   "durante"
+  ],
+  "answer": 1,
+  "explain": "period + fa = ago.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1tdskwa",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Lui parla italiano ---- di me.",
+  "options": [
+   "meglio",
+   "più buono",
+   "migliore",
+   "più bene"
+  ],
+  "answer": 0,
+  "explain": "Adverb comparative: meglio di me.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1tukisg",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Le scarpe ---- ho comprato ieri sono nuove.",
+  "options": [
+   "dove",
+   "cui",
+   "che",
+   "chi"
+  ],
+  "answer": 2,
+  "explain": "Direct object of \"ho comprato\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1ur8yhg",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Lavoro qui ---- gennaio.",
+  "options": [
+   "tra",
+   "fa",
+   "durante",
+   "da"
+  ],
+  "answer": 3,
+  "explain": "da + starting point = since.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1vpyg0i",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "---- aver mangiato, sono uscito.",
+  "options": [
+   "Prima",
+   "Da",
+   "Durante",
+   "Dopo"
+  ],
+  "answer": 3,
+  "explain": "dopo + aver + participle = after having...",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1wlbfd4",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Marco è partito una settimana ----.",
+  "options": [
+   "da",
+   "fa",
+   "durante",
+   "tra"
+  ],
+  "answer": 1,
+  "explain": "period + fa = ago.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1xsvxm3",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Credo ---- Marco sia a casa.",
+  "options": [
+   "che",
+   "cui",
+   "chi",
+   "dove"
+  ],
+  "answer": 0,
+  "explain": "\"Credo che\" = I believe that.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1xzokt6",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Il professore ---- insegna italiano è molto bravo.",
+  "options": [
+   "chi",
+   "dove",
+   "cui",
+   "che"
+  ],
+  "answer": 3,
+  "explain": "Subject of \"insegna\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-1y3k089",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Ho dormito ---- il film.",
+  "options": [
+   "tra",
+   "da",
+   "fa",
+   "durante"
+  ],
+  "answer": 3,
+  "explain": "durante = during.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-2cs7uk",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "---- la guerra, la città era distrutta.",
+  "options": [
+   "Da",
+   "Fa",
+   "Dopo",
+   "Fra"
+  ],
+  "answer": 2,
+  "explain": "dopo = after.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-4c8lai",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "---- le vacanze ho letto molto.",
+  "options": [
+   "Fa",
+   "Da",
+   "Durante",
+   "Entro"
+  ],
+  "answer": 2,
+  "explain": "durante = during.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-4sl67f",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Il libro ---- ho letto è molto bello.",
+  "options": [
+   "cosa",
+   "cui",
+   "chi",
+   "che"
+  ],
+  "answer": 3,
+  "explain": "Direct object of \"ho letto\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-57o6tx",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "La macchina ---- ha comprato Marco è rossa.",
+  "options": [
+   "dove",
+   "cui",
+   "che",
+   "chi"
+  ],
+  "answer": 2,
+  "explain": "Direct object of \"ha comprato\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-60o2po",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Maria è così intelligente ---- bella.",
+  "options": [
+   "da",
+   "quanto",
+   "che",
+   "di"
+  ],
+  "answer": 1,
+  "explain": "\"così... quanto\" = as... as.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-61vxrs",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Questa borsa è ---- cara che bella.",
+  "options": [
+   "tanto",
+   "più",
+   "così",
+   "molto"
+  ],
+  "answer": 1,
+  "explain": "Comparing two adjectives of the same noun → più... che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-6dkfjy",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Il ragazzo ---- vedi laggiù è mio fratello.",
+  "options": [
+   "che",
+   "cui",
+   "dove",
+   "chi"
+  ],
+  "answer": 0,
+  "explain": "Direct object of \"vedi\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-8q2jkb",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "So ---- hai ragione.",
+  "options": [
+   "cui",
+   "che",
+   "chi",
+   "dove"
+  ],
+  "answer": 1,
+  "explain": "\"So che\" = I know that.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-9mws9o",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Questo vino è ---- buono del tuo.",
+  "options": [
+   "più",
+   "così",
+   "tanto",
+   "molto"
+  ],
+  "answer": 0,
+  "explain": "\"più buono del tuo\" = better than yours (più... di).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-bfg9d1",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Gli amici ---- ho invitato sono arrivati.",
+  "options": [
+   "cui",
+   "dove",
+   "chi",
+   "che"
+  ],
+  "answer": 3,
+  "explain": "Direct object of \"ho invitato\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-cdvcsn",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Le persone ---- lavorano qui sono gentili.",
+  "options": [
+   "che",
+   "dove",
+   "chi",
+   "cui"
+  ],
+  "answer": 0,
+  "explain": "Subject of \"lavorano\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-dcovrs",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Si è laureato ---- 2015.",
+  "options": [
+   "nel",
+   "al",
+   "del",
+   "dal"
+  ],
+  "answer": 0,
+  "explain": "in + year → nel 2015.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-e5o4lp",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Il giornale ---- leggo ogni giorno costa un euro.",
+  "options": [
+   "dove",
+   "che",
+   "chi",
+   "cui"
+  ],
+  "answer": 1,
+  "explain": "Direct object of \"leggo\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-es9uux",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Ecco la casa ---- ho comprato.",
+  "options": [
+   "chi",
+   "dove",
+   "che",
+   "cui"
+  ],
+  "answer": 2,
+  "explain": "Direct object of \"ho comprato\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-f08fjp",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Lavoro più ore ---- mio fratello.",
+  "options": [
+   "a",
+   "da",
+   "che",
+   "di"
+  ],
+  "answer": 3,
+  "explain": "Comparing two people → più... di.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-i8d1g8",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "In estate fa più caldo ---- in inverno.",
+  "options": [
+   "che",
+   "da",
+   "a",
+   "di"
+  ],
+  "answer": 0,
+  "explain": "Comparing two prepositional phrases (in estate / in inverno) → più... che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-kkx9sl",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "È importante ---- tutti partecipino.",
+  "options": [
+   "dove",
+   "che",
+   "cui",
+   "chi"
+  ],
+  "answer": 1,
+  "explain": "\"È importante che\" + congiuntivo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-m5z3i",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Sono arrivato due ore ----.",
+  "options": [
+   "da",
+   "durante",
+   "fa",
+   "dopo"
+  ],
+  "answer": 2,
+  "explain": "period + fa = ago.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-nut98m",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Il mio telefono è meno caro ---- tuo.",
+  "options": [
+   "del",
+   "dal",
+   "al",
+   "che"
+  ],
+  "answer": 0,
+  "explain": "meno... di + il → del.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-o47wsr",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Marco è più alto ---- Luca.",
+  "options": [
+   "di",
+   "che",
+   "a",
+   "da"
+  ],
+  "answer": 0,
+  "explain": "Comparing two people/things → più... di.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-ovhzba",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "---- un mese ritorno a casa.",
+  "options": [
+   "Tra",
+   "Da",
+   "Durante",
+   "Fa"
+  ],
+  "answer": 0,
+  "explain": "tra + period = in a month (future).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-qk6hzq",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "---- cosa fai stasera?",
+  "options": [
+   "Chi",
+   "Cui",
+   "Che",
+   "Dove"
+  ],
+  "answer": 2,
+  "explain": "\"Che cosa\" = what.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-sep4i2",
+  "section": "drill",
+  "topic": "lesson.2.10",
+  "level": 2,
+  "prompt": "Lava le mani ---- mangiare.",
+  "options": [
+   "da",
+   "prima di",
+   "fra",
+   "dopo di"
+  ],
+  "answer": 1,
+  "explain": "prima di + infinitive = before doing.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-tk72hv",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Dico ---- è vero.",
+  "options": [
+   "chi",
+   "che",
+   "dove",
+   "cui"
+  ],
+  "answer": 1,
+  "explain": "\"Dico che\" = I say that.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-tovr97",
+  "section": "drill",
+  "topic": "lesson.2.8",
+  "level": 2,
+  "prompt": "Mi piace più leggere ---- scrivere.",
+  "options": [
+   "di",
+   "da",
+   "a",
+   "che"
+  ],
+  "answer": 3,
+  "explain": "Comparing two infinitives → più... che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-w7nveq",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "Ho visto un film ---- mi è piaciuto molto.",
+  "options": [
+   "chi",
+   "che",
+   "cui",
+   "dove"
+  ],
+  "answer": 1,
+  "explain": "Subject of \"mi è piaciuto\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "h-ygequq",
+  "section": "drill",
+  "topic": "lesson.2.7",
+  "level": 2,
+  "prompt": "---- studia impara.",
+  "options": [
+   "Chi",
+   "Che",
+   "Cui",
+   "Dove"
+  ],
+  "answer": 0,
+  "explain": "chi = he who / whoever.",
+  "source": "hand",
+  "verified": true
  }
 ]

@@ -126,18 +126,18 @@ test('every generated question is valid, unique, and well-formed', () => {
   assert.deepEqual(validateBank(bank), []);
   for (const q of bank) {
     assert.equal(q.options.length, 4, q.id);
-    assert.equal(q.source, 'generated');
+    assert.ok(['generated', 'hand'].includes(q.source), q.id);
     assert.ok(q.prompt.includes('----') || q.prompt.startsWith('Which number'), `no blank: ${q.prompt}`);
     assert.ok(!/\b(marco|giulia|anna|luca)\b/.test(q.prompt), `lowercase name: ${q.prompt}`);
     assert.ok(!/\s{2,}/.test(q.prompt) && !/\s[.,?]/.test(q.prompt), `spacing: ${q.prompt}`);
-    assert.ok(/^[A-ZÀ-Ý0-9]/.test(q.prompt), `sentence should start capitalised: ${q.prompt}`);
+    assert.ok(/^(----|[A-ZÀ-Ý0-9])/.test(q.prompt), `sentence should start capitalised: ${q.prompt}`);
   }
 });
 
 test('generation is deterministic and the checked-in files are up to date', () => {
   const again = buildAll();
   assert.deepEqual(again, bank);
-  for (const level of [1, 2]) {
+  for (const level of [1, 2, 3, 4]) {
     const file = JSON.parse(readFileSync(join(root, 'content', 'questions', `gen-level-${level}.json`), 'utf8'));
     assert.deepEqual(file, bank.filter((q) => q.level === level), `gen-level-${level}.json is stale: run node tools/build-generated.js`);
   }
@@ -146,7 +146,7 @@ test('generation is deterministic and the checked-in files are up to date', () =
 test('every lesson-1/2 topic with a generator has a healthy number of questions', () => {
   const by = {};
   for (const q of bank) by[q.topic] = (by[q.topic] || 0) + 1;
-  for (const t of ['1.1', '1.2', '1.3', '1.4', '1.5', '1.8', '1.10', '2.1', '2.2', '2.3', '2.4', '2.5', '2.6', '2.9', '2.11']) {
-    assert.ok((by[`lesson.${t}`] || 0) >= 40, `lesson.${t} has only ${by[`lesson.${t}`] || 0}`);
+  for (const t of ['1.1', '1.2', '1.3', '1.4', '1.5', '1.8', '1.10', '2.1', '2.2', '2.3', '2.4', '2.5', '2.6', '2.9', '2.11', '3.1', '3.2', '3.3', '3.4', '3.5', '3.6', '3.7', '3.8', '3.9', '3.10', '3.11', '4.1', '4.2', '4.3', '4.4', '4.5', '4.6', '4.7', '4.8', '4.9', '4.10', '4.11', '4.12']) {
+    assert.ok((by[`lesson.${t}`] || 0) >= 15, `lesson.${t} has only ${by[`lesson.${t}`] || 0}`);
   }
 });

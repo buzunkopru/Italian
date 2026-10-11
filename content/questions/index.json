@@ -2,6 +2,8 @@
  "files": [
   "gen-level-1.json",
   "gen-level-2.json",
+  "gen-level-3.json",
+  "gen-level-4.json",
   "seed-v1.json",
   "tatoeba-cloze.json"
  ]
