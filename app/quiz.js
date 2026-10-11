@@ -9,7 +9,10 @@ const blankHtml = (text, state = '') =>
 
 function promptHtml(q, fill, state) {
   const safe = esc(q.prompt);
-  return safe.includes('----') ? safe.replace('----', blankHtml(fill, state)) : safe;
+  if (!safe.includes('----')) return safe;
+  // "all'" + " uomo" reads "all'uomo": drop the space after an apostrophe
+  const joinNext = fill && /['’]$/.test(fill);
+  return safe.replace(joinNext ? /---- ?/ : /----/, blankHtml(fill, state));
 }
 
 /**

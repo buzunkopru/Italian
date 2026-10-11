@@ -1,4 +1,4 @@
-{
+﻿{
   "name": "mille-yds-italiano",
   "version": "2.0.0",
   "private": true,
@@ -8,7 +8,10 @@
     "test": "node --test \"tests/*.test.js\"",
     "validate": "node tools/validate.js",
     "index": "node tools/build-index.js",
+    "gen": "node tools/build-generated.js && node tools/build-index.js",
+    "sample": "node tools/sample.js",
     "import": "node tools/import-v1.js",
     "serve": "node tools/serve.js"
   }
 }
+

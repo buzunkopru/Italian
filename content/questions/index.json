@@ -1,5 +1,7 @@
 {
  "files": [
+  "gen-level-1.json",
+  "gen-level-2.json",
   "seed-v1.json"
  ]
 }
