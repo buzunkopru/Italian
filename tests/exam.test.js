@@ -7,6 +7,8 @@ import { validateBank } from '../engine/schema.js';
 import { buildExam } from '../tools/build-exam.js';
 import { EXAM_VOCAB } from '../generators/handwritten/exam-vocab.js';
 import { EXAM_CLOZE_PASSAGES } from '../generators/handwritten/exam-cloze.js';
+import { EXAM_DIALOGUE } from '../generators/handwritten/exam-dialogue.js';
+import { EXAM_PARAPHRASE } from '../generators/handwritten/exam-paraphrase.js';
 import { EXAM_COMPLETION } from '../generators/handwritten/exam-completion.js';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -15,10 +17,11 @@ const bank = buildExam();
 test('exam questions are valid exam-section items with 5 options', () => {
   assert.deepEqual(validateBank(bank), []);
   for (const q of bank) {
-    assert.ok(['vocab', 'cloze', 'completion'].includes(q.section), q.id);
+    assert.ok(['vocab', 'cloze', 'completion', 'dialogue', 'paraphrase'].includes(q.section), q.id);
     assert.equal(q.options.length, 5, q.id);
     assert.equal(q.verified, true);
-    assert.equal(q.prompt.split('----').length, 2, `exactly one blank: ${q.prompt}`);
+    if (q.section !== 'paraphrase') assert.equal(q.prompt.split('----').length, 2, `exactly one blank: ${q.prompt}`);
+    else assert.ok(!q.prompt.includes('----'), q.prompt);
     assert.ok(!/[{}]/.test(q.prompt), `unfilled placeholder: ${q.prompt}`);
     assert.ok(!/\s{2,}/.test(q.prompt) && !/\s[.,;:?]/.test(q.prompt), `spacing: ${q.prompt}`);
   }
@@ -38,6 +41,20 @@ test('every completion item has one blank and 4 distinct wrong answers', () => {
     assert.ok([3, 4].includes(level), prompt);
     assert.equal(wrong.length, 4, prompt);
     assert.equal(new Set([answer, ...wrong].map((o) => o.toLowerCase())).size, 5, `duplicate option: ${prompt}`);
+  }
+});
+
+test('dialogue items alternate A:/B: with the blank on a B line; paraphrase items are distinct sentences', () => {
+  for (const [, prompt, answer, wrong] of EXAM_DIALOGUE) {
+    const lines = prompt.split('\n');
+    assert.ok(lines.every((l) => /^[AB]: /.test(l)), prompt);
+    assert.ok(lines.some((l) => l.startsWith('B: ----')), prompt);
+    assert.equal(new Set([answer, ...wrong].map((o) => o.toLowerCase())).size, 5, prompt);
+  }
+  for (const [, sentence, answer, wrong] of EXAM_PARAPHRASE) {
+    assert.equal(wrong.length, 4, sentence);
+    assert.ok(![answer, ...wrong].includes(sentence), `option repeats the stem: ${sentence}`);
+    assert.equal(new Set([answer, ...wrong].map((o) => o.toLowerCase())).size, 5, sentence);
   }
 });
 

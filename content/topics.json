@@ -5,5 +5,7 @@
   "cloze.verbs": "Cloze: verb forms with a subject",
   "exam.vocab": "Exam: vocabulary in context",
   "exam.cloze": "Exam: passage cloze",
-  "exam.completion": "Exam: sentence completion"
+  "exam.completion": "Exam: sentence completion",
+  "exam.dialogue": "Exam: dialogue completion",
+  "exam.paraphrase": "Exam: paraphrase"
 }

@@ -3,6 +3,8 @@
 import { EXAM_VOCAB } from './handwritten/exam-vocab.js';
 import { EXAM_CLOZE_PASSAGES } from './handwritten/exam-cloze.js';
 import { EXAM_COMPLETION } from './handwritten/exam-completion.js';
+import { EXAM_DIALOGUE } from './handwritten/exam-dialogue.js';
+import { EXAM_PARAPHRASE } from './handwritten/exam-paraphrase.js';
 import { hash } from './util.js';
 import { shuffle } from '../engine/picker.js';
 
@@ -50,6 +52,18 @@ export function completionQuestions(rng) {
     build({ section: 'completion', topic: 'exam.completion', level, prompt, answer, wrong, explain, rng, tag: 'k' }));
 }
 
+export function dialogueQuestions(rng) {
+  return EXAM_DIALOGUE.map(([level, prompt, answer, wrong, explain]) =>
+    build({ section: 'dialogue', topic: 'exam.dialogue', level, prompt, answer, wrong, explain, rng, tag: 'd' }));
+}
+
+export const PARAPHRASE_LEAD = 'Closest in meaning:';
+
+export function paraphraseQuestions(rng) {
+  return EXAM_PARAPHRASE.map(([level, sentence, answer, wrong, explain]) =>
+    build({ section: 'paraphrase', topic: 'exam.paraphrase', level, prompt: `${PARAPHRASE_LEAD}\n${sentence}`, answer, wrong, explain, rng, tag: 'p' }));
+}
+
 export function generate(rng) {
-  return [...vocabQuestions(rng), ...clozeQuestions(rng), ...completionQuestions(rng)];
+  return [...vocabQuestions(rng), ...clozeQuestions(rng), ...completionQuestions(rng), ...dialogueQuestions(rng), ...paraphraseQuestions(rng)];
 }

@@ -3526,5 +3526,1085 @@
   "explain": "Chiunque + congiuntivo: bussi.",
   "source": "hand",
   "verified": true
+ },
+ {
+  "id": "x-d-18upgi9",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 2,
+  "prompt": "A: Buongiorno, vorrei un caffè, per favore.\nB: ----\nA: No, grazie, è tutto.",
+  "options": [
+   "Mi dispiace, non parlo inglese.",
+   "Prego, si accomodi pure.",
+   "Sono le tre e mezza.",
+   "Il conto è di dieci euro, grazie.",
+   "Certo. Desidera altro?"
+  ],
+  "answer": 4,
+  "explain": "A turns down more, so B must have asked whether A wanted anything else.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-pbfbik",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 2,
+  "prompt": "A: Scusi, sa dov'è la stazione?\nB: ----\nA: Grazie mille, buona giornata!",
+  "options": [
+   "Costa venti euro.",
+   "Domani parto per Roma.",
+   "No, non ho fame.",
+   "Mi chiamo Luca.",
+   "Sì, vada dritto e poi giri a destra."
+  ],
+  "answer": 4,
+  "explain": "A thanks B for directions, so B gave directions.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-vuehy1",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Pronto, posso parlare con la dottoressa Rossi?\nB: ----\nA: Va bene, richiamo più tardi.",
+  "options": [
+   "Sì, è qui accanto a me, un attimo.",
+   "Certo, si accomodi.",
+   "Certo, glielo passo subito.",
+   "Mi dispiace, in questo momento non c'è.",
+   "Sì, sono io, dica pure."
+  ],
+  "answer": 3,
+  "explain": "\"richiamo più tardi\" means she was not available.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-28r6dc",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 2,
+  "prompt": "A: Ti è piaciuto il film?\nB: ----\nA: Davvero? A me è sembrato bellissimo!",
+  "options": [
+   "Sì, mi è piaciuto tantissimo.",
+   "Certo, ci vado domani.",
+   "Sì, lo rivedrei volentieri.",
+   "Moltissimo, è il migliore dell'anno.",
+   "Per niente, l'ho trovato noioso."
+  ],
+  "answer": 4,
+  "explain": "\"Davvero?\" shows surprise: B disliked it, A did not.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-iss0ov",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 2,
+  "prompt": "A: Hai già fatto i compiti?\nB: ----\nA: Allora spegni la televisione e mettiti a studiare!",
+  "options": [
+   "Sì, ho finito tutto.",
+   "Sì, e anche quelli di domani.",
+   "Sì, li ho finiti un'ora fa.",
+   "Certo, ho già consegnato tutto.",
+   "Non ancora, li farò dopo cena."
+  ],
+  "answer": 4,
+  "explain": "A tells B to start studying, so B has not done them yet.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-11s9ob9",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Mi dispiace molto di averti fatto aspettare.\nB: ----\nA: Grazie per la comprensione.",
+  "options": [
+   "Sono molto arrabbiato con te.",
+   "Ma come ti permetti? Sono qui da due ore!",
+   "Non c'è problema, sono arrivato da poco.",
+   "Mi hai fatto perdere il treno!",
+   "Non ti perdonerò mai."
+  ],
+  "answer": 2,
+  "explain": "A thanks B for understanding, so B was gracious.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-kqdw7h",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Come mai sei in ritardo?\nB: ----\nA: Capisco, succede spesso con questo traffico.",
+  "options": [
+   "Perché mi sono svegliato presto.",
+   "Perché non mi piace il lavoro.",
+   "Ho dimenticato le chiavi a casa.",
+   "Il capo mi ha chiamato in ufficio.",
+   "Mi dispiace, c'era un incidente sulla tangenziale."
+  ],
+  "answer": 4,
+  "explain": "A mentions traffic, so B blamed the road.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-1o2fw40",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Che ne dici di andare al cinema stasera?\nB: ----\nA: Peccato, sarà per un'altra volta.",
+  "options": [
+   "Va bene, passo a prenderti alle otto.",
+   "Volentieri, a che ora ci vediamo?",
+   "Certo, non vedo l'ora!",
+   "Ottima idea, scelgo io il film!",
+   "Mi piacerebbe, ma devo studiare."
+  ],
+  "answer": 4,
+  "explain": "\"Peccato\" shows B declined.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-k8la0m",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 4,
+  "prompt": "A: Potrebbe spiegarmi come funziona questa macchina?\nB: ----\nA: Perfetto, ora è chiaro. Grazie.",
+  "options": [
+   "Non so, chieda a qualcun altro.",
+   "No, non posso aiutarla.",
+   "Mi dispiace, non lavoro qui.",
+   "Purtroppo la macchina è fuori servizio.",
+   "Certamente: prima si inserisce la tessera, poi si preme il pulsante verde."
+  ],
+  "answer": 4,
+  "explain": "\"ora è chiaro\" means B explained it.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-1timsbz",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Quanto costa questa giacca?\nB: ----\nA: È un po' troppo per me. Ce n'è una meno cara?",
+  "options": [
+   "Duecento euro, è in saldo.",
+   "Costa pochissimo, quasi niente.",
+   "Soltanto dieci euro, è un'occasione.",
+   "Non costa niente, è un regalo.",
+   "Costa meno di tutte le altre."
+  ],
+  "answer": 0,
+  "explain": "A finds it too expensive, so the price must be high.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-lledl9",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Secondo me dovremmo aspettare ancora un po'.\nB: ----\nA: Hai ragione, non c'è fretta.",
+  "options": [
+   "Sbagli, aspettare è inutile.",
+   "Sono d'accordo, è meglio non avere fretta.",
+   "Assolutamente no, è troppo tardi.",
+   "Ma che dici? Dobbiamo correre!",
+   "Non sono affatto d'accordo, partiamo subito."
+  ],
+  "answer": 1,
+  "explain": "\"non c'è fretta\" fits B agreeing about patience.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-1oo7su7",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 2,
+  "prompt": "A: Ti dispiace se apro la finestra?\nB: ----\nA: Grazie, qui dentro si soffoca.",
+  "options": [
+   "No, fai pure.",
+   "Non ti ho chiesto niente.",
+   "Prego, accomodati.",
+   "Sì, certo che mi dispiace.",
+   "Sì, chiudila subito."
+  ],
+  "answer": 0,
+  "explain": "\"Ti dispiace se…?\" is answered \"No, fai pure\" to mean yes, go ahead; A then thanks B.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-eqmz64",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Vorrei prenotare un tavolo per quattro persone.\nB: ----\nA: Alle otto e mezza va benissimo.",
+  "options": [
+   "Quanti anni hanno i bambini?",
+   "Che cosa vuole bere?",
+   "Di che colore è la macchina?",
+   "Dove si trova l'albergo?",
+   "Per che ora desidera prenotare?"
+  ],
+  "answer": 4,
+  "explain": "A answers with a time, so B asked about the time.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-l6s45z",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 4,
+  "prompt": "A: Non capisco perché tu sia così arrabbiato.\nB: ----\nA: Hai ragione, non ci avevo pensato. Scusami.",
+  "options": [
+   "Perché hai parlato di me senza il mio permesso.",
+   "Perché oggi è domenica.",
+   "Non sono arrabbiato, sono felicissimo.",
+   "Perché fa bel tempo.",
+   "Perché ho mangiato troppo."
+  ],
+  "answer": 0,
+  "explain": "A apologises, so B gave a real reason.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-8wioe5",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Il suo ordine è stato spedito ieri.\nB: ----\nA: Domani dovrebbe arrivare, non si preoccupi.",
+  "options": [
+   "Non ho mai ordinato niente.",
+   "Ho annullato l'ordine.",
+   "Perché non l'avete spedito?",
+   "Quando pensa che arriverà?",
+   "L'ho già ricevuto stamattina."
+  ],
+  "answer": 3,
+  "explain": "A gives an arrival date, so B asked when it would arrive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-11okdvw",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 4,
+  "prompt": "A: Non so se accettare il nuovo lavoro: lo stipendio è più alto, ma dovrei trasferirmi.\nB: ----\nA: Hai ragione, devo valutare tutti gli aspetti.",
+  "options": [
+   "Non devi decidere niente.",
+   "Rifiuta, non ci pensare nemmeno.",
+   "Non è importante quanto guadagni.",
+   "Prima di decidere, pensa ai pro e ai contro.",
+   "Accetta subito senza pensarci."
+  ],
+  "answer": 3,
+  "explain": "\"valutare tutti gli aspetti\" answers advice to weigh up pros and cons.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-tgs1p3",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Hai visto Paolo oggi?\nB: ----\nA: Strano, di solito lo vedo sempre in biblioteca.",
+  "options": [
+   "Sì, siamo andati in biblioteca insieme.",
+   "Sì, abbiamo studiato insieme.",
+   "Certo, l'ho incontrato proprio lì.",
+   "Sì, era in biblioteca tutto il giorno.",
+   "No, non l'ho visto per niente."
+  ],
+  "answer": 4,
+  "explain": "\"Strano\" shows Paolo was absent.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-q76qoe",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 2,
+  "prompt": "A: Che cosa prendete da bere?\nB: ----\nA: Perfetto, arrivano subito.",
+  "options": [
+   "Siamo in quattro.",
+   "Il menù è sul tavolo.",
+   "Due acque e un vino rosso, per favore.",
+   "Il conto, per favore.",
+   "Abbiamo prenotato per le otto."
+  ],
+  "answer": 2,
+  "explain": "A promises drinks, so B ordered drinks.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-1e1x0as",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Mi sai dire a che ora parte il prossimo treno per Milano?\nB: ----\nA: Allora faccio in tempo a prendere un caffè.",
+  "options": [
+   "Parte tra due minuti, corri!",
+   "Parte tra venti minuti, dal binario cinque.",
+   "È già partito da un'ora.",
+   "Non ci sono più treni oggi.",
+   "È appena partito, il prossimo è domani."
+  ],
+  "answer": 1,
+  "explain": "A has time for a coffee, so there is a wait of some minutes.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-1kn1h9f",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 4,
+  "prompt": "A: Buongiorno, ho un problema con il mio abbonamento: mi hanno addebitato due volte lo stesso importo.\nB: ----\nA: La ringrazio, attendo la vostra risposta.",
+  "options": [
+   "Lei ha ragione a non pagare mai.",
+   "Il suo conto è in regola e non c'è altro da dire.",
+   "Non esistono abbonamenti con noi.",
+   "Non è un nostro problema.",
+   "Ci scusiamo per l'errore: verificheremo e la ricontatteremo entro domani."
+  ],
+  "answer": 4,
+  "explain": "A waits for an answer, so B promised to look into it.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-hmyjhn",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 2,
+  "prompt": "A: Come stai oggi?\nB: ----\nA: Mi dispiace. Prendi una medicina?",
+  "options": [
+   "Non molto bene, ho mal di testa.",
+   "Benissimo, grazie!",
+   "Mai stato meglio.",
+   "Sto alla grande.",
+   "Sono felicissimo oggi."
+  ],
+  "answer": 0,
+  "explain": "A is sorry and asks about medicine, so B is unwell.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-y4d074",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 2,
+  "prompt": "A: Di dove sei?\nB: ----\nA: Che bella città! Ci sono stato l'anno scorso.",
+  "options": [
+   "Faccio l'ingegnere.",
+   "Sto bene, grazie.",
+   "Ho trent'anni.",
+   "Sono di Firenze.",
+   "Mi chiamo Paolo."
+  ],
+  "answer": 3,
+  "explain": "A comments on a city, so B named a city.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-4wwii2",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Hai intenzione di partecipare al convegno?\nB: ----\nA: Allora ci vediamo lì, farò un intervento anch'io.",
+  "options": [
+   "No, preferisco restare a casa.",
+   "Non so nemmeno cosa sia.",
+   "Sì, mi sono già iscritto.",
+   "No, non ho nessuna intenzione.",
+   "Purtroppo non posso venire."
+  ],
+  "answer": 2,
+  "explain": "\"ci vediamo lì\" means B is going.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-1d6hg5p",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 4,
+  "prompt": "A: Lei ha già letto il rapporto?\nB: ----\nA: Bene, allora possiamo cominciare la discussione.",
+  "options": [
+   "No, non ho ancora avuto tempo.",
+   "Purtroppo l'ho perso.",
+   "Sì, l'ho letto con attenzione ieri sera.",
+   "Non l'ho nemmeno aperto.",
+   "Nessuno me l'ha dato."
+  ],
+  "answer": 2,
+  "explain": "A can begin the discussion, so B has read it.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-qbvzas",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Possiamo spostare la riunione a giovedì?\nB: ----\nA: Perfetto, allora la fisso alle dieci.",
+  "options": [
+   "No, preferisco lunedì.",
+   "Per me va bene, giovedì sono libero.",
+   "Non possiamo, è già tutto fissato.",
+   "Mi dispiace, il giovedì non lavoro mai.",
+   "Giovedì è impossibile, sono in viaggio."
+  ],
+  "answer": 1,
+  "explain": "A fixes the time, so B accepted.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-qntu7e",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Cosa ne pensi del mio progetto?\nB: ----\nA: Grazie, terrò conto dei tuoi consigli.",
+  "options": [
+   "Non voglio dare nessun consiglio.",
+   "Non l'ho letto e non mi interessa.",
+   "Fai come vuoi, non voglio parlarne.",
+   "È interessante, ma secondo me manca qualche dato.",
+   "Non ti dirò mai cosa penso."
+  ],
+  "answer": 3,
+  "explain": "\"i tuoi consigli\" means B offered suggestions.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-1tf1897",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 4,
+  "prompt": "A: Peccato che non sia riuscito a vincere la gara.\nB: ----\nA: Hai ragione, l'importante è partecipare.",
+  "options": [
+   "Che bello, ha stravinto!",
+   "Doveva allenarsi di meno.",
+   "Meglio così, non lo meritava.",
+   "Non importa, ha fatto del suo meglio.",
+   "È colpa sua, non ha nemmeno provato."
+  ],
+  "answer": 3,
+  "explain": "\"l'importante è partecipare\" answers a consoling remark.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-10h32f8",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 2,
+  "prompt": "A: Quanti anni hai?\nB: ----\nA: Davvero? Sembri più giovane!",
+  "options": [
+   "Ho trentacinque anni.",
+   "Sono di Napoli.",
+   "Abito in centro.",
+   "Sono alto un metro e ottanta.",
+   "Ho due fratelli."
+  ],
+  "answer": 0,
+  "explain": "A comments on how young B looks, so B gave an age.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-18fp25b",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 3,
+  "prompt": "A: Scusi, è libero questo posto?\nB: ----\nA: Grazie, è molto gentile.",
+  "options": [
+   "Purtroppo è riservato.",
+   "Non lo so, chieda al controllore.",
+   "No, è occupato, mi dispiace.",
+   "Sì, prego, si sieda pure.",
+   "No, vada altrove."
+  ],
+  "answer": 3,
+  "explain": "A thanks B, so B let A sit.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-d-q56n9o",
+  "section": "dialogue",
+  "topic": "exam.dialogue",
+  "level": 4,
+  "prompt": "A: Non pensi che sarebbe meglio rimandare la decisione?\nB: ----\nA: Va bene, ne riparleremo la settimana prossima.",
+  "options": [
+   "Non c'è niente da discutere.",
+   "Assolutamente no, è già deciso.",
+   "Forse hai ragione: ci vuole più tempo per riflettere.",
+   "Dobbiamo firmare oggi stesso.",
+   "No, decidiamo subito e basta."
+  ],
+  "answer": 2,
+  "explain": "\"ne riparleremo\" means they agreed to postpone.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-vctuge",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nSebbene fosse stanco, ha finito il lavoro.",
+  "options": [
+   "Era stanco, perciò ha finito il lavoro.",
+   "Era stanco, ma ha finito il lavoro.",
+   "Poiché era stanco, non ha finito il lavoro.",
+   "Non era stanco e ha finito il lavoro.",
+   "Ha finito il lavoro perché era stanco."
+  ],
+  "answer": 1,
+  "explain": "sebbene = although: a contrast, so \"ma\" keeps it.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-15atcqq",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nNon ho potuto venire perché ero malato.",
+  "options": [
+   "Ero malato, perciò non sono potuto venire.",
+   "Se fossi stato malato, sarei venuto.",
+   "Ero malato, ma sono venuto lo stesso.",
+   "Sono venuto anche se ero malato.",
+   "Non sono venuto, benché fossi sano."
+  ],
+  "answer": 0,
+  "explain": "Cause and effect stay the same: illness → could not come.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1lp9a0t",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nSe avessi saputo, sarei venuto.",
+  "options": [
+   "Sapevo tutto, ma non sono venuto.",
+   "Non sono venuto perché non sapevo.",
+   "Verrò se lo saprò.",
+   "Sono venuto perché sapevo.",
+   "Non vengo se non lo so."
+  ],
+  "answer": 1,
+  "explain": "An unreal past hypothesis implies the opposite facts: he did not know, so he did not come.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-wzlp62",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nIl professore ha spiegato la lezione in modo che tutti capissero.",
+  "options": [
+   "Il professore non ha spiegato la lezione, quindi tutti hanno capito.",
+   "Tutti hanno capito prima che il professore spiegasse.",
+   "Il professore ha spiegato la lezione benché tutti capissero.",
+   "Il professore ha spiegato la lezione dopo che tutti avevano capito.",
+   "Il professore ha spiegato la lezione affinché tutti capissero."
+  ],
+  "answer": 4,
+  "explain": "\"in modo che\" + congiuntivo = \"affinché\": both express purpose.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1ahasn",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nNon solo è intelligente, ma anche molto gentile.",
+  "options": [
+   "È intelligente, però poco gentile.",
+   "È intelligente soltanto quando è gentile.",
+   "È gentile, ma per niente intelligente.",
+   "È intelligente e, in più, molto gentile.",
+   "Non è né intelligente né gentile."
+  ],
+  "answer": 3,
+  "explain": "\"non solo… ma anche\" adds a second quality.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1hvqxut",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nHa rinunciato al viaggio a causa del maltempo.",
+  "options": [
+   "Ha fatto il viaggio grazie al maltempo.",
+   "Il maltempo l'ha costretto a rinunciare al viaggio.",
+   "Ha rinunciato al viaggio prima del maltempo.",
+   "Il maltempo gli ha permesso di fare il viaggio.",
+   "Ha rinunciato al viaggio nonostante il maltempo."
+  ],
+  "answer": 1,
+  "explain": "The bad weather is the cause of giving up the trip.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-12ds6o3",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nAppena finito l'esame, siamo usciti a festeggiare.",
+  "options": [
+   "Dopo che l'esame è finito, siamo usciti subito a festeggiare.",
+   "Non siamo usciti a festeggiare dopo l'esame.",
+   "Siamo usciti a festeggiare benché l'esame non fosse finito.",
+   "Finché non è finito l'esame, siamo usciti a festeggiare.",
+   "Siamo usciti a festeggiare prima dell'esame."
+  ],
+  "answer": 0,
+  "explain": "The exam ended first, then they celebrated.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-qzp7kn",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nMi dispiace di non averti avvisato.",
+  "options": [
+   "Sono contento di non averti avvisato.",
+   "Mi dispiace che tu non mi abbia avvisato.",
+   "Ti ho avvisato, ma mi dispiace.",
+   "Mi dispiace, ti ho avvisato.",
+   "Mi dispiace perché non ti ho avvisato."
+  ],
+  "answer": 4,
+  "explain": "The speaker is sorry for their OWN failure to warn; the other options change who failed or what happened.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1cnvc1h",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nPer quanto si sforzi, non ci riesce.",
+  "options": [
+   "Poiché si sforza molto, ci riesce.",
+   "Non si sforza, ma ci riesce.",
+   "Ci riesce solo se si sforza.",
+   "Si sforza poco, perciò non ci riesce.",
+   "Anche se si sforza molto, non ci riesce."
+  ],
+  "answer": 4,
+  "explain": "\"per quanto\" + congiuntivo = however much, so a concession.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-36sblr",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nNessuno ha capito la spiegazione, tranne Marco.",
+  "options": [
+   "Marco ha spiegato a tutti e tutti hanno capito.",
+   "Marco non ha capito la spiegazione, ma gli altri sì.",
+   "Tutti hanno capito la spiegazione tranne Luca.",
+   "Nessuno ha capito, nemmeno Marco.",
+   "Soltanto Marco ha capito la spiegazione."
+  ],
+  "answer": 4,
+  "explain": "tranne Marco = only Marco understood.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-qxilqv",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nLa riunione è stata rimandata al mese prossimo.",
+  "options": [
+   "Hanno anticipato la riunione al mese prossimo.",
+   "Hanno spostato la riunione al mese prossimo.",
+   "Hanno cancellato la riunione per sempre.",
+   "La riunione si è svolta il mese scorso.",
+   "Hanno confermato la riunione per oggi."
+  ],
+  "answer": 1,
+  "explain": "rimandare = postpone; anticipare would move it earlier.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1l6clge",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nSe non studi, non supererai l'esame.",
+  "options": [
+   "Non devi superare l'esame se studi.",
+   "Supererai l'esame anche senza studiare.",
+   "Non studiare è il modo migliore per superare l'esame.",
+   "Per superare l'esame devi studiare.",
+   "Hai già superato l'esame studiando."
+  ],
+  "answer": 3,
+  "explain": "Studying is a necessary condition for passing.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1p7w2nx",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nA parte Anna, sono venuti tutti.",
+  "options": [
+   "Anna è venuta con tutti.",
+   "Nessuno è venuto, nemmeno Anna.",
+   "Tutti sono venuti, tranne Anna.",
+   "Sono venuti tutti, compresa Anna.",
+   "Solo Anna è venuta."
+  ],
+  "answer": 2,
+  "explain": "a parte = except; tranne = except.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-15j8njh",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nIl film era meno interessante di quanto pensassi.",
+  "options": [
+   "Il film era interessantissimo.",
+   "Non pensavo che il film esistesse.",
+   "Il film era più interessante di quanto pensassi.",
+   "Mi aspettavo un film più interessante.",
+   "Il film era interessante come pensavo."
+  ],
+  "answer": 3,
+  "explain": "Less interesting than expected = I expected something more interesting.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-8u3moa",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nPur avendo studiato molto, ha preso un voto basso.",
+  "options": [
+   "Ha studiato molto, eppure ha preso un voto basso.",
+   "Ha preso un voto basso, ma non ha studiato.",
+   "Ha studiato poco e ha preso un voto basso.",
+   "Ha studiato molto, quindi ha preso un voto alto.",
+   "Ha preso un voto basso perché ha studiato molto."
+  ],
+  "answer": 0,
+  "explain": "\"pur + gerundio\" = although: contrast kept by \"eppure\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1yw5xw9",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nÈ probabile che domani piova.",
+  "options": [
+   "Domani forse pioverà.",
+   "Ieri è piovuto molto.",
+   "Non pioverà mai più.",
+   "Domani sicuramente non pioverà.",
+   "Domani pioverà di sicuro."
+  ],
+  "answer": 0,
+  "explain": "\"È probabile che\" = it is likely; \"forse\" = perhaps. The others are certain or about another time.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1bpf536",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nHo smesso di fumare tre anni fa.",
+  "options": [
+   "Fra tre anni smetterò di fumare.",
+   "Fumo ancora, ma meno di tre anni fa.",
+   "Da tre anni non fumo più.",
+   "Fumo da tre anni.",
+   "Ho cominciato a fumare tre anni fa."
+  ],
+  "answer": 2,
+  "explain": "smettere di = to stop; \"da tre anni non… più\" = for three years no longer.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1k10eo1",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nLui è alto quanto me.",
+  "options": [
+   "Io e lui abbiamo la stessa altezza.",
+   "Io sono più alto di lui.",
+   "Lui è molto più basso di me.",
+   "Lui è più alto di me.",
+   "Lui non è alto come me."
+  ],
+  "answer": 0,
+  "explain": "tanto… quanto = as… as: equal height.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-14bxl5m",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nPrima di partire, ho chiuso tutte le finestre.",
+  "options": [
+   "Ho chiuso tutte le finestre e poi sono partito.",
+   "Non ho chiuso le finestre prima di partire.",
+   "Ho chiuso le finestre dopo essere partito.",
+   "Sono partito e poi ho chiuso le finestre.",
+   "Sono partito senza chiudere le finestre."
+  ],
+  "answer": 0,
+  "explain": "prima di = before: windows first, departure second.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-bbvy52",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nCi vorrebbe più tempo per finire il progetto.",
+  "options": [
+   "Il tempo non basta per finire il progetto.",
+   "Il progetto non richiede tempo.",
+   "Abbiamo troppo tempo per finire il progetto.",
+   "Il tempo è più che sufficiente per il progetto.",
+   "Il progetto è già finito."
+  ],
+  "answer": 0,
+  "explain": "\"ci vorrebbe più tempo\" = more time would be needed, so the time is not enough.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-mz1d3l",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nSono rimasto a casa, dato che pioveva.",
+  "options": [
+   "Sono rimasto a casa perché non pioveva.",
+   "Pioveva, ma sono uscito.",
+   "Sebbene piovesse, sono rimasto a casa.",
+   "Dopo che ha smesso di piovere, sono rimasto a casa.",
+   "Siccome pioveva, sono rimasto a casa."
+  ],
+  "answer": 4,
+  "explain": "dato che = siccome: the rain is the reason.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-2ko42n",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nAl posto di studiare, ha giocato a calcio.",
+  "options": [
+   "Ha studiato e poi ha giocato a calcio.",
+   "Ha studiato mentre giocava a calcio.",
+   "Ha giocato a calcio per studiare meglio.",
+   "Non ha studiato: ha giocato a calcio.",
+   "Non ha giocato a calcio perché studiava."
+  ],
+  "answer": 3,
+  "explain": "al posto di = instead of: he did not study.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-yvh3xb",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nLa mostra è aperta fino al 30 giugno.",
+  "options": [
+   "La mostra apre il 30 giugno.",
+   "La mostra non apre più il 30 giugno.",
+   "La mostra è aperta dopo il 30 giugno.",
+   "La mostra è chiusa fino al 30 giugno.",
+   "La mostra chiude il 30 giugno."
+  ],
+  "answer": 4,
+  "explain": "fino al = until: the 30th is the end.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1s6hosa",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nIl suo discorso è stato molto apprezzato dal pubblico.",
+  "options": [
+   "Il pubblico ha molto apprezzato il suo discorso.",
+   "Il pubblico non ha ascoltato il discorso.",
+   "Il pubblico ha criticato il suo discorso.",
+   "Il suo discorso ha apprezzato il pubblico.",
+   "Il discorso è stato apprezzato solo da lui."
+  ],
+  "answer": 0,
+  "explain": "Passive → active: the audience is the agent.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-14lxshm",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nNonostante la crisi, l'azienda ha assunto nuovi dipendenti.",
+  "options": [
+   "La crisi ha spinto l'azienda ad assumere.",
+   "L'azienda ha assunto dipendenti grazie alla crisi.",
+   "L'azienda ha assunto nuovi dipendenti, anche se c'era la crisi.",
+   "L'azienda ha licenziato dipendenti a causa della crisi.",
+   "L'azienda non ha assunto nessuno per la crisi."
+  ],
+  "answer": 2,
+  "explain": "nonostante = despite: contrast kept by \"anche se\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-14szqaq",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nChi arriva tardi non entra.",
+  "options": [
+   "Chi arriva tardi entra per primo.",
+   "Se arrivi tardi, non puoi entrare.",
+   "Se arrivi presto, non entri.",
+   "Arrivare tardi è permesso.",
+   "Entrano solo quelli che arrivano tardi."
+  ],
+  "answer": 1,
+  "explain": "A general rule restated with se.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1rbqq23",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nMi sono trasferito qui per motivi di lavoro.",
+  "options": [
+   "Non lavoro più qui da quando mi sono trasferito.",
+   "Mi sono trasferito qui per andare in vacanza.",
+   "Ho lasciato il lavoro per trasferirmi qui.",
+   "Mi sono trasferito qui perché ci lavoro.",
+   "Mi sono trasferito qui nonostante il lavoro."
+  ],
+  "answer": 3,
+  "explain": "per motivi di lavoro = because of work.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1st1xuf",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nMarco è partito senza salutare nessuno.",
+  "options": [
+   "Marco ha salutato solo alcuni.",
+   "Nessuno ha salutato Marco.",
+   "Marco se n'è andato e non ha salutato nessuno.",
+   "Marco ha salutato tutti prima di partire.",
+   "Marco è partito dopo aver salutato tutti."
+  ],
+  "answer": 2,
+  "explain": "senza + infinitive = without doing.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-4tplfs",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 3,
+  "prompt": "Closest in meaning:\nIl treno parte tra dieci minuti.",
+  "options": [
+   "Fra dieci minuti il treno partirà.",
+   "Il treno parte da dieci minuti.",
+   "Il treno arriva tra dieci minuti.",
+   "Il treno partirà tra dieci ore.",
+   "Il treno è partito dieci minuti fa."
+  ],
+  "answer": 0,
+  "explain": "tra/fra + period = in (future).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-p-1brxyrd",
+  "section": "paraphrase",
+  "topic": "exam.paraphrase",
+  "level": 4,
+  "prompt": "Closest in meaning:\nOrmai non ci credo più.",
+  "options": [
+   "Ci credo ormai da sempre.",
+   "Ci credo ancora di più.",
+   "Non ci ho mai creduto.",
+   "Prima non ci credevo, adesso sì.",
+   "Prima ci credevo, adesso non più."
+  ],
+  "answer": 4,
+  "explain": "\"non… più\" = no longer: it used to be true.",
+  "source": "hand",
+  "verified": true
  }
 ]
