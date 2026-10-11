@@ -17,7 +17,7 @@ const SECTIONS = {
   paraphrase: ['Paraphrase', 'Same meaning, different words.', 5],
   paragraph: ['Paragraph completion', 'Find the missing sentence.', 5],
   irrelevant: ['Irrelevant sentence', 'Spot the one that does not belong.', 5],
-  reading: ['Reading passages', 'A text and questions about it.', 5],
+  reading: ['Reading passages', 'A text and questions about it.', 4],
 };
 
 export async function render(root, ctx, params) {
@@ -39,12 +39,32 @@ async function renderRound(root, ctx, section) {
   const [bank, words, answers, srs] = await Promise.all([loadBank(), loadWords(), ctx.storage.getAnswers(), ctx.storage.getAllSrs()]);
   const [title, , n] = SECTIONS[section];
   const pool = bank.questions.filter((q) => q.section === section && q.verified);
-  const items = pickQuestions({ pool, history: historyOf(answers), n }).map((q) => ({ ref: `q:${q.id}` }));
+  const items = section === 'reading'
+    ? nextPassage(pool, answers).map((q) => ({ ref: `q:${q.id}` }))
+    : pickQuestions({ pool, history: historyOf(answers), n }).map((q) => ({ ref: `q:${q.id}` }));
   runQuiz(root, ctx, {
     title,
     items,
     resolve: makeResolver({ bank, words, srs }),
     onExit: () => { location.hash = '#/exam'; },
-    again: { label: `Another ${n}`, run: () => renderRound(root, ctx, section) },
+    again: { label: section === 'reading' ? 'Another passage' : `Another ${n}`, run: () => renderRound(root, ctx, section) },
   });
+}
+
+/** The passage you have answered the fewest questions on (ties: file order); returns its questions in order. */
+function nextPassage(pool, answers) {
+  const seen = new Map();
+  for (const a of answers) seen.set(a.qid, (seen.get(a.qid) || 0) + 1);
+  const groups = new Map();
+  for (const q of pool) {
+    if (!groups.has(q.group)) groups.set(q.group, []);
+    groups.get(q.group).push(q);
+  }
+  let best = null;
+  let bestScore = Infinity;
+  for (const qs of groups.values()) {
+    const score = qs.reduce((n, q) => n + (seen.get(q.id) || 0), 0);
+    if (score < bestScore) { best = qs; bestScore = score; }
+  }
+  return best || [];
 }

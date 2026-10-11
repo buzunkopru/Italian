@@ -5,10 +5,11 @@ import { EXAM_CLOZE_PASSAGES } from './handwritten/exam-cloze.js';
 import { EXAM_COMPLETION } from './handwritten/exam-completion.js';
 import { EXAM_DIALOGUE } from './handwritten/exam-dialogue.js';
 import { EXAM_PARAPHRASE } from './handwritten/exam-paraphrase.js';
+import { EXAM_READING } from './handwritten/exam-reading.js';
 import { hash } from './util.js';
 import { shuffle } from '../engine/picker.js';
 
-function build({ section, topic, level, prompt, answer, wrong, explain, rng, tag }) {
+function build({ section, topic, level, prompt, answer, wrong, explain, rng, tag, extra = {} }) {
   const options = shuffle([answer, ...wrong], rng);
   return {
     id: `x-${tag}-${hash(prompt + '|' + answer)}`,
@@ -21,6 +22,7 @@ function build({ section, topic, level, prompt, answer, wrong, explain, rng, tag
     explain,
     source: 'hand',
     verified: true,
+    ...extra,
   };
 }
 
@@ -64,6 +66,18 @@ export function paraphraseQuestions(rng) {
     build({ section: 'paraphrase', topic: 'exam.paraphrase', level, prompt: `${PARAPHRASE_LEAD}\n${sentence}`, answer, wrong, explain, rng, tag: 'p' }));
 }
 
+export function readingQuestions(rng) {
+  const out = [];
+  for (const p of EXAM_READING) {
+    p.questions.forEach(([prompt, answer, wrong, explain], i) => {
+      const q = build({ section: 'reading', topic: 'exam.reading', level: p.level, prompt, answer, wrong, explain, rng, tag: 'r', extra: { passage: p.text, group: `read-${p.id}` } });
+      q.id = `x-r-${p.id}-${i + 1}`;
+      out.push(q);
+    });
+  }
+  return out;
+}
+
 export function generate(rng) {
-  return [...vocabQuestions(rng), ...clozeQuestions(rng), ...completionQuestions(rng), ...dialogueQuestions(rng), ...paraphraseQuestions(rng)];
+  return [...vocabQuestions(rng), ...clozeQuestions(rng), ...completionQuestions(rng), ...dialogueQuestions(rng), ...paraphraseQuestions(rng), ...readingQuestions(rng)];
 }

@@ -78,7 +78,8 @@ export function buildSession({ today, now = Date.now(), srs, answers, questions,
 
   // 5. Exam set: verified exam-section questions only; rotate the section by day of year
   if (size.exam) {
-    const sections = Object.keys(EXAM_SECTIONS);
+    // reading needs its whole passage in view, so it is practised from the Exam tab, not in single-question sets
+    const sections = Object.keys(EXAM_SECTIONS).filter((s) => s !== 'reading');
     const doy = Math.floor(Date.parse(`${today}T00:00:00Z`) / 86400000);
     for (let i = 0; i < sections.length; i++) {
       const sec = sections[(doy + i) % sections.length];

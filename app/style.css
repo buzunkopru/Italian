@@ -158,6 +158,7 @@ input[type=search], input[type=text], select, textarea {
 .bar > div.r { background: var(--bad); }
 .qcard { margin-top: 12px; }
 .qtext { font-size: 1.2rem; line-height: 1.6; white-space: pre-line; }
+.passage { margin-top: 12px; font-size: 0.98rem; line-height: 1.55; }
 .qtext.long { font-size: 0.98rem; line-height: 1.5; }
 .blank { display: inline-block; min-width: 3.2em; border-bottom: 3px solid var(--accent); text-align: center; font-weight: 700; padding: 0 4px; }
 .blank.good { color: var(--good); border-color: var(--good); }

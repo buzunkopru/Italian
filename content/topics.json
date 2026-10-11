@@ -7,5 +7,6 @@
   "exam.cloze": "Exam: passage cloze",
   "exam.completion": "Exam: sentence completion",
   "exam.dialogue": "Exam: dialogue completion",
-  "exam.paraphrase": "Exam: paraphrase"
+  "exam.paraphrase": "Exam: paraphrase",
+  "exam.reading": "Exam: reading passages"
 }

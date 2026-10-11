@@ -55,6 +55,11 @@ export function validateQuestion(q, opts = {}) {
     errs.push('options must be an array');
   }
 
+  if (q.section === 'reading') {
+    need(typeof q.passage === 'string' && q.passage.trim().length > 0, 'reading questions need a passage');
+    need(typeof q.group === 'string' && q.group.length > 0, 'reading questions need a group');
+  }
+
   // Exam sections only ever serve verified items, so require a verified flag consistent with source.
   if (q.source === 'generated') need(q.verified === true, 'generated items must be verified (rule-tested)');
   return errs;

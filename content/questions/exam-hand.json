@@ -4606,5 +4606,965 @@
   "explain": "\"non… più\" = no longer: it used to be true.",
   "source": "hand",
   "verified": true
+ },
+ {
+  "id": "x-r-biblioteca-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 2,
+  "prompt": "Perché Chiara va in biblioteca ogni sabato?",
+  "options": [
+   "Perché suo fratello lavora lì.",
+   "Per leggere storie ai bambini.",
+   "Soltanto per prendere in prestito dei libri.",
+   "Per studiare in un ambiente tranquillo, oltre che per prendere libri.",
+   "Perché a casa non ha libri."
+  ],
+  "answer": 3,
+  "explain": "\"Non ci va soltanto per prendere in prestito dei libri: le piace studiare in una sala tranquilla.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Ogni sabato mattina Chiara va alla biblioteca del suo quartiere. Non ci va soltanto per prendere in prestito dei libri: le piace studiare in una sala tranquilla, lontano dal rumore di casa. La biblioteca ha anche una piccola sezione per i bambini, dove ogni settimana un volontario legge una storia ad alta voce. Chiara, che ha un fratellino di sei anni, lo porta spesso con sé. Mentre lui ascolta la storia, lei può finalmente finire i suoi compiti. Dopo pranzo, tornano a casa insieme e il bambino racconta alla mamma tutto quello che ha sentito.",
+  "group": "read-biblioteca"
+ },
+ {
+  "id": "x-r-biblioteca-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 2,
+  "prompt": "Che cosa succede nella sezione per i bambini?",
+  "options": [
+   "I genitori fanno i compiti con i figli.",
+   "I bambini studiano con la bibliotecaria.",
+   "Chiara legge una storia ai bambini.",
+   "Ogni giorno i bambini scrivono una storia.",
+   "Ogni settimana un volontario legge una storia ad alta voce."
+  ],
+  "answer": 4,
+  "explain": "\"ogni settimana un volontario legge una storia ad alta voce.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Ogni sabato mattina Chiara va alla biblioteca del suo quartiere. Non ci va soltanto per prendere in prestito dei libri: le piace studiare in una sala tranquilla, lontano dal rumore di casa. La biblioteca ha anche una piccola sezione per i bambini, dove ogni settimana un volontario legge una storia ad alta voce. Chiara, che ha un fratellino di sei anni, lo porta spesso con sé. Mentre lui ascolta la storia, lei può finalmente finire i suoi compiti. Dopo pranzo, tornano a casa insieme e il bambino racconta alla mamma tutto quello che ha sentito.",
+  "group": "read-biblioteca"
+ },
+ {
+  "id": "x-r-biblioteca-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 2,
+  "prompt": "Perché Chiara riesce a finire i compiti?",
+  "options": [
+   "Perché il volontario studia con lei.",
+   "Perché la mamma la aiuta.",
+   "Perché il fratellino resta a casa.",
+   "Perché il fratellino è occupato ad ascoltare la storia.",
+   "Perché la biblioteca chiude presto."
+  ],
+  "answer": 3,
+  "explain": "\"Mentre lui ascolta la storia, lei può finalmente finire i suoi compiti.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Ogni sabato mattina Chiara va alla biblioteca del suo quartiere. Non ci va soltanto per prendere in prestito dei libri: le piace studiare in una sala tranquilla, lontano dal rumore di casa. La biblioteca ha anche una piccola sezione per i bambini, dove ogni settimana un volontario legge una storia ad alta voce. Chiara, che ha un fratellino di sei anni, lo porta spesso con sé. Mentre lui ascolta la storia, lei può finalmente finire i suoi compiti. Dopo pranzo, tornano a casa insieme e il bambino racconta alla mamma tutto quello che ha sentito.",
+  "group": "read-biblioteca"
+ },
+ {
+  "id": "x-r-biblioteca-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 2,
+  "prompt": "Quale affermazione è corretta secondo il testo?",
+  "options": [
+   "La mamma accompagna i figli in biblioteca.",
+   "Chiara va in biblioteca ogni domenica.",
+   "Chiara e il fratellino tornano a casa dopo pranzo.",
+   "Il fratellino ha dieci anni.",
+   "Il bambino non racconta niente alla mamma."
+  ],
+  "answer": 2,
+  "explain": "\"Dopo pranzo, tornano a casa insieme.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Ogni sabato mattina Chiara va alla biblioteca del suo quartiere. Non ci va soltanto per prendere in prestito dei libri: le piace studiare in una sala tranquilla, lontano dal rumore di casa. La biblioteca ha anche una piccola sezione per i bambini, dove ogni settimana un volontario legge una storia ad alta voce. Chiara, che ha un fratellino di sei anni, lo porta spesso con sé. Mentre lui ascolta la storia, lei può finalmente finire i suoi compiti. Dopo pranzo, tornano a casa insieme e il bambino racconta alla mamma tutto quello che ha sentito.",
+  "group": "read-biblioteca"
+ },
+ {
+  "id": "x-r-mercato-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 2,
+  "prompt": "Che cosa si vende al mercato?",
+  "options": [
+   "Prodotti alimentari freschi della zona.",
+   "Vestiti usati.",
+   "Prodotti surgelati.",
+   "Libri antichi.",
+   "Mobili e macchine."
+  ],
+  "answer": 0,
+  "explain": "\"frutta, verdura, formaggi e uova appena raccolti.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il sabato mattina, nella piazza centrale del paese, c'è il mercato. I contadini della zona vendono frutta, verdura, formaggi e uova appena raccolti, e i prezzi sono più bassi di quelli del supermercato. Molti abitanti preferiscono comprare qui perché i prodotti sono freschi e perché possono parlare con chi li ha coltivati. Verso mezzogiorno, quando la maggior parte dei banchi comincia a chiudere, i prezzi scendono ancora: è il momento giusto per chi cerca un buon affare.",
+  "group": "read-mercato"
+ },
+ {
+  "id": "x-r-mercato-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 2,
+  "prompt": "Perché molti abitanti preferiscono il mercato?",
+  "options": [
+   "Perché è l'unico posto dove si compra il pane.",
+   "Perché è aperto tutta la settimana.",
+   "Perché i prodotti sono freschi e si parla con chi li coltiva.",
+   "Perché i prezzi sono più alti ma i prodotti migliori.",
+   "Perché si trova vicino al supermercato."
+  ],
+  "answer": 2,
+  "explain": "\"i prodotti sono freschi e… possono parlare con chi li ha coltivati.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il sabato mattina, nella piazza centrale del paese, c'è il mercato. I contadini della zona vendono frutta, verdura, formaggi e uova appena raccolti, e i prezzi sono più bassi di quelli del supermercato. Molti abitanti preferiscono comprare qui perché i prodotti sono freschi e perché possono parlare con chi li ha coltivati. Verso mezzogiorno, quando la maggior parte dei banchi comincia a chiudere, i prezzi scendono ancora: è il momento giusto per chi cerca un buon affare.",
+  "group": "read-mercato"
+ },
+ {
+  "id": "x-r-mercato-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 2,
+  "prompt": "Quando i prezzi scendono ancora?",
+  "options": [
+   "Dopo la chiusura del supermercato.",
+   "Verso mezzogiorno.",
+   "La sera.",
+   "Alle otto del mattino.",
+   "La domenica."
+  ],
+  "answer": 1,
+  "explain": "\"Verso mezzogiorno… i prezzi scendono ancora.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il sabato mattina, nella piazza centrale del paese, c'è il mercato. I contadini della zona vendono frutta, verdura, formaggi e uova appena raccolti, e i prezzi sono più bassi di quelli del supermercato. Molti abitanti preferiscono comprare qui perché i prodotti sono freschi e perché possono parlare con chi li ha coltivati. Verso mezzogiorno, quando la maggior parte dei banchi comincia a chiudere, i prezzi scendono ancora: è il momento giusto per chi cerca un buon affare.",
+  "group": "read-mercato"
+ },
+ {
+  "id": "x-r-mercato-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 2,
+  "prompt": "Nel testo, \"affare\" significa:",
+  "options": [
+   "problema",
+   "acquisto conveniente",
+   "incontro",
+   "viaggio",
+   "lavoro"
+  ],
+  "answer": 1,
+  "explain": "Prices go down, so it is a good moment for a bargain.",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il sabato mattina, nella piazza centrale del paese, c'è il mercato. I contadini della zona vendono frutta, verdura, formaggi e uova appena raccolti, e i prezzi sono più bassi di quelli del supermercato. Molti abitanti preferiscono comprare qui perché i prodotti sono freschi e perché possono parlare con chi li ha coltivati. Verso mezzogiorno, quando la maggior parte dei banchi comincia a chiudere, i prezzi scendono ancora: è il momento giusto per chi cerca un buon affare.",
+  "group": "read-mercato"
+ },
+ {
+  "id": "x-r-museo-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Qual è lo scopo del testo?",
+  "options": [
+   "Raccontare la storia della città.",
+   "Chiedere fondi per il restauro.",
+   "Criticare il direttore del museo.",
+   "Convincere i residenti a lavorare nel museo.",
+   "Informare sul nuovo orario e sulle condizioni di visita."
+  ],
+  "answer": 4,
+  "explain": "The text lists hours, prices, free entry and guided tours.",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il museo archeologico della città ha annunciato un nuovo orario di apertura. Da lunedì prossimo sarà aperto dal martedì alla domenica, dalle 9 alle 19, mentre il lunedì resterà chiuso per consentire i lavori di restauro. L'ingresso costerà dieci euro, ma i residenti e i ragazzi sotto i diciotto anni potranno entrare gratuitamente la prima domenica del mese. Inoltre, per chi vuole approfondire, sono previste visite guidate su prenotazione, che durano circa un'ora. Il direttore ha spiegato che la decisione nasce dal desiderio di avvicinare più persone alla storia del territorio.",
+  "group": "read-museo"
+ },
+ {
+  "id": "x-r-museo-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "In quale giorno il museo resterà chiuso?",
+  "options": [
+   "Il sabato.",
+   "La domenica.",
+   "Il lunedì.",
+   "Il martedì.",
+   "Il primo giorno del mese."
+  ],
+  "answer": 2,
+  "explain": "\"il lunedì resterà chiuso per consentire i lavori di restauro.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il museo archeologico della città ha annunciato un nuovo orario di apertura. Da lunedì prossimo sarà aperto dal martedì alla domenica, dalle 9 alle 19, mentre il lunedì resterà chiuso per consentire i lavori di restauro. L'ingresso costerà dieci euro, ma i residenti e i ragazzi sotto i diciotto anni potranno entrare gratuitamente la prima domenica del mese. Inoltre, per chi vuole approfondire, sono previste visite guidate su prenotazione, che durano circa un'ora. Il direttore ha spiegato che la decisione nasce dal desiderio di avvicinare più persone alla storia del territorio.",
+  "group": "read-museo"
+ },
+ {
+  "id": "x-r-museo-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Chi entra gratis la prima domenica del mese?",
+  "options": [
+   "Soltanto i residenti.",
+   "Soltanto i maggiori di diciotto anni.",
+   "Chi prenota una visita guidata.",
+   "Tutti i turisti.",
+   "I residenti e i ragazzi sotto i diciotto anni."
+  ],
+  "answer": 4,
+  "explain": "\"i residenti e i ragazzi sotto i diciotto anni potranno entrare gratuitamente.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il museo archeologico della città ha annunciato un nuovo orario di apertura. Da lunedì prossimo sarà aperto dal martedì alla domenica, dalle 9 alle 19, mentre il lunedì resterà chiuso per consentire i lavori di restauro. L'ingresso costerà dieci euro, ma i residenti e i ragazzi sotto i diciotto anni potranno entrare gratuitamente la prima domenica del mese. Inoltre, per chi vuole approfondire, sono previste visite guidate su prenotazione, che durano circa un'ora. Il direttore ha spiegato che la decisione nasce dal desiderio di avvicinare più persone alla storia del territorio.",
+  "group": "read-museo"
+ },
+ {
+  "id": "x-r-museo-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Perché il direttore ha preso questa decisione?",
+  "options": [
+   "Per guadagnare di più con i biglietti.",
+   "Per sostituire le visite guidate.",
+   "Per avvicinare più persone alla storia locale.",
+   "Perché i lavori di restauro sono finiti.",
+   "Per chiudere il museo il lunedì."
+  ],
+  "answer": 2,
+  "explain": "\"nasce dal desiderio di avvicinare più persone alla storia del territorio.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il museo archeologico della città ha annunciato un nuovo orario di apertura. Da lunedì prossimo sarà aperto dal martedì alla domenica, dalle 9 alle 19, mentre il lunedì resterà chiuso per consentire i lavori di restauro. L'ingresso costerà dieci euro, ma i residenti e i ragazzi sotto i diciotto anni potranno entrare gratuitamente la prima domenica del mese. Inoltre, per chi vuole approfondire, sono previste visite guidate su prenotazione, che durano circa un'ora. Il direttore ha spiegato che la decisione nasce dal desiderio di avvicinare più persone alla storia del territorio.",
+  "group": "read-museo"
+ },
+ {
+  "id": "x-r-lettera-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Perché Marta si trova a Berlino?",
+  "options": [
+   "Perché ama il freddo.",
+   "Per motivi di lavoro.",
+   "Per imparare il tedesco.",
+   "Per una vacanza di un mese.",
+   "Per raggiungere Laura."
+  ],
+  "answer": 1,
+  "explain": "\"mi sono trasferita un mese fa per lavoro.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Cara Laura, ti scrivo da Berlino, dove mi sono trasferita un mese fa per lavoro. Le prime settimane sono state difficili: non conoscevo nessuno, il tedesco mi sembrava impossibile e il clima era più freddo di quanto pensassi. Ora, però, le cose vanno meglio. Ho trovato un piccolo appartamento vicino al lavoro e ho cominciato un corso di lingua serale, dove ho conosciuto altri stranieri. Mi manchi molto, e mi mancano anche le nostre passeggiate al lago. Se riesci a prenderti qualche giorno di ferie, vieni a trovarmi: ti farò vedere la città. Un abbraccio, Marta.",
+  "group": "read-lettera"
+ },
+ {
+  "id": "x-r-lettera-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Che cosa è stato difficile all'inizio?",
+  "options": [
+   "Frequentare il corso serale.",
+   "Non conoscere nessuno e capire il tedesco.",
+   "Il viaggio in treno.",
+   "Trovare un appartamento.",
+   "Lavorare con Laura."
+  ],
+  "answer": 1,
+  "explain": "\"non conoscevo nessuno, il tedesco mi sembrava impossibile.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Cara Laura, ti scrivo da Berlino, dove mi sono trasferita un mese fa per lavoro. Le prime settimane sono state difficili: non conoscevo nessuno, il tedesco mi sembrava impossibile e il clima era più freddo di quanto pensassi. Ora, però, le cose vanno meglio. Ho trovato un piccolo appartamento vicino al lavoro e ho cominciato un corso di lingua serale, dove ho conosciuto altri stranieri. Mi manchi molto, e mi mancano anche le nostre passeggiate al lago. Se riesci a prenderti qualche giorno di ferie, vieni a trovarmi: ti farò vedere la città. Un abbraccio, Marta.",
+  "group": "read-lettera"
+ },
+ {
+  "id": "x-r-lettera-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Che cosa propone Marta a Laura?",
+  "options": [
+   "Di scriverle più spesso.",
+   "Di cercarle un appartamento.",
+   "Di organizzare una passeggiata al lago.",
+   "Di andarla a trovare a Berlino.",
+   "Di trasferirsi con lei."
+  ],
+  "answer": 3,
+  "explain": "\"vieni a trovarmi: ti farò vedere la città.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Cara Laura, ti scrivo da Berlino, dove mi sono trasferita un mese fa per lavoro. Le prime settimane sono state difficili: non conoscevo nessuno, il tedesco mi sembrava impossibile e il clima era più freddo di quanto pensassi. Ora, però, le cose vanno meglio. Ho trovato un piccolo appartamento vicino al lavoro e ho cominciato un corso di lingua serale, dove ho conosciuto altri stranieri. Mi manchi molto, e mi mancano anche le nostre passeggiate al lago. Se riesci a prenderti qualche giorno di ferie, vieni a trovarmi: ti farò vedere la città. Un abbraccio, Marta.",
+  "group": "read-lettera"
+ },
+ {
+  "id": "x-r-lettera-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Come si sente Marta ora?",
+  "options": [
+   "Meglio di prima, anche se sente la mancanza di Laura.",
+   "Arrabbiata con Laura.",
+   "Completamente a suo agio e senza nostalgia.",
+   "Stanca del lavoro.",
+   "Molto peggio di prima."
+  ],
+  "answer": 0,
+  "explain": "\"le cose vanno meglio… Mi manchi molto.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Cara Laura, ti scrivo da Berlino, dove mi sono trasferita un mese fa per lavoro. Le prime settimane sono state difficili: non conoscevo nessuno, il tedesco mi sembrava impossibile e il clima era più freddo di quanto pensassi. Ora, però, le cose vanno meglio. Ho trovato un piccolo appartamento vicino al lavoro e ho cominciato un corso di lingua serale, dove ho conosciuto altri stranieri. Mi manchi molto, e mi mancano anche le nostre passeggiate al lago. Se riesci a prenderti qualche giorno di ferie, vieni a trovarmi: ti farò vedere la città. Un abbraccio, Marta.",
+  "group": "read-lettera"
+ },
+ {
+  "id": "x-r-bicicletta-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Qual è l'argomento principale del testo?",
+  "options": [
+   "Come si ripara una bicicletta.",
+   "Gli sforzi delle città per far usare la bicicletta e i loro risultati diversi.",
+   "I vantaggi economici delle automobili.",
+   "Il costo dei parcheggi nelle città europee.",
+   "La storia della bicicletta in Europa."
+  ],
+  "answer": 1,
+  "explain": "The text moves from the reasons to the measures to the uneven results.",
+  "source": "hand",
+  "verified": true,
+  "passage": "Negli ultimi anni molte città europee hanno deciso di incoraggiare l'uso della bicicletta. Le ragioni sono diverse: il traffico rende difficile spostarsi in auto, l'inquinamento danneggia la salute e i parcheggi sono sempre più costosi. Per questo i comuni hanno costruito nuove piste ciclabili e organizzato servizi di noleggio a basso prezzo. I risultati, però, non sono uguali dappertutto. Dove le piste sono sicure e collegate tra loro, sempre più persone scelgono la bici per andare al lavoro. Dove invece le strade restano pericolose, molti preferiscono continuare a usare l'auto, anche per brevi tragitti. Gli esperti sostengono che non basta costruire le piste: serve anche cambiare le abitudini dei cittadini.",
+  "group": "read-bicicletta"
+ },
+ {
+  "id": "x-r-bicicletta-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Secondo il testo, perché in alcune città molte persone scelgono la bici?",
+  "options": [
+   "Perché le auto sono vietate.",
+   "Perché i parcheggi sono gratuiti.",
+   "Perché il noleggio è gratuito.",
+   "Perché il clima è più caldo.",
+   "Perché le piste sono sicure e collegate tra loro."
+  ],
+  "answer": 4,
+  "explain": "\"Dove le piste sono sicure e collegate tra loro, sempre più persone scelgono la bici.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Negli ultimi anni molte città europee hanno deciso di incoraggiare l'uso della bicicletta. Le ragioni sono diverse: il traffico rende difficile spostarsi in auto, l'inquinamento danneggia la salute e i parcheggi sono sempre più costosi. Per questo i comuni hanno costruito nuove piste ciclabili e organizzato servizi di noleggio a basso prezzo. I risultati, però, non sono uguali dappertutto. Dove le piste sono sicure e collegate tra loro, sempre più persone scelgono la bici per andare al lavoro. Dove invece le strade restano pericolose, molti preferiscono continuare a usare l'auto, anche per brevi tragitti. Gli esperti sostengono che non basta costruire le piste: serve anche cambiare le abitudini dei cittadini.",
+  "group": "read-bicicletta"
+ },
+ {
+  "id": "x-r-bicicletta-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Che cosa pensano gli esperti?",
+  "options": [
+   "Basta costruire più piste per risolvere tutto.",
+   "Le auto sono più sicure delle biciclette.",
+   "I cittadini non cambieranno mai le loro abitudini.",
+   "Le piste ciclabili sono inutili.",
+   "Costruire piste non è sufficiente senza un cambiamento di abitudini."
+  ],
+  "answer": 4,
+  "explain": "\"non basta costruire le piste: serve anche cambiare le abitudini.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Negli ultimi anni molte città europee hanno deciso di incoraggiare l'uso della bicicletta. Le ragioni sono diverse: il traffico rende difficile spostarsi in auto, l'inquinamento danneggia la salute e i parcheggi sono sempre più costosi. Per questo i comuni hanno costruito nuove piste ciclabili e organizzato servizi di noleggio a basso prezzo. I risultati, però, non sono uguali dappertutto. Dove le piste sono sicure e collegate tra loro, sempre più persone scelgono la bici per andare al lavoro. Dove invece le strade restano pericolose, molti preferiscono continuare a usare l'auto, anche per brevi tragitti. Gli esperti sostengono che non basta costruire le piste: serve anche cambiare le abitudini dei cittadini.",
+  "group": "read-bicicletta"
+ },
+ {
+  "id": "x-r-bicicletta-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Nel testo, \"tragitti\" significa:",
+  "options": [
+   "pedaggi",
+   "prezzi",
+   "giorni",
+   "incidenti",
+   "percorsi"
+  ],
+  "answer": 4,
+  "explain": "\"anche per brevi tragitti\" = even for short trips.",
+  "source": "hand",
+  "verified": true,
+  "passage": "Negli ultimi anni molte città europee hanno deciso di incoraggiare l'uso della bicicletta. Le ragioni sono diverse: il traffico rende difficile spostarsi in auto, l'inquinamento danneggia la salute e i parcheggi sono sempre più costosi. Per questo i comuni hanno costruito nuove piste ciclabili e organizzato servizi di noleggio a basso prezzo. I risultati, però, non sono uguali dappertutto. Dove le piste sono sicure e collegate tra loro, sempre più persone scelgono la bici per andare al lavoro. Dove invece le strade restano pericolose, molti preferiscono continuare a usare l'auto, anche per brevi tragitti. Gli esperti sostengono che non basta costruire le piste: serve anche cambiare le abitudini dei cittadini.",
+  "group": "read-bicicletta"
+ },
+ {
+  "id": "x-r-sonno-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Qual è la novità dello studio?",
+  "options": [
+   "Dormire poco fa bene alla salute.",
+   "Gli studenti imparano meglio di notte.",
+   "Le parole si dimenticano durante il giorno.",
+   "Il sonno contribuisce anche alla memoria.",
+   "Il cervello si ferma durante il sonno."
+  ],
+  "answer": 3,
+  "explain": "\"il sonno aiuta anche a ricordare.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Molti studi confermano che dormire bene è fondamentale per la salute, ma una ricerca recente ha mostrato un aspetto meno noto: il sonno aiuta anche a ricordare. Durante la notte il cervello rielabora le informazioni ricevute nel corso della giornata e le trasferisce nella memoria a lungo termine. I ricercatori hanno chiesto a due gruppi di studenti di imparare una lista di parole. Il primo gruppo ha dormito otto ore, il secondo è rimasto sveglio tutta la notte. Il giorno dopo, gli studenti che avevano dormito ricordavano molte più parole. Gli autori dello studio avvertono, tuttavia, che i risultati vanno interpretati con cautela, perché il campione era piccolo.",
+  "group": "read-sonno"
+ },
+ {
+  "id": "x-r-sonno-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Che cosa è successo il giorno dopo?",
+  "options": [
+   "Il secondo gruppo ha dormito otto ore.",
+   "Chi era rimasto sveglio ricordava più parole.",
+   "Nessuno ricordava la lista.",
+   "Chi aveva dormito ricordava più parole di chi era rimasto sveglio.",
+   "I due gruppi ricordavano lo stesso numero di parole."
+  ],
+  "answer": 3,
+  "explain": "\"gli studenti che avevano dormito ricordavano molte più parole.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Molti studi confermano che dormire bene è fondamentale per la salute, ma una ricerca recente ha mostrato un aspetto meno noto: il sonno aiuta anche a ricordare. Durante la notte il cervello rielabora le informazioni ricevute nel corso della giornata e le trasferisce nella memoria a lungo termine. I ricercatori hanno chiesto a due gruppi di studenti di imparare una lista di parole. Il primo gruppo ha dormito otto ore, il secondo è rimasto sveglio tutta la notte. Il giorno dopo, gli studenti che avevano dormito ricordavano molte più parole. Gli autori dello studio avvertono, tuttavia, che i risultati vanno interpretati con cautela, perché il campione era piccolo.",
+  "group": "read-sonno"
+ },
+ {
+  "id": "x-r-sonno-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Perché gli autori invitano alla cautela?",
+  "options": [
+   "Perché la lista di parole era troppo lunga.",
+   "Perché hanno studiato solo poche persone.",
+   "Perché gli studenti non hanno dormito.",
+   "Perché lo studio è durato un solo anno.",
+   "Perché i risultati sono sbagliati."
+  ],
+  "answer": 1,
+  "explain": "\"perché il campione era piccolo\" = the sample was small.",
+  "source": "hand",
+  "verified": true,
+  "passage": "Molti studi confermano che dormire bene è fondamentale per la salute, ma una ricerca recente ha mostrato un aspetto meno noto: il sonno aiuta anche a ricordare. Durante la notte il cervello rielabora le informazioni ricevute nel corso della giornata e le trasferisce nella memoria a lungo termine. I ricercatori hanno chiesto a due gruppi di studenti di imparare una lista di parole. Il primo gruppo ha dormito otto ore, il secondo è rimasto sveglio tutta la notte. Il giorno dopo, gli studenti che avevano dormito ricordavano molte più parole. Gli autori dello studio avvertono, tuttavia, che i risultati vanno interpretati con cautela, perché il campione era piccolo.",
+  "group": "read-sonno"
+ },
+ {
+  "id": "x-r-sonno-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 3,
+  "prompt": "Nel testo, \"rielabora\" significa:",
+  "options": [
+   "cancella",
+   "registra per la prima volta",
+   "traduce",
+   "elabora di nuovo",
+   "dimentica"
+  ],
+  "answer": 3,
+  "explain": "re- + elaborare = to process again.",
+  "source": "hand",
+  "verified": true,
+  "passage": "Molti studi confermano che dormire bene è fondamentale per la salute, ma una ricerca recente ha mostrato un aspetto meno noto: il sonno aiuta anche a ricordare. Durante la notte il cervello rielabora le informazioni ricevute nel corso della giornata e le trasferisce nella memoria a lungo termine. I ricercatori hanno chiesto a due gruppi di studenti di imparare una lista di parole. Il primo gruppo ha dormito otto ore, il secondo è rimasto sveglio tutta la notte. Il giorno dopo, gli studenti che avevano dormito ricordavano molte più parole. Gli autori dello studio avvertono, tuttavia, che i risultati vanno interpretati con cautela, perché il campione era piccolo.",
+  "group": "read-sonno"
+ },
+ {
+  "id": "x-r-social-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Qual è la tesi dell'autore?",
+  "options": [
+   "I social isolano sempre i giovani.",
+   "Gli psicologi non hanno studiato il fenomeno.",
+   "I social sono sempre utili ai ragazzi timidi.",
+   "L'effetto dei social dipende anche da come vengono usati.",
+   "I giovani dovrebbero smettere di usare internet."
+  ],
+  "answer": 3,
+  "explain": "\"non dipende tanto dal tempo trascorso quanto dal modo in cui si usano.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Secondo un'opinione diffusa, i social network starebbero rendendo i giovani più isolati. Eppure i dati non sono così chiari. Alcune ricerche indicano che chi trascorre molte ore online tende a sentirsi più solo; altre, al contrario, mostrano che per i ragazzi timidi i social rappresentano un modo per conoscere persone con interessi simili. La differenza, sostengono molti psicologi, non dipende tanto dal tempo trascorso quanto dal modo in cui si usano queste piattaforme: guardare passivamente le vite degli altri produce spesso frustrazione, mentre conversare con gli amici può rafforzare i rapporti. Sarebbe dunque ingiusto attribuire ai social una responsabilità che appartiene, in parte, alle abitudini di ciascuno.",
+  "group": "read-social"
+ },
+ {
+  "id": "x-r-social-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Che cosa produce spesso frustrazione, secondo il testo?",
+  "options": [
+   "Guardare passivamente la vita degli altri.",
+   "Trascorrere poco tempo online.",
+   "Conoscere persone con gli stessi interessi.",
+   "Usare i social con timidezza.",
+   "Conversare con gli amici."
+  ],
+  "answer": 0,
+  "explain": "\"guardare passivamente le vite degli altri produce spesso frustrazione.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Secondo un'opinione diffusa, i social network starebbero rendendo i giovani più isolati. Eppure i dati non sono così chiari. Alcune ricerche indicano che chi trascorre molte ore online tende a sentirsi più solo; altre, al contrario, mostrano che per i ragazzi timidi i social rappresentano un modo per conoscere persone con interessi simili. La differenza, sostengono molti psicologi, non dipende tanto dal tempo trascorso quanto dal modo in cui si usano queste piattaforme: guardare passivamente le vite degli altri produce spesso frustrazione, mentre conversare con gli amici può rafforzare i rapporti. Sarebbe dunque ingiusto attribuire ai social una responsabilità che appartiene, in parte, alle abitudini di ciascuno.",
+  "group": "read-social"
+ },
+ {
+  "id": "x-r-social-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Che cosa si può dedurre sulle ricerche citate?",
+  "options": [
+   "Sono tutte d'accordo.",
+   "Non sono state pubblicate.",
+   "Sono state fatte solo sui ragazzi timidi.",
+   "Arrivano a risultati diversi.",
+   "Dimostrano che i social non hanno effetti."
+  ],
+  "answer": 3,
+  "explain": "\"Alcune ricerche indicano… altre, al contrario, mostrano…\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Secondo un'opinione diffusa, i social network starebbero rendendo i giovani più isolati. Eppure i dati non sono così chiari. Alcune ricerche indicano che chi trascorre molte ore online tende a sentirsi più solo; altre, al contrario, mostrano che per i ragazzi timidi i social rappresentano un modo per conoscere persone con interessi simili. La differenza, sostengono molti psicologi, non dipende tanto dal tempo trascorso quanto dal modo in cui si usano queste piattaforme: guardare passivamente le vite degli altri produce spesso frustrazione, mentre conversare con gli amici può rafforzare i rapporti. Sarebbe dunque ingiusto attribuire ai social una responsabilità che appartiene, in parte, alle abitudini di ciascuno.",
+  "group": "read-social"
+ },
+ {
+  "id": "x-r-social-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Nel testo, \"ingiusto\" è usato per dire che attribuire ai social tutta la responsabilità è:",
+  "options": [
+   "molto facile",
+   "una novità",
+   "poco equo",
+   "utile agli psicologi",
+   "pericoloso per i giovani"
+  ],
+  "answer": 2,
+  "explain": "\"Sarebbe dunque ingiusto\" = it would be unfair.",
+  "source": "hand",
+  "verified": true,
+  "passage": "Secondo un'opinione diffusa, i social network starebbero rendendo i giovani più isolati. Eppure i dati non sono così chiari. Alcune ricerche indicano che chi trascorre molte ore online tende a sentirsi più solo; altre, al contrario, mostrano che per i ragazzi timidi i social rappresentano un modo per conoscere persone con interessi simili. La differenza, sostengono molti psicologi, non dipende tanto dal tempo trascorso quanto dal modo in cui si usano queste piattaforme: guardare passivamente le vite degli altri produce spesso frustrazione, mentre conversare con gli amici può rafforzare i rapporti. Sarebbe dunque ingiusto attribuire ai social una responsabilità che appartiene, in parte, alle abitudini di ciascuno.",
+  "group": "read-social"
+ },
+ {
+  "id": "x-r-dialetti-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Qual è l'argomento del testo?",
+  "options": [
+   "Il ruolo della televisione nel cinema.",
+   "Le differenze tra italiano e inglese.",
+   "Perché i giovani non studiano più.",
+   "Come sono cambiati i dialetti con la diffusione dell'italiano.",
+   "La nascita della lingua italiana."
+  ],
+  "answer": 3,
+  "explain": "The text traces the change from dialect to Italian and its effect on dialects.",
+  "source": "hand",
+  "verified": true,
+  "passage": "In Italia, fino alla metà del Novecento, la maggior parte delle persone parlava in famiglia un dialetto e usava l'italiano soltanto in situazioni formali. Con la diffusione della televisione e dell'istruzione obbligatoria, la situazione è cambiata: oggi quasi tutti parlano italiano, anche se molti continuano a usare il dialetto con amici e parenti. Alcuni linguisti temono che i dialetti stiano scomparendo; altri, invece, sostengono che si stiano semplicemente trasformando, mescolandosi con la lingua nazionale. Quel che è certo è che i giovani li conoscono meno dei loro nonni, e che molte espressioni locali rischiano di essere dimenticate.",
+  "group": "read-dialetti"
+ },
+ {
+  "id": "x-r-dialetti-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Che cosa è cambiato con la televisione e la scuola?",
+  "options": [
+   "Il dialetto è diventato lingua ufficiale.",
+   "Nessuno usa più il dialetto.",
+   "I giovani parlano solo in dialetto.",
+   "Gli anziani hanno dimenticato l'italiano.",
+   "Quasi tutti hanno imparato a parlare italiano."
+  ],
+  "answer": 4,
+  "explain": "\"oggi quasi tutti parlano italiano, anche se molti continuano a usare il dialetto.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "In Italia, fino alla metà del Novecento, la maggior parte delle persone parlava in famiglia un dialetto e usava l'italiano soltanto in situazioni formali. Con la diffusione della televisione e dell'istruzione obbligatoria, la situazione è cambiata: oggi quasi tutti parlano italiano, anche se molti continuano a usare il dialetto con amici e parenti. Alcuni linguisti temono che i dialetti stiano scomparendo; altri, invece, sostengono che si stiano semplicemente trasformando, mescolandosi con la lingua nazionale. Quel che è certo è che i giovani li conoscono meno dei loro nonni, e che molte espressioni locali rischiano di essere dimenticate.",
+  "group": "read-dialetti"
+ },
+ {
+  "id": "x-r-dialetti-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Su quale punto i linguisti non sono d'accordo?",
+  "options": [
+   "Se l'istruzione debba essere obbligatoria.",
+   "Se i dialetti stiano scomparendo o semplicemente cambiando.",
+   "Se i giovani parlino italiano.",
+   "Se i nonni conoscano il dialetto.",
+   "Se la televisione sia utile."
+  ],
+  "answer": 1,
+  "explain": "\"Alcuni linguisti temono… altri, invece, sostengono…\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "In Italia, fino alla metà del Novecento, la maggior parte delle persone parlava in famiglia un dialetto e usava l'italiano soltanto in situazioni formali. Con la diffusione della televisione e dell'istruzione obbligatoria, la situazione è cambiata: oggi quasi tutti parlano italiano, anche se molti continuano a usare il dialetto con amici e parenti. Alcuni linguisti temono che i dialetti stiano scomparendo; altri, invece, sostengono che si stiano semplicemente trasformando, mescolandosi con la lingua nazionale. Quel che è certo è che i giovani li conoscono meno dei loro nonni, e che molte espressioni locali rischiano di essere dimenticate.",
+  "group": "read-dialetti"
+ },
+ {
+  "id": "x-r-dialetti-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Che cosa è certo, secondo il testo?",
+  "options": [
+   "I dialetti scompariranno presto.",
+   "I dialetti non cambiano mai.",
+   "I giovani conoscono i dialetti meno dei nonni.",
+   "I nonni parlano solo italiano.",
+   "I giovani usano il dialetto più degli anziani."
+  ],
+  "answer": 2,
+  "explain": "\"Quel che è certo è che i giovani li conoscono meno dei loro nonni.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "In Italia, fino alla metà del Novecento, la maggior parte delle persone parlava in famiglia un dialetto e usava l'italiano soltanto in situazioni formali. Con la diffusione della televisione e dell'istruzione obbligatoria, la situazione è cambiata: oggi quasi tutti parlano italiano, anche se molti continuano a usare il dialetto con amici e parenti. Alcuni linguisti temono che i dialetti stiano scomparendo; altri, invece, sostengono che si stiano semplicemente trasformando, mescolandosi con la lingua nazionale. Quel che è certo è che i giovani li conoscono meno dei loro nonni, e che molte espressioni locali rischiano di essere dimenticate.",
+  "group": "read-dialetti"
+ },
+ {
+  "id": "x-r-plastica-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Come hanno reagito all'inizio commercianti e clienti?",
+  "options": [
+   "Con indifferenza.",
+   "Con la chiusura dei negozi.",
+   "Con entusiasmo.",
+   "Con richieste di estendere il divieto.",
+   "Con proteste e dubbi."
+  ],
+  "answer": 4,
+  "explain": "\"All'inizio la misura ha suscitato proteste.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Qualche anno fa un comune della costa ha vietato l'uso di sacchetti e posate di plastica nei locali pubblici. All'inizio la misura ha suscitato proteste: i commercianti temevano costi più alti e i clienti non capivano perché dovessero cambiare abitudini. Dopo due anni, però, il bilancio è positivo. La quantità di rifiuti raccolti sulle spiagge è diminuita di circa un terzo e molti negozi hanno scoperto che i prodotti alternativi, pur essendo più cari, attirano clienti attenti all'ambiente. Il sindaco ammette che il divieto, da solo, non basta, ma sottolinea che ha avuto un merito importante: ha costretto tutti a riflettere sul problema.",
+  "group": "read-plastica"
+ },
+ {
+  "id": "x-r-plastica-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Quale effetto positivo ha avuto il divieto?",
+  "options": [
+   "I prezzi sono diminuiti.",
+   "I commercianti hanno guadagnato meno.",
+   "I negozi hanno più clienti stranieri.",
+   "La plastica è sparita da tutto il paese.",
+   "Sulle spiagge ci sono meno rifiuti."
+  ],
+  "answer": 4,
+  "explain": "\"la quantità di rifiuti raccolti sulle spiagge è diminuita di circa un terzo.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Qualche anno fa un comune della costa ha vietato l'uso di sacchetti e posate di plastica nei locali pubblici. All'inizio la misura ha suscitato proteste: i commercianti temevano costi più alti e i clienti non capivano perché dovessero cambiare abitudini. Dopo due anni, però, il bilancio è positivo. La quantità di rifiuti raccolti sulle spiagge è diminuita di circa un terzo e molti negozi hanno scoperto che i prodotti alternativi, pur essendo più cari, attirano clienti attenti all'ambiente. Il sindaco ammette che il divieto, da solo, non basta, ma sottolinea che ha avuto un merito importante: ha costretto tutti a riflettere sul problema.",
+  "group": "read-plastica"
+ },
+ {
+  "id": "x-r-plastica-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Perché alcuni negozi hanno tratto vantaggio dal divieto?",
+  "options": [
+   "Perché i prodotti alternativi attirano clienti attenti all'ambiente.",
+   "Perché la plastica era finita.",
+   "Perché il comune li ha pagati.",
+   "Perché i prodotti alternativi costano meno.",
+   "Perché non hanno più clienti."
+  ],
+  "answer": 0,
+  "explain": "\"pur essendo più cari, attirano clienti attenti all'ambiente.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Qualche anno fa un comune della costa ha vietato l'uso di sacchetti e posate di plastica nei locali pubblici. All'inizio la misura ha suscitato proteste: i commercianti temevano costi più alti e i clienti non capivano perché dovessero cambiare abitudini. Dopo due anni, però, il bilancio è positivo. La quantità di rifiuti raccolti sulle spiagge è diminuita di circa un terzo e molti negozi hanno scoperto che i prodotti alternativi, pur essendo più cari, attirano clienti attenti all'ambiente. Il sindaco ammette che il divieto, da solo, non basta, ma sottolinea che ha avuto un merito importante: ha costretto tutti a riflettere sul problema.",
+  "group": "read-plastica"
+ },
+ {
+  "id": "x-r-plastica-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Che cosa ammette il sindaco?",
+  "options": [
+   "Che il divieto è stato un errore.",
+   "Che il problema è risolto.",
+   "Che i rifiuti sono aumentati.",
+   "Che il divieto da solo non è sufficiente.",
+   "Che i commercianti avevano ragione."
+  ],
+  "answer": 3,
+  "explain": "\"il divieto, da solo, non basta.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Qualche anno fa un comune della costa ha vietato l'uso di sacchetti e posate di plastica nei locali pubblici. All'inizio la misura ha suscitato proteste: i commercianti temevano costi più alti e i clienti non capivano perché dovessero cambiare abitudini. Dopo due anni, però, il bilancio è positivo. La quantità di rifiuti raccolti sulle spiagge è diminuita di circa un terzo e molti negozi hanno scoperto che i prodotti alternativi, pur essendo più cari, attirano clienti attenti all'ambiente. Il sindaco ammette che il divieto, da solo, non basta, ma sottolinea che ha avuto un merito importante: ha costretto tutti a riflettere sul problema.",
+  "group": "read-plastica"
+ },
+ {
+  "id": "x-r-inflazione-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Che cosa significa inflazione, secondo il testo?",
+  "options": [
+   "Un aumento degli stipendi.",
+   "Una riduzione delle tasse.",
+   "Un calo dei prezzi.",
+   "Un aumento generale e continuo dei prezzi.",
+   "Un aumento dell'offerta di beni."
+  ],
+  "answer": 3,
+  "explain": "First sentence of the text.",
+  "source": "hand",
+  "verified": true,
+  "passage": "L'inflazione indica un aumento generale e continuo dei prezzi. Quando i prezzi salgono, con la stessa somma di denaro si possono comprare meno beni: il potere d'acquisto diminuisce. Le cause possono essere diverse. A volte la domanda cresce più rapidamente dell'offerta; altre volte aumentano i costi di produzione, per esempio quelli dell'energia, e le imprese li scaricano sui consumatori. Le banche centrali cercano di tenere l'inflazione sotto controllo alzando i tassi di interesse, ma questa scelta ha un prezzo: rende più costosi i prestiti e può rallentare la crescita economica.",
+  "group": "read-inflazione"
+ },
+ {
+  "id": "x-r-inflazione-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Che cosa succede al potere d'acquisto quando i prezzi salgono?",
+  "options": [
+   "Dipende solo dalle banche.",
+   "Diventa impossibile da calcolare.",
+   "Aumenta.",
+   "Diminuisce.",
+   "Resta uguale."
+  ],
+  "answer": 3,
+  "explain": "\"si possono comprare meno beni: il potere d'acquisto diminuisce.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "L'inflazione indica un aumento generale e continuo dei prezzi. Quando i prezzi salgono, con la stessa somma di denaro si possono comprare meno beni: il potere d'acquisto diminuisce. Le cause possono essere diverse. A volte la domanda cresce più rapidamente dell'offerta; altre volte aumentano i costi di produzione, per esempio quelli dell'energia, e le imprese li scaricano sui consumatori. Le banche centrali cercano di tenere l'inflazione sotto controllo alzando i tassi di interesse, ma questa scelta ha un prezzo: rende più costosi i prestiti e può rallentare la crescita economica.",
+  "group": "read-inflazione"
+ },
+ {
+  "id": "x-r-inflazione-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Come intervengono le banche centrali?",
+  "options": [
+   "Vietando l'aumento dei prezzi.",
+   "Alzando i tassi di interesse.",
+   "Aumentando la produzione di energia.",
+   "Abbassando i tassi di interesse.",
+   "Riducendo gli stipendi."
+  ],
+  "answer": 1,
+  "explain": "\"alzando i tassi di interesse.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "L'inflazione indica un aumento generale e continuo dei prezzi. Quando i prezzi salgono, con la stessa somma di denaro si possono comprare meno beni: il potere d'acquisto diminuisce. Le cause possono essere diverse. A volte la domanda cresce più rapidamente dell'offerta; altre volte aumentano i costi di produzione, per esempio quelli dell'energia, e le imprese li scaricano sui consumatori. Le banche centrali cercano di tenere l'inflazione sotto controllo alzando i tassi di interesse, ma questa scelta ha un prezzo: rende più costosi i prestiti e può rallentare la crescita economica.",
+  "group": "read-inflazione"
+ },
+ {
+  "id": "x-r-inflazione-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Qual è lo svantaggio di questa scelta?",
+  "options": [
+   "I prestiti costano di più e la crescita può rallentare.",
+   "I prezzi salgono più in fretta.",
+   "I consumatori comprano più beni.",
+   "Le imprese producono di più.",
+   "L'energia costa di più."
+  ],
+  "answer": 0,
+  "explain": "\"rende più costosi i prestiti e può rallentare la crescita economica.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "L'inflazione indica un aumento generale e continuo dei prezzi. Quando i prezzi salgono, con la stessa somma di denaro si possono comprare meno beni: il potere d'acquisto diminuisce. Le cause possono essere diverse. A volte la domanda cresce più rapidamente dell'offerta; altre volte aumentano i costi di produzione, per esempio quelli dell'energia, e le imprese li scaricano sui consumatori. Le banche centrali cercano di tenere l'inflazione sotto controllo alzando i tassi di interesse, ma questa scelta ha un prezzo: rende più costosi i prestiti e può rallentare la crescita economica.",
+  "group": "read-inflazione"
+ },
+ {
+  "id": "x-r-film-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Qual è il giudizio generale del critico?",
+  "options": [
+   "Entusiasta.",
+   "Negativo, con una sola nota positiva.",
+   "Negativo soprattutto per colpa degli attori.",
+   "Del tutto neutro.",
+   "Positivo, con qualche difetto."
+  ],
+  "answer": 1,
+  "explain": "\"delude… Si salva soltanto la fotografia.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il nuovo film del regista, atteso da mesi, delude chi sperava in un'opera all'altezza dei lavori precedenti. La storia, quella di una famiglia che si ritrova dopo vent'anni per vendere la casa dei genitori, parte con un'idea interessante, ma si perde presto in dialoghi ripetitivi e in scene troppo lunghe. Gli attori, pur bravi, non riescono a salvare un copione debole. Si salva soltanto la fotografia, che rende con grande finezza i paesaggi della campagna toscana. Chi ama il cinema d'autore potrà trovare qualche spunto di interesse; tutti gli altri farebbero meglio a rimandare la visione.",
+  "group": "read-film"
+ },
+ {
+  "id": "x-r-film-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Che cosa viene lodato nel film?",
+  "options": [
+   "I dialoghi.",
+   "La durata delle scene.",
+   "Il copione.",
+   "La musica.",
+   "La fotografia."
+  ],
+  "answer": 4,
+  "explain": "\"Si salva soltanto la fotografia.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il nuovo film del regista, atteso da mesi, delude chi sperava in un'opera all'altezza dei lavori precedenti. La storia, quella di una famiglia che si ritrova dopo vent'anni per vendere la casa dei genitori, parte con un'idea interessante, ma si perde presto in dialoghi ripetitivi e in scene troppo lunghe. Gli attori, pur bravi, non riescono a salvare un copione debole. Si salva soltanto la fotografia, che rende con grande finezza i paesaggi della campagna toscana. Chi ama il cinema d'autore potrà trovare qualche spunto di interesse; tutti gli altri farebbero meglio a rimandare la visione.",
+  "group": "read-film"
+ },
+ {
+  "id": "x-r-film-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Perché il film perde qualità?",
+  "options": [
+   "Perché manca la musica.",
+   "Perché è girato in una grande città.",
+   "Per i dialoghi ripetitivi e le scene troppo lunghe.",
+   "Perché la storia è troppo breve.",
+   "Perché gli attori recitano male."
+  ],
+  "answer": 2,
+  "explain": "\"si perde presto in dialoghi ripetitivi e in scene troppo lunghe.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il nuovo film del regista, atteso da mesi, delude chi sperava in un'opera all'altezza dei lavori precedenti. La storia, quella di una famiglia che si ritrova dopo vent'anni per vendere la casa dei genitori, parte con un'idea interessante, ma si perde presto in dialoghi ripetitivi e in scene troppo lunghe. Gli attori, pur bravi, non riescono a salvare un copione debole. Si salva soltanto la fotografia, che rende con grande finezza i paesaggi della campagna toscana. Chi ama il cinema d'autore potrà trovare qualche spunto di interesse; tutti gli altri farebbero meglio a rimandare la visione.",
+  "group": "read-film"
+ },
+ {
+  "id": "x-r-film-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "A chi consiglia il film il critico?",
+  "options": [
+   "A chi ama i paesaggi toscani soltanto.",
+   "Soltanto agli appassionati di cinema d'autore.",
+   "A tutti gli spettatori.",
+   "A chi non ha visto i lavori precedenti.",
+   "Alle famiglie con bambini."
+  ],
+  "answer": 1,
+  "explain": "\"Chi ama il cinema d'autore potrà trovare qualche spunto; tutti gli altri farebbero meglio a rimandare.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Il nuovo film del regista, atteso da mesi, delude chi sperava in un'opera all'altezza dei lavori precedenti. La storia, quella di una famiglia che si ritrova dopo vent'anni per vendere la casa dei genitori, parte con un'idea interessante, ma si perde presto in dialoghi ripetitivi e in scene troppo lunghe. Gli attori, pur bravi, non riescono a salvare un copione debole. Si salva soltanto la fotografia, che rende con grande finezza i paesaggi della campagna toscana. Chi ama il cinema d'autore potrà trovare qualche spunto di interesse; tutti gli altri farebbero meglio a rimandare la visione.",
+  "group": "read-film"
+ },
+ {
+  "id": "x-r-esami-1",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Qual è l'argomento centrale del testo?",
+  "options": [
+   "La storia delle scuole italiane.",
+   "Come si lavora in gruppo.",
+   "Come si preparano gli insegnanti.",
+   "I vantaggi e i limiti degli esami scritti.",
+   "Perché gli studenti odiano gli esami."
+  ],
+  "answer": 3,
+  "explain": "The text weighs supporters against critics of written exams.",
+  "source": "hand",
+  "verified": true,
+  "passage": "Da anni si discute se gli esami scritti siano il modo migliore per valutare gli studenti. I sostenitori sottolineano che una prova uguale per tutti garantisce equità e permette di confrontare i risultati. I critici, invece, osservano che molte prove misurano soprattutto la capacità di ricordare nozioni a breve termine, mentre trascurano abilità come la creatività e il lavoro di gruppo. Alcune scuole hanno quindi introdotto progetti e presentazioni orali accanto agli esami tradizionali. Non è chiaro, tuttavia, se questo metodo sia davvero più giusto: valutare un lavoro creativo richiede criteri che possono variare da insegnante a insegnante.",
+  "group": "read-esami"
+ },
+ {
+  "id": "x-r-esami-2",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Quale vantaggio indicano i sostenitori degli esami scritti?",
+  "options": [
+   "Dipendono dall'insegnante.",
+   "Sono più facili da preparare.",
+   "Misurano la creatività.",
+   "Premiano il lavoro di gruppo.",
+   "Una prova uguale per tutti è più equa."
+  ],
+  "answer": 4,
+  "explain": "\"una prova uguale per tutti garantisce equità.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Da anni si discute se gli esami scritti siano il modo migliore per valutare gli studenti. I sostenitori sottolineano che una prova uguale per tutti garantisce equità e permette di confrontare i risultati. I critici, invece, osservano che molte prove misurano soprattutto la capacità di ricordare nozioni a breve termine, mentre trascurano abilità come la creatività e il lavoro di gruppo. Alcune scuole hanno quindi introdotto progetti e presentazioni orali accanto agli esami tradizionali. Non è chiaro, tuttavia, se questo metodo sia davvero più giusto: valutare un lavoro creativo richiede criteri che possono variare da insegnante a insegnante.",
+  "group": "read-esami"
+ },
+ {
+  "id": "x-r-esami-3",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Che cosa criticano gli oppositori?",
+  "options": [
+   "Gli studenti non studiano abbastanza.",
+   "Le presentazioni orali sono inutili.",
+   "Le prove misurano soprattutto la memoria a breve termine.",
+   "Le prove sono troppo difficili.",
+   "Le prove non sono uguali per tutti."
+  ],
+  "answer": 2,
+  "explain": "\"misurano soprattutto la capacità di ricordare nozioni a breve termine.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Da anni si discute se gli esami scritti siano il modo migliore per valutare gli studenti. I sostenitori sottolineano che una prova uguale per tutti garantisce equità e permette di confrontare i risultati. I critici, invece, osservano che molte prove misurano soprattutto la capacità di ricordare nozioni a breve termine, mentre trascurano abilità come la creatività e il lavoro di gruppo. Alcune scuole hanno quindi introdotto progetti e presentazioni orali accanto agli esami tradizionali. Non è chiaro, tuttavia, se questo metodo sia davvero più giusto: valutare un lavoro creativo richiede criteri che possono variare da insegnante a insegnante.",
+  "group": "read-esami"
+ },
+ {
+  "id": "x-r-esami-4",
+  "section": "reading",
+  "topic": "exam.reading",
+  "level": 4,
+  "prompt": "Quale dubbio resta sui progetti e le presentazioni?",
+  "options": [
+   "Sono troppo costosi.",
+   "Gli studenti non li amano.",
+   "I criteri di valutazione possono cambiare da un insegnante all'altro.",
+   "Richiedono più tempo degli esami scritti.",
+   "Non sono mai stati usati nelle scuole."
+  ],
+  "answer": 2,
+  "explain": "\"richiede criteri che possono variare da insegnante a insegnante.\"",
+  "source": "hand",
+  "verified": true,
+  "passage": "Da anni si discute se gli esami scritti siano il modo migliore per valutare gli studenti. I sostenitori sottolineano che una prova uguale per tutti garantisce equità e permette di confrontare i risultati. I critici, invece, osservano che molte prove misurano soprattutto la capacità di ricordare nozioni a breve termine, mentre trascurano abilità come la creatività e il lavoro di gruppo. Alcune scuole hanno quindi introdotto progetti e presentazioni orali accanto agli esami tradizionali. Non è chiaro, tuttavia, se questo metodo sia davvero più giusto: valutare un lavoro creativo richiede criteri che possono variare da insegnante a insegnante.",
+  "group": "read-esami"
  }
 ]
