@@ -13,6 +13,7 @@ npm run validate # check every question in content/questions
 npm run serve    # http://localhost:8080
 npm run gen      # rebuild generated questions (content/questions/gen-*.json) and the index
 npm run sample -- lesson.1.2 5   # print random generated questions to eyeball
+npm run exam     # rebuild the hand-written exam sections (vocab in context, passage cloze)
 npm run import   # one-time import of v1 lessons/words (needs archive/v1, which is not in git)
 ```
 

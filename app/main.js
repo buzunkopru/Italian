@@ -11,7 +11,7 @@ const ROUTES = {
   practice: () => import('./screens/practice.js'),
   session: () => import('./screens/session.js'),
   progress: () => import('./screens/progress.js'),
-  exam: () => import('./screens/placeholder.js'),
+  exam: () => import('./screens/exam.js'),
 };
 
 const root = document.getElementById('view');

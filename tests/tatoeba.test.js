@@ -51,7 +51,7 @@ test('distractors never repeat the answer or each other, case-insensitively', ()
 test('topics are spread across all four cloze types', () => {
   const by = {};
   for (const q of bank) by[q.topic] = (by[q.topic] || 0) + 1;
-  for (const t of Object.keys(topics)) assert.ok(by[t] >= 100, `${t}: ${by[t]}`);
+  for (const t of Object.keys(topics).filter((k) => k.startsWith('cloze.'))) assert.ok(by[t] >= 100, `${t}: ${by[t]}`);
 });
 
 test('wholesome content: no flagged words slipped in', () => {

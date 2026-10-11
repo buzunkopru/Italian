@@ -2,5 +2,7 @@
   "cloze.connectors": "Cloze: connectors (ma, però, perché, quindi…)",
   "cloze.prepositions": "Cloze: preposition + article (nel, della, ai…)",
   "cloze.articles": "Cloze: articles (il, lo, la, un, una…)",
-  "cloze.verbs": "Cloze: verb forms with a subject"
+  "cloze.verbs": "Cloze: verb forms with a subject",
+  "exam.vocab": "Exam: vocabulary in context",
+  "exam.cloze": "Exam: passage cloze"
 }

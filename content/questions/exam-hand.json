@@ -1,0 +1,2720 @@
+[
+ {
+  "id": "x-v-q1qwql",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il governo ha deciso di ---- nuove misure per ridurre l'inflazione.",
+  "options": [
+   "sopportare",
+   "smentire",
+   "ereditare",
+   "adottare",
+   "ospitare"
+  ],
+  "answer": 3,
+  "explain": "adottare misure = to adopt measures. sopportare = to endure, smentire = to deny, ospitare = to host, ereditare = to inherit.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-gcz06o",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Gli archeologi hanno ---- i resti di un antico tempio sotto la piazza.",
+  "options": [
+   "prodotto",
+   "sospeso",
+   "scoperto",
+   "inventato",
+   "vietato"
+  ],
+  "answer": 2,
+  "explain": "scoprire = to discover (something that already existed). inventare is for something new that did not exist.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-10n9j05",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Chi fuma nei locali pubblici viene multato, perché la legge lo ----.",
+  "options": [
+   "vieta",
+   "consente",
+   "permette",
+   "incoraggia",
+   "promuove"
+  ],
+  "answer": 0,
+  "explain": "vietare = to forbid. A fine only makes sense if the law forbids it; the other four verbs say the opposite.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1gwhq94",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "La ricerca ---- che il consumo di zucchero è aumentato negli ultimi dieci anni.",
+  "options": [
+   "evita",
+   "impedisce",
+   "ostacola",
+   "sopporta",
+   "dimostra"
+  ],
+  "answer": 4,
+  "explain": "dimostrare che = to show/prove that. The other verbs cannot introduce a che-clause of this kind.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-w1vxs8",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il medico ha ---- al paziente di riposare per due settimane.",
+  "options": [
+   "smentito",
+   "accusato",
+   "salutato",
+   "consigliato",
+   "obbedito"
+  ],
+  "answer": 3,
+  "explain": "consigliare a qualcuno di + infinitive = to advise someone to do something.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-mk0pzi",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "L'azienda ha ---- molti dipendenti a causa della crisi economica.",
+  "options": [
+   "ringraziato",
+   "ospitato",
+   "premiato",
+   "licenziato",
+   "applaudito"
+  ],
+  "answer": 3,
+  "explain": "licenziare = to dismiss/fire. A crisis leads to dismissals, not rewards.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1e45s2k",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "È importante ---- le fonti prima di pubblicare un articolo.",
+  "options": [
+   "verificare",
+   "bruciare",
+   "ostacolare",
+   "sorpassare",
+   "scambiare"
+  ],
+  "answer": 0,
+  "explain": "verificare = to check/verify.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1x3w8wt",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il sindaco ha ---- la costruzione di un nuovo ponte sul fiume.",
+  "options": [
+   "smarrito",
+   "indossato",
+   "cucinato",
+   "spedito",
+   "approvato"
+  ],
+  "answer": 4,
+  "explain": "approvare = to approve.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1rzzjs0",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il progetto è stato ---- per mancanza di fondi.",
+  "options": [
+   "bevuto",
+   "cantato",
+   "sospeso",
+   "ricordato",
+   "lavato"
+  ],
+  "answer": 2,
+  "explain": "sospendere = to suspend. A project without money is suspended.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-ohj2f4",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Le temperature ---- ogni anno a causa del riscaldamento globale.",
+  "options": [
+   "nascono",
+   "aumentano",
+   "ereditano",
+   "firmano",
+   "cantano"
+  ],
+  "answer": 1,
+  "explain": "aumentare = to increase; its subject can be temperatures (a quantity).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-18mxw9t",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Gli studiosi ---- che la teoria non spiega tutti i fenomeni osservati.",
+  "options": [
+   "prestano",
+   "sostengono",
+   "ritardano",
+   "vestono",
+   "toccano"
+  ],
+  "answer": 1,
+  "explain": "sostenere che = to maintain/argue that (academic).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1bmui9u",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il documento ---- l'importanza di una maggiore collaborazione tra i paesi.",
+  "options": [
+   "sottolinea",
+   "nasconde",
+   "sopprime",
+   "sostituisce",
+   "sfrutta"
+  ],
+  "answer": 0,
+  "explain": "sottolineare = to underline/stress.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-zb0lif",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Un'alimentazione sana ---- il rischio di molte malattie.",
+  "options": [
+   "produce",
+   "attacca",
+   "costruisce",
+   "esige",
+   "riduce"
+  ],
+  "answer": 4,
+  "explain": "ridurre il rischio = to lower the risk.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1rfy3t7",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "La nuova strada ---- il collegamento tra i due villaggi.",
+  "options": [
+   "facilita",
+   "annulla",
+   "ostacola",
+   "complica",
+   "viola"
+  ],
+  "answer": 0,
+  "explain": "facilitare = to make easier. A new road eases a link; the other verbs are negative.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1up50xg",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il trattato ---- lo scambio di merci senza dazi tra i firmatari.",
+  "options": [
+   "esclude",
+   "proibisce",
+   "consente",
+   "ritarda",
+   "rifiuta"
+  ],
+  "answer": 2,
+  "explain": "consentire = to allow/enable. A trade treaty exists to allow exchange; the other verbs are negative.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1jeig1n",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il crollo dei prezzi ha ---- molte imprese a chiudere.",
+  "options": [
+   "ringraziato",
+   "aspettato",
+   "costretto",
+   "visitato",
+   "salutato"
+  ],
+  "answer": 2,
+  "explain": "costringere a + infinitive = to force someone to.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-qrm55",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il tribunale ha ---- l'imputato dall'accusa di frode.",
+  "options": [
+   "visitato",
+   "condotto",
+   "ripreso",
+   "recitato",
+   "assolto"
+  ],
+  "answer": 4,
+  "explain": "assolvere da = to acquit of. Only this verb goes with \"dall'accusa\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-n2i1et",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "I dati dei due studi non ----: il primo indica un aumento, il secondo un calo.",
+  "options": [
+   "coincidono",
+   "consistono",
+   "nascono",
+   "sorgono",
+   "abitano"
+  ],
+  "answer": 0,
+  "explain": "coincidere = to coincide/match.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-17fv1lm",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "L'esito dell'esperimento ---- molto dalle condizioni iniziali.",
+  "options": [
+   "dipende",
+   "consiste",
+   "coincide",
+   "appartiene",
+   "comporta"
+  ],
+  "answer": 0,
+  "explain": "dipendere da = to depend on.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1acwu0u",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "La nuova tecnologia ---- grandi cambiamenti nel mondo del lavoro.",
+  "options": [
+   "comporta",
+   "consiste",
+   "dipende",
+   "appartiene",
+   "coincide"
+  ],
+  "answer": 0,
+  "explain": "comportare = to entail/bring about. The others need a preposition (in, da, con, a).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-cl9d7",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il ricercatore ha ---- un questionario a duecento studenti.",
+  "options": [
+   "consolidato",
+   "attestato",
+   "sfuggito",
+   "adempiuto",
+   "somministrato"
+  ],
+  "answer": 4,
+  "explain": "somministrare un questionario = to administer a questionnaire (set phrase in research).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-rh5rp5",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "I manifestanti hanno ---- la strada per protesta contro la riforma.",
+  "options": [
+   "tradotto",
+   "rassicurato",
+   "ereditato",
+   "trascurato",
+   "bloccato"
+  ],
+  "answer": 4,
+  "explain": "bloccare = to block.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1cvzdum",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il testo ---- tre parti: introduzione, sviluppo e conclusione.",
+  "options": [
+   "smentisce",
+   "espelle",
+   "evita",
+   "ignora",
+   "comprende"
+  ],
+  "answer": 4,
+  "explain": "comprendere = to include/comprise. Its subject is the whole, the object its parts.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-j1qdbr",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il professore ci ha ---- gli appunti del corso.",
+  "options": [
+   "nuotato",
+   "riassunto",
+   "sposato",
+   "bevuto",
+   "suonato"
+  ],
+  "answer": 1,
+  "explain": "riassumere = to summarize.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1itds7f",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Molti studenti non ---- a finire l'esame nel tempo previsto.",
+  "options": [
+   "sembrano",
+   "riescono",
+   "tentano",
+   "sperano",
+   "decidono"
+  ],
+  "answer": 1,
+  "explain": "riuscire a + infinitive = to manage to. The others take different constructions (tentare di, decidere di, sperare di).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1jdbrtk",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il contratto è ----: scade tra sei mesi.",
+  "options": [
+   "costante",
+   "temporaneo",
+   "stabile",
+   "duraturo",
+   "permanente"
+  ],
+  "answer": 1,
+  "explain": "temporaneo = temporary. \"scade tra sei mesi\" excludes permanente/duraturo/stabile.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-lkbdx5",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il traffico è un problema ---- in tutte le grandi città del mondo.",
+  "options": [
+   "vuoto",
+   "raro",
+   "giovane",
+   "comune",
+   "invisibile"
+  ],
+  "answer": 3,
+  "explain": "comune = common / shared by all.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-br7u1u",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Questa scoperta è ---- per il futuro della medicina.",
+  "options": [
+   "veloce",
+   "dolce",
+   "gentile",
+   "fondamentale",
+   "felice"
+  ],
+  "answer": 3,
+  "explain": "fondamentale = fundamental.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-kf572k",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "La situazione economica del paese è ----: ci sono troppi disoccupati.",
+  "options": [
+   "dolce",
+   "gentile",
+   "felice",
+   "grave",
+   "veloce"
+  ],
+  "answer": 3,
+  "explain": "grave = serious.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1njgdkt",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Dopo la lunga malattia il paziente era molto ----.",
+  "options": [
+   "vasto",
+   "pubblico",
+   "debole",
+   "ricco",
+   "alto"
+  ],
+  "answer": 2,
+  "explain": "debole = weak.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-qmwz4n",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il ritmo della crescita è rimasto ---- negli ultimi tre anni.",
+  "options": [
+   "artificiale",
+   "giovane",
+   "dolce",
+   "costante",
+   "urgente"
+  ],
+  "answer": 3,
+  "explain": "costante = steady. \"rimasto\" means it did not change.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1rdzhjf",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Le informazioni raccolte non sono ---- per rispondere alla domanda.",
+  "options": [
+   "simpatici",
+   "pubblici",
+   "visibili",
+   "forti",
+   "sufficienti"
+  ],
+  "answer": 4,
+  "explain": "sufficiente = enough. The others make no sense with \"per rispondere alla domanda\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-x6nccu",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Questa regola vale per tutti, senza eccezioni: è ----.",
+  "options": [
+   "locale",
+   "particolare",
+   "speciale",
+   "individuale",
+   "generale"
+  ],
+  "answer": 4,
+  "explain": "generale = general. \"senza eccezioni\" excludes the others.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-pef1lk",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "L'esperto ha dato una risposta molto ----: nessuno ha capito nulla.",
+  "options": [
+   "precisa",
+   "esatta",
+   "corretta",
+   "chiara",
+   "vaga"
+  ],
+  "answer": 4,
+  "explain": "vago = vague. The result \"nessuno ha capito\" excludes precisa/chiara/esatta/corretta.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-2gm5fj",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Le piogge ---- hanno causato gravi danni ai raccolti.",
+  "options": [
+   "sicure",
+   "pubbliche",
+   "intense",
+   "fragili",
+   "dolci"
+  ],
+  "answer": 2,
+  "explain": "intenso = heavy/intense. \"gravi danni\" fits intense rain.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-gx2pw2",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Non si può accettare una spiegazione così ----: bisogna verificare i dati.",
+  "options": [
+   "completa",
+   "rigorosa",
+   "dettagliata",
+   "approfondita",
+   "superficiale"
+  ],
+  "answer": 4,
+  "explain": "superficiale = superficial. \"bisogna verificare\" shows the explanation is weak.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-km5sri",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il risultato è stato ----: nessuno se lo aspettava.",
+  "options": [
+   "normale",
+   "sorprendente",
+   "atteso",
+   "prevedibile",
+   "ovvio"
+  ],
+  "answer": 1,
+  "explain": "sorprendente = surprising. \"nessuno se lo aspettava\" excludes the others.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1mzzdw3",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il sindacato ha chiesto un intervento ---- per salvare i posti di lavoro.",
+  "options": [
+   "rinviato",
+   "lento",
+   "tardivo",
+   "immediato",
+   "futuro"
+  ],
+  "answer": 3,
+  "explain": "immediato = immediate. To \"save jobs\" action must be quick.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-8e87q5",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il suo comportamento è ---- con i valori che dice di difendere.",
+  "options": [
+   "coerente",
+   "adatto",
+   "conforme",
+   "incoerente",
+   "fedele"
+  ],
+  "answer": 3,
+  "explain": "incoerente = inconsistent. \"che dice di difendere\" suggests a contradiction.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1x3r69s",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Con un'analisi ---- dei dati, i ricercatori hanno trovato diversi errori.",
+  "options": [
+   "incerta",
+   "sbadata",
+   "distratta",
+   "accurata",
+   "leggera"
+  ],
+  "answer": 3,
+  "explain": "accurato = careful, thorough. Finding several errors implies a careful analysis.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-nf03dt",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il sistema è ----: basta un errore per bloccare tutto.",
+  "options": [
+   "solido",
+   "fragile",
+   "stabile",
+   "resistente",
+   "robusto"
+  ],
+  "answer": 1,
+  "explain": "fragile = fragile. \"basta un errore per bloccare tutto\" excludes the others.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-12tydh3",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "L'inquinamento è una grave ---- per la salute dei cittadini.",
+  "options": [
+   "sedia",
+   "notte",
+   "pianta",
+   "minaccia",
+   "scuola"
+  ],
+  "answer": 3,
+  "explain": "minaccia = threat.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1qm8olp",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il ---- tra i due paesi è stato firmato ieri a Roma.",
+  "options": [
+   "pericolo",
+   "rischio",
+   "accordo",
+   "conflitto",
+   "declino"
+  ],
+  "answer": 2,
+  "explain": "accordo = agreement; you sign an agreement, not a conflict.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1esxr4p",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il forte ---- dei prezzi ha reso la vita difficile a molte famiglie.",
+  "options": [
+   "talento",
+   "declino",
+   "silenzio",
+   "museo",
+   "aumento"
+  ],
+  "answer": 4,
+  "explain": "aumento = increase. A rise in prices makes life hard.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-hvk0nx",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Lo scienziato ha presentato i ---- della ricerca durante il convegno.",
+  "options": [
+   "castelli",
+   "ponti",
+   "risultati",
+   "alberi",
+   "letti"
+  ],
+  "answer": 2,
+  "explain": "i risultati = the results.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-pcsh4v",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "La vera ---- della malattia è ancora sconosciuta.",
+  "options": [
+   "causa",
+   "tappa",
+   "merce",
+   "occasione",
+   "volta"
+  ],
+  "answer": 0,
+  "explain": "causa = cause; \"sconosciuta\" fits the cause of an illness.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-12qnkmb",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Dopo anni di lavoro, il progetto ha finalmente raggiunto il suo ----.",
+  "options": [
+   "sintomo",
+   "disegno",
+   "obiettivo",
+   "ostacolo",
+   "rumore"
+  ],
+  "answer": 2,
+  "explain": "raggiungere un obiettivo = to reach a goal.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-kh40er",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "La ---- tra ricchi e poveri è cresciuta negli ultimi anni.",
+  "options": [
+   "cortesia",
+   "disuguaglianza",
+   "solidarietà",
+   "somiglianza",
+   "fiducia"
+  ],
+  "answer": 1,
+  "explain": "disuguaglianza = inequality; the others are positive or unrelated.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-10cy240",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Per entrare nel laboratorio servono una ---- speciale e un documento.",
+  "options": [
+   "stazione",
+   "sorella",
+   "poesia",
+   "collina",
+   "autorizzazione"
+  ],
+  "answer": 4,
+  "explain": "autorizzazione = authorization/permit.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1v7q00q",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Una ---- di studi conferma questo effetto: sono più di trenta.",
+  "options": [
+   "serie",
+   "fine",
+   "casa",
+   "luce",
+   "storia"
+  ],
+  "answer": 0,
+  "explain": "una serie di = a series of / a number of.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1rngyr8",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il medico ha chiesto di ripetere l'---- dopo due settimane.",
+  "options": [
+   "isola",
+   "ombra",
+   "arte",
+   "esame",
+   "estate"
+  ],
+  "answer": 3,
+  "explain": "esame = test (medical).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1t1j76b",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "I ricercatori hanno trovato una ---- tra il fumo e certe malattie.",
+  "options": [
+   "mancanza",
+   "apertura",
+   "intenzione",
+   "correlazione",
+   "sostituzione"
+  ],
+  "answer": 3,
+  "explain": "correlazione tra A e B = correlation between A and B.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-183cwnp",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il dibattito sul ---- dell'università è ancora aperto.",
+  "options": [
+   "ruolo",
+   "vento",
+   "sole",
+   "pane",
+   "mare"
+  ],
+  "answer": 0,
+  "explain": "il ruolo = the role.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-11y92nz",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il ---- tra i due partiti si è chiuso con una stretta di mano.",
+  "options": [
+   "oceano",
+   "mercato",
+   "confronto",
+   "pericolo",
+   "fuoco"
+  ],
+  "answer": 2,
+  "explain": "confronto = comparison / discussion.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1avp6df",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "L'articolo ---- riferimento a uno studio pubblicato nel 2019.",
+  "options": [
+   "mette",
+   "dà",
+   "ha",
+   "prende",
+   "fa"
+  ],
+  "answer": 4,
+  "explain": "fare riferimento a = to refer to.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-i6y2ji",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Bisogna ---- conto di tutti i fattori prima di decidere.",
+  "options": [
+   "portare",
+   "mettere",
+   "andare",
+   "prendere",
+   "tenere"
+  ],
+  "answer": 4,
+  "explain": "tenere conto di = to take into account.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1jwyfq8",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "I risultati hanno ---- in discussione le teorie precedenti.",
+  "options": [
+   "trovato",
+   "lasciato",
+   "tolto",
+   "preso",
+   "messo"
+  ],
+  "answer": 4,
+  "explain": "mettere in discussione = to call into question.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-lih88c",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Questo fenomeno non ha niente a che ---- con il clima.",
+  "options": [
+   "fare",
+   "dare",
+   "andare",
+   "dire",
+   "stare"
+  ],
+  "answer": 0,
+  "explain": "avere a che fare con = to have to do with.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1rq4643",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Il piano alternativo è stato ---- in considerazione solo alla fine.",
+  "options": [
+   "perso",
+   "fatto",
+   "lasciato",
+   "dato",
+   "preso"
+  ],
+  "answer": 4,
+  "explain": "prendere in considerazione = to take into consideration.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-15wsxz5",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Le nuove regole entreranno ---- vigore il primo gennaio.",
+  "options": [
+   "in",
+   "a",
+   "su",
+   "da",
+   "per"
+  ],
+  "answer": 0,
+  "explain": "entrare in vigore = to come into force.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-jbjkr1",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "L'insegnante ha ---- l'accento sull'importanza della lettura.",
+  "options": [
+   "dato",
+   "tolto",
+   "posto",
+   "fatto",
+   "preso"
+  ],
+  "answer": 2,
+  "explain": "porre l'accento su = to put the emphasis on.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-80mp3k",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Nel corso dell'anno, il paese ha ---- una forte crescita economica.",
+  "options": [
+   "ospitato",
+   "perduto",
+   "dimenticato",
+   "registrato",
+   "salutato"
+  ],
+  "answer": 3,
+  "explain": "registrare una crescita = to record growth.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-5mpakl",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il risultato non è ---- alle aspettative: ci aspettavamo molto di più.",
+  "options": [
+   "lieto",
+   "dolce",
+   "pari",
+   "alto",
+   "basso"
+  ],
+  "answer": 2,
+  "explain": "essere pari a = to be equal to / match (aspettative).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-12ft7t",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Un numero crescente di giovani ---- parte di associazioni di volontariato.",
+  "options": [
+   "sta",
+   "dà",
+   "fa",
+   "va",
+   "porta"
+  ],
+  "answer": 2,
+  "explain": "fare parte di = to be a member of.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1xxwtu8",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "La riforma è ---- dai sindacati: molti scioperi sono previsti.",
+  "options": [
+   "ospitata",
+   "assolta",
+   "invitata",
+   "contestata",
+   "cantata"
+  ],
+  "answer": 3,
+  "explain": "contestare = to challenge/oppose; the expected strikes show opposition.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-1flmp5l",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il ministro ha respinto ---- ogni accusa: \"Sono false\", ha detto.",
+  "options": [
+   "categoricamente",
+   "dolcemente",
+   "lentamente",
+   "pazientemente",
+   "raramente"
+  ],
+  "answer": 0,
+  "explain": "categoricamente = categorically, flatly. Matches the strong denial.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-iq2nrp",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Il virus si è diffuso ---- in tutto il paese: in una settimana c'erano migliaia di casi.",
+  "options": [
+   "pazientemente",
+   "lentamente",
+   "rapidamente",
+   "raramente",
+   "tranquillamente"
+  ],
+  "answer": 2,
+  "explain": "rapidamente = quickly. \"in una settimana\" shows speed.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-rp4hei",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "La proposta ha ricevuto ---- il sostegno di tutti i partiti, senza eccezioni.",
+  "options": [
+   "unanimemente",
+   "tardivamente",
+   "raramente",
+   "debolmente",
+   "parzialmente"
+  ],
+  "answer": 0,
+  "explain": "unanimemente = unanimously; \"senza eccezioni\" fits.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-nghfmn",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Si tratta di un fenomeno ---- raro: accade una volta ogni cent'anni.",
+  "options": [
+   "forse",
+   "estremamente",
+   "spesso",
+   "facilmente",
+   "sempre"
+  ],
+  "answer": 1,
+  "explain": "estremamente + adjective = extremely.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-4ie2b5",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 4,
+  "prompt": "Gli effetti della nuova legge si vedranno ---- tra qualche anno.",
+  "options": [
+   "mai",
+   "solo",
+   "sempre",
+   "troppo",
+   "ieri"
+  ],
+  "answer": 1,
+  "explain": "solo tra qualche anno = only in a few years' time.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-v-11iy46a",
+  "section": "vocab",
+  "topic": "exam.vocab",
+  "level": 3,
+  "prompt": "Non ho ancora letto il rapporto: lo leggerò ----.",
+  "options": [
+   "sempre",
+   "ieri",
+   "ancora",
+   "mai",
+   "domani"
+  ],
+  "answer": 4,
+  "explain": "domani = tomorrow; \"leggerò\" is future, so \"ieri\" cannot fit.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1eqdv4t",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Negli ultimi anni gli smartphone ---- diventati strumenti indispensabili per milioni di persone. Non solo permettono di comunicare in pochi secondi, ma offrono anche accesso a una quantità enorme di informazioni. Tuttavia, molti esperti avvertono che un uso eccessivo può creare dipendenza. Alcuni studenti, per esempio, passano molte ore al giorno davanti allo schermo e dormono poco. Per questo motivo è importante trovare un equilibrio tra vita online e vita reale.",
+  "options": [
+   "siano",
+   "stanno",
+   "hanno",
+   "essendo",
+   "sono"
+  ],
+  "answer": 4,
+  "explain": "Verbs of change like \"diventare\" take essere: sono diventati.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-15sbys5",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Negli ultimi anni gli smartphone sono diventati strumenti indispensabili per milioni di persone. ---- permettono di comunicare in pochi secondi, ma offrono anche accesso a una quantità enorme di informazioni. Tuttavia, molti esperti avvertono che un uso eccessivo può creare dipendenza. Alcuni studenti, per esempio, passano molte ore al giorno davanti allo schermo e dormono poco. Per questo motivo è importante trovare un equilibrio tra vita online e vita reale.",
+  "options": [
+   "Perché",
+   "Invece",
+   "Non solo",
+   "Benché",
+   "Quindi"
+  ],
+  "answer": 2,
+  "explain": "\"Non solo… ma anche\" = not only… but also.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-97l731",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Negli ultimi anni gli smartphone sono diventati strumenti indispensabili per milioni di persone. Non solo permettono di comunicare in pochi secondi, ma offrono anche accesso a una quantità enorme di informazioni. ----, molti esperti avvertono che un uso eccessivo può creare dipendenza. Alcuni studenti, per esempio, passano molte ore al giorno davanti allo schermo e dormono poco. Per questo motivo è importante trovare un equilibrio tra vita online e vita reale.",
+  "options": [
+   "Infatti",
+   "Ad esempio",
+   "Quindi",
+   "Tuttavia",
+   "Cioè"
+  ],
+  "answer": 3,
+  "explain": "After the benefits comes a warning, so we need a contrast: tuttavia = however.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-ykmmn1",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Negli ultimi anni gli smartphone sono diventati strumenti indispensabili per milioni di persone. Non solo permettono di comunicare in pochi secondi, ma offrono anche accesso a una quantità enorme di informazioni. Tuttavia, molti esperti avvertono che un uso eccessivo può creare dipendenza. Alcuni studenti, per esempio, passano ---- ore al giorno davanti allo schermo e dormono poco. Per questo motivo è importante trovare un equilibrio tra vita online e vita reale.",
+  "options": [
+   "molto",
+   "molte",
+   "tanto",
+   "molta",
+   "molti"
+  ],
+  "answer": 1,
+  "explain": "\"ore\" is feminine plural → molte.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1osqmnv",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Negli ultimi anni gli smartphone sono diventati strumenti indispensabili per milioni di persone. Non solo permettono di comunicare in pochi secondi, ma offrono anche accesso a una quantità enorme di informazioni. Tuttavia, molti esperti avvertono che un uso eccessivo può creare dipendenza. Alcuni studenti, per esempio, passano molte ore al giorno davanti allo schermo e dormono poco. Per questo motivo è importante ---- un equilibrio tra vita online e vita reale.",
+  "options": [
+   "trovare",
+   "trovi",
+   "trovando",
+   "trova",
+   "trovato"
+  ],
+  "answer": 0,
+  "explain": "\"È importante\" + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1p63ib5",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Il cambiamento climatico è uno dei problemi più gravi ---- l'umanità debba affrontare. Secondo gli scienziati, la temperatura media del pianeta è aumentata di circa un grado dall'inizio del secolo scorso. Benché i governi abbiano firmato molti accordi, le emissioni di gas serra continuano a crescere. Per questo molti ricercatori sostengono che sia necessario intervenire subito. Se non si agirà in fretta, le conseguenze diventeranno sempre più difficili da controllare.",
+  "options": [
+   "dove",
+   "cui",
+   "quanto",
+   "che",
+   "quale"
+  ],
+  "answer": 3,
+  "explain": "Direct-object relative pronoun → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-ks29wb",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Il cambiamento climatico è uno dei problemi più gravi che l'umanità debba affrontare. Secondo gli scienziati, la temperatura media del pianeta ---- di circa un grado dall'inizio del secolo scorso. Benché i governi abbiano firmato molti accordi, le emissioni di gas serra continuano a crescere. Per questo molti ricercatori sostengono che sia necessario intervenire subito. Se non si agirà in fretta, le conseguenze diventeranno sempre più difficili da controllare.",
+  "options": [
+   "aumentò",
+   "è aumentata",
+   "aumentava",
+   "aumenterà",
+   "era aumentata"
+  ],
+  "answer": 1,
+  "explain": "A change that started in the past and still matters now → passato prossimo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1t656lz",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Il cambiamento climatico è uno dei problemi più gravi che l'umanità debba affrontare. Secondo gli scienziati, la temperatura media del pianeta è aumentata di circa un grado dall'inizio del secolo scorso. ---- i governi abbiano firmato molti accordi, le emissioni di gas serra continuano a crescere. Per questo molti ricercatori sostengono che sia necessario intervenire subito. Se non si agirà in fretta, le conseguenze diventeranno sempre più difficili da controllare.",
+  "options": [
+   "Mentre",
+   "Dunque",
+   "Benché",
+   "Poiché",
+   "Quindi"
+  ],
+  "answer": 2,
+  "explain": "The subjunctive \"abbiano firmato\" signals a concession: benché = although.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1g2v6ux",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Il cambiamento climatico è uno dei problemi più gravi che l'umanità debba affrontare. Secondo gli scienziati, la temperatura media del pianeta è aumentata di circa un grado dall'inizio del secolo scorso. Benché i governi abbiano firmato molti accordi, le emissioni di gas serra continuano a crescere. Per questo molti ricercatori sostengono che sia necessario ---- subito. Se non si agirà in fretta, le conseguenze diventeranno sempre più difficili da controllare.",
+  "options": [
+   "intervenuto",
+   "intervenire",
+   "interviene",
+   "intervenga",
+   "intervenendo"
+  ],
+  "answer": 1,
+  "explain": "\"sia necessario\" + infinitive (no \"che\" here).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-6a7qmz",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Il cambiamento climatico è uno dei problemi più gravi che l'umanità debba affrontare. Secondo gli scienziati, la temperatura media del pianeta è aumentata di circa un grado dall'inizio del secolo scorso. Benché i governi abbiano firmato molti accordi, le emissioni di gas serra continuano a crescere. Per questo molti ricercatori sostengono che sia necessario intervenire subito. Se non si agirà in fretta, le conseguenze ---- sempre più difficili da controllare.",
+  "options": [
+   "diventino",
+   "diventerà",
+   "diventeranno",
+   "diventando",
+   "diventavano"
+  ],
+  "answer": 2,
+  "explain": "The \"se\" clause is future (si agirà), so the result is future too; plural subject → diventeranno.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-n4lfei",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Molti giovani italiani scelgono di studiare all'estero ---- migliorare le proprie competenze linguistiche. Il programma Erasmus, che è stato creato nel 1987, offre agli studenti la possibilità di frequentare un semestre in un'altra università europea. Grazie a questa esperienza, molti studenti imparano a vivere da soli e a collaborare con persone di culture diverse. Tuttavia, non tutti possono permettersela, perché i costi di un soggiorno all'estero rimangono elevati.",
+  "options": [
+   "di",
+   "con",
+   "da",
+   "per",
+   "a"
+  ],
+  "answer": 3,
+  "explain": "Purpose before an infinitive → per.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-kboa1i",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Molti giovani italiani scelgono di studiare all'estero per migliorare le proprie competenze linguistiche. Il programma Erasmus, ---- è stato creato nel 1987, offre agli studenti la possibilità di frequentare un semestre in un'altra università europea. Grazie a questa esperienza, molti studenti imparano a vivere da soli e a collaborare con persone di culture diverse. Tuttavia, non tutti possono permettersela, perché i costi di un soggiorno all'estero rimangono elevati.",
+  "options": [
+   "che",
+   "chi",
+   "dove",
+   "cui",
+   "quanto"
+  ],
+  "answer": 0,
+  "explain": "Subject of \"è stato creato\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1e1wuai",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Molti giovani italiani scelgono di studiare all'estero per migliorare le proprie competenze linguistiche. Il programma Erasmus, che è stato creato nel 1987, offre agli studenti la possibilità di frequentare un semestre in un'altra università europea. ---- questa esperienza, molti studenti imparano a vivere da soli e a collaborare con persone di culture diverse. Tuttavia, non tutti possono permettersela, perché i costi di un soggiorno all'estero rimangono elevati.",
+  "options": [
+   "Nonostante",
+   "Prima di",
+   "Senza",
+   "Invece di",
+   "Grazie a"
+  ],
+  "answer": 4,
+  "explain": "A positive result follows: grazie a = thanks to.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1s9x9lu",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Molti giovani italiani scelgono di studiare all'estero per migliorare le proprie competenze linguistiche. Il programma Erasmus, che è stato creato nel 1987, offre agli studenti la possibilità di frequentare un semestre in un'altra università europea. Grazie a questa esperienza, molti studenti imparano a vivere da soli e a ---- con persone di culture diverse. Tuttavia, non tutti possono permettersela, perché i costi di un soggiorno all'estero rimangono elevati.",
+  "options": [
+   "collaborerà",
+   "collaborando",
+   "collaborato",
+   "collaborare",
+   "collaborano"
+  ],
+  "answer": 3,
+  "explain": "\"imparano a\" + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-dtm25g",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Molti giovani italiani scelgono di studiare all'estero per migliorare le proprie competenze linguistiche. Il programma Erasmus, che è stato creato nel 1987, offre agli studenti la possibilità di frequentare un semestre in un'altra università europea. Grazie a questa esperienza, molti studenti imparano a vivere da soli e a collaborare con persone di culture diverse. ----, non tutti possono permettersela, perché i costi di un soggiorno all'estero rimangono elevati.",
+  "options": [
+   "Tuttavia",
+   "Infatti",
+   "Dunque",
+   "Perciò",
+   "Quindi"
+  ],
+  "answer": 0,
+  "explain": "The sentence limits the benefit, so it contrasts with the previous one: tuttavia.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-elglgg",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Fare attività fisica regolare fa bene ---- salute. Gli esperti consigliano di camminare almeno trenta minuti al giorno. Infatti una vita sedentaria aumenta il rischio di molte malattie, come il diabete e le malattie del cuore. Chi lavora molto seduto dovrebbe fare brevi pause ogni ora. Chi si muove regolarmente si sente meglio, ha più energia e dorme meglio.",
+  "options": [
+   "alla",
+   "della",
+   "la",
+   "nella",
+   "sulla"
+  ],
+  "answer": 0,
+  "explain": "\"fare bene a\" + la salute → alla.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1mckpdk",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Fare attività fisica regolare fa bene alla salute. Gli esperti consigliano di camminare almeno trenta minuti ---- giorno. Infatti una vita sedentaria aumenta il rischio di molte malattie, come il diabete e le malattie del cuore. Chi lavora molto seduto dovrebbe fare brevi pause ogni ora. Chi si muove regolarmente si sente meglio, ha più energia e dorme meglio.",
+  "options": [
+   "al",
+   "sul",
+   "nel",
+   "il",
+   "del"
+  ],
+  "answer": 0,
+  "explain": "\"al giorno\" = per day.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-pll1e",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Fare attività fisica regolare fa bene alla salute. Gli esperti consigliano di camminare almeno trenta minuti al giorno. ---- una vita sedentaria aumenta il rischio di molte malattie, come il diabete e le malattie del cuore. Chi lavora molto seduto dovrebbe fare brevi pause ogni ora. Chi si muove regolarmente si sente meglio, ha più energia e dorme meglio.",
+  "options": [
+   "Tuttavia",
+   "Quindi",
+   "Infatti",
+   "Ovvero",
+   "Invece"
+  ],
+  "answer": 2,
+  "explain": "The sentence gives the reason for the advice: infatti = in fact.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-9obs2g",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Fare attività fisica regolare fa bene alla salute. Gli esperti consigliano di camminare almeno trenta minuti al giorno. Infatti una vita sedentaria aumenta il rischio di molte malattie, come il diabete e le malattie del cuore. Chi lavora molto seduto ---- fare brevi pause ogni ora. Chi si muove regolarmente si sente meglio, ha più energia e dorme meglio.",
+  "options": [
+   "dovrebbero",
+   "dovrebbe",
+   "dovuto",
+   "dovendo",
+   "dovere"
+  ],
+  "answer": 1,
+  "explain": "Singular subject \"Chi\" → dovrebbe (advice).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1yl8tig",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Fare attività fisica regolare fa bene alla salute. Gli esperti consigliano di camminare almeno trenta minuti al giorno. Infatti una vita sedentaria aumenta il rischio di molte malattie, come il diabete e le malattie del cuore. Chi lavora molto seduto dovrebbe fare brevi pause ogni ora. Chi si muove regolarmente ---- meglio, ha più energia e dorme meglio.",
+  "options": [
+   "si sentirebbe",
+   "si sentiva",
+   "si sentono",
+   "sente",
+   "si sente"
+  ],
+  "answer": 4,
+  "explain": "\"sentirsi meglio\" = to feel better; \"Chi\" takes a singular verb.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-5lnpwy",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Negli ultimi decenni il mercato del lavoro è cambiato profondamente. Molte professioni tradizionali ---- scomparse, mentre ne sono nate di nuove, legate soprattutto alla tecnologia. Mentre chi ha una formazione adeguata trova facilmente un impiego, i lavoratori meno qualificati rischiano di restare senza occupazione. Per questo motivo molte aziende investono nella formazione dei propri dipendenti. Si tratta di una scelta che conviene a tutti: i lavoratori acquisiscono nuove competenze e l'azienda ne trae vantaggio. In conclusione, il futuro del lavoro dipenderà dalla capacità di adattarsi.",
+  "options": [
+   "siano",
+   "stanno",
+   "sono",
+   "essendo",
+   "hanno"
+  ],
+  "answer": 2,
+  "explain": "\"scomparire\" takes essere: sono scomparse.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-9dm392",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Negli ultimi decenni il mercato del lavoro è cambiato profondamente. Molte professioni tradizionali sono scomparse, mentre ne sono nate di nuove, legate soprattutto alla tecnologia. ---- chi ha una formazione adeguata trova facilmente un impiego, i lavoratori meno qualificati rischiano di restare senza occupazione. Per questo motivo molte aziende investono nella formazione dei propri dipendenti. Si tratta di una scelta che conviene a tutti: i lavoratori acquisiscono nuove competenze e l'azienda ne trae vantaggio. In conclusione, il futuro del lavoro dipenderà dalla capacità di adattarsi.",
+  "options": [
+   "Affinché",
+   "Siccome",
+   "Mentre",
+   "Quindi",
+   "Perché"
+  ],
+  "answer": 2,
+  "explain": "Two groups are contrasted: mentre = whereas.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1g2y2jm",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Negli ultimi decenni il mercato del lavoro è cambiato profondamente. Molte professioni tradizionali sono scomparse, mentre ne sono nate di nuove, legate soprattutto alla tecnologia. Mentre chi ha una formazione adeguata trova facilmente un impiego, i lavoratori meno qualificati rischiano di restare senza occupazione. ---- molte aziende investono nella formazione dei propri dipendenti. Si tratta di una scelta che conviene a tutti: i lavoratori acquisiscono nuove competenze e l'azienda ne trae vantaggio. In conclusione, il futuro del lavoro dipenderà dalla capacità di adattarsi.",
+  "options": [
+   "Al contrario",
+   "Eppure",
+   "Per questo motivo",
+   "Tuttavia",
+   "Anzi"
+  ],
+  "answer": 2,
+  "explain": "The investment is the consequence of the risk: per questo motivo = for this reason.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-ycp4gk",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Negli ultimi decenni il mercato del lavoro è cambiato profondamente. Molte professioni tradizionali sono scomparse, mentre ne sono nate di nuove, legate soprattutto alla tecnologia. Mentre chi ha una formazione adeguata trova facilmente un impiego, i lavoratori meno qualificati rischiano di restare senza occupazione. Per questo motivo molte aziende investono nella formazione dei propri dipendenti. Si tratta di una scelta ---- conviene a tutti: i lavoratori acquisiscono nuove competenze e l'azienda ne trae vantaggio. In conclusione, il futuro del lavoro dipenderà dalla capacità di adattarsi.",
+  "options": [
+   "quanto",
+   "quale",
+   "dove",
+   "cui",
+   "che"
+  ],
+  "answer": 4,
+  "explain": "Subject of \"conviene\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-a47rkg",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Negli ultimi decenni il mercato del lavoro è cambiato profondamente. Molte professioni tradizionali sono scomparse, mentre ne sono nate di nuove, legate soprattutto alla tecnologia. Mentre chi ha una formazione adeguata trova facilmente un impiego, i lavoratori meno qualificati rischiano di restare senza occupazione. Per questo motivo molte aziende investono nella formazione dei propri dipendenti. Si tratta di una scelta che conviene a tutti: i lavoratori acquisiscono nuove competenze e l'azienda ne trae vantaggio. ----, il futuro del lavoro dipenderà dalla capacità di adattarsi.",
+  "options": [
+   "Tuttavia",
+   "Per esempio",
+   "Al contrario",
+   "In conclusione",
+   "Intanto"
+  ],
+  "answer": 3,
+  "explain": "The last sentence sums up the paragraph.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-z8glmz",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "La ricerca scientifica richiede tempo, risorse e, ----, rigore. Un risultato non può essere considerato valido finché non è stato verificato da altri ricercatori. Per questo motivo le riviste scientifiche pubblicano solo gli studi che sono stati esaminati da esperti indipendenti. Non mancano casi in cui dati errati sono stati pubblicati per negligenza o, peggio, per frode. In situazioni simili, la fiducia del pubblico nella scienza ne risente.",
+  "options": [
+   "soprattutto",
+   "raramente",
+   "appena",
+   "altrimenti",
+   "poiché"
+  ],
+  "answer": 0,
+  "explain": "\"soprattutto\" = above all, singling out the last item of the list.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-xvjh4p",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "La ricerca scientifica richiede tempo, risorse e, soprattutto, rigore. Un risultato non può essere considerato valido ---- è stato verificato da altri ricercatori. Per questo motivo le riviste scientifiche pubblicano solo gli studi che sono stati esaminati da esperti indipendenti. Non mancano casi in cui dati errati sono stati pubblicati per negligenza o, peggio, per frode. In situazioni simili, la fiducia del pubblico nella scienza ne risente.",
+  "options": [
+   "siccome",
+   "benché",
+   "finché non",
+   "affinché",
+   "purché"
+  ],
+  "answer": 2,
+  "explain": "\"non… finché non\" = not… until: valid only after it has been verified.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-144lcvb",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "La ricerca scientifica richiede tempo, risorse e, soprattutto, rigore. Un risultato non può essere considerato valido finché non è stato verificato da altri ricercatori. Per questo motivo le riviste scientifiche pubblicano solo gli studi ---- sono stati esaminati da esperti indipendenti. Non mancano casi in cui dati errati sono stati pubblicati per negligenza o, peggio, per frode. In situazioni simili, la fiducia del pubblico nella scienza ne risente.",
+  "options": [
+   "dove",
+   "quali",
+   "cui",
+   "quanto",
+   "che"
+  ],
+  "answer": 4,
+  "explain": "Subject of \"sono stati esaminati\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1y9pg51",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "La ricerca scientifica richiede tempo, risorse e, soprattutto, rigore. Un risultato non può essere considerato valido finché non è stato verificato da altri ricercatori. Per questo motivo le riviste scientifiche pubblicano solo gli studi che sono stati esaminati da esperti indipendenti. ---- casi in cui dati errati sono stati pubblicati per negligenza o, peggio, per frode. In situazioni simili, la fiducia del pubblico nella scienza ne risente.",
+  "options": [
+   "Non mancano",
+   "Non manca",
+   "Non mancando",
+   "Non mancare",
+   "Non mancato"
+  ],
+  "answer": 0,
+  "explain": "\"casi\" is plural → mancano.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1scl92h",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "La ricerca scientifica richiede tempo, risorse e, soprattutto, rigore. Un risultato non può essere considerato valido finché non è stato verificato da altri ricercatori. Per questo motivo le riviste scientifiche pubblicano solo gli studi che sono stati esaminati da esperti indipendenti. Non mancano casi in cui dati errati sono stati pubblicati per negligenza o, peggio, per frode. In situazioni ----, la fiducia del pubblico nella scienza ne risente.",
+  "options": [
+   "simili",
+   "simile",
+   "similmente",
+   "simulare",
+   "similitudine"
+  ],
+  "answer": 0,
+  "explain": "Plural adjective agreeing with \"situazioni\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-12ine",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il turismo rappresenta una risorsa fondamentale per l'economia italiana. ---- generi occupazione e porti ricchezza, esso può avere effetti negativi sull'ambiente e sulla vita dei residenti. A causa dei flussi turistici, alcune città storiche rischiano di perdere la propria identità. Per questo molti sindaci hanno deciso di limitare l'accesso ai centri storici. Queste misure, tuttavia, non sono sempre sufficienti. Per promuovere un turismo più sostenibile, bisognerebbe distribuire meglio i visitatori nell'arco dell'anno.",
+  "options": [
+   "Sebbene",
+   "Poiché",
+   "Quindi",
+   "Siccome",
+   "Dato che"
+  ],
+  "answer": 0,
+  "explain": "The subjunctive \"generi/porti\" requires a concessive conjunction: sebbene = although.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-lz4y0g",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il turismo rappresenta una risorsa fondamentale per l'economia italiana. Sebbene generi occupazione e porti ricchezza, esso può avere effetti negativi sull'ambiente e sulla vita dei residenti. ---- dei flussi turistici, alcune città storiche rischiano di perdere la propria identità. Per questo molti sindaci hanno deciso di limitare l'accesso ai centri storici. Queste misure, tuttavia, non sono sempre sufficienti. Per promuovere un turismo più sostenibile, bisognerebbe distribuire meglio i visitatori nell'arco dell'anno.",
+  "options": [
+   "Grazie",
+   "A causa",
+   "Invece",
+   "Durante",
+   "Dopo"
+  ],
+  "answer": 1,
+  "explain": "\"A causa di\" + noun: a causa dei flussi turistici = because of the tourist flows.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-pyxz6g",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il turismo rappresenta una risorsa fondamentale per l'economia italiana. Sebbene generi occupazione e porti ricchezza, esso può avere effetti negativi sull'ambiente e sulla vita dei residenti. A causa dei flussi turistici, alcune città storiche rischiano di perdere la propria identità. Per questo molti sindaci hanno ---- limitare l'accesso ai centri storici. Queste misure, tuttavia, non sono sempre sufficienti. Per promuovere un turismo più sostenibile, bisognerebbe distribuire meglio i visitatori nell'arco dell'anno.",
+  "options": [
+   "deciso con",
+   "deciso di",
+   "deciso per",
+   "deciso da",
+   "deciso che"
+  ],
+  "answer": 1,
+  "explain": "\"decidere di\" + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-11avku0",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il turismo rappresenta una risorsa fondamentale per l'economia italiana. Sebbene generi occupazione e porti ricchezza, esso può avere effetti negativi sull'ambiente e sulla vita dei residenti. A causa dei flussi turistici, alcune città storiche rischiano di perdere la propria identità. Per questo molti sindaci hanno deciso di limitare l'accesso ai centri storici. Queste misure, ----, non sono sempre sufficienti. Per promuovere un turismo più sostenibile, bisognerebbe distribuire meglio i visitatori nell'arco dell'anno.",
+  "options": [
+   "pertanto",
+   "cioè",
+   "quindi",
+   "infatti",
+   "tuttavia"
+  ],
+  "answer": 4,
+  "explain": "The measures help but are not enough: tuttavia = however.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-126wupe",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il turismo rappresenta una risorsa fondamentale per l'economia italiana. Sebbene generi occupazione e porti ricchezza, esso può avere effetti negativi sull'ambiente e sulla vita dei residenti. A causa dei flussi turistici, alcune città storiche rischiano di perdere la propria identità. Per questo molti sindaci hanno deciso di limitare l'accesso ai centri storici. Queste misure, tuttavia, non sono sempre sufficienti. ---- un turismo più sostenibile, bisognerebbe distribuire meglio i visitatori nell'arco dell'anno.",
+  "options": [
+   "Per promuovere",
+   "Da promuovere",
+   "Di promuovere",
+   "Che promuovere",
+   "A promuovere"
+  ],
+  "answer": 0,
+  "explain": "Purpose → per + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-dggfww",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Roma ---- una delle città più visitate del mondo. Ogni anno milioni di turisti arrivano per ammirare i suoi monumenti. Molti di loro restano in città per tre giorni e riescono a vedere solo una parte di quello che offre. Chi vuole conoscerla davvero dovrebbe passare almeno una settimana. Nonostante il traffico e i prezzi alti, vale sempre la pena di visitarla.",
+  "options": [
+   "è",
+   "ha",
+   "sta",
+   "fa",
+   "va"
+  ],
+  "answer": 0,
+  "explain": "\"essere una delle città…\" = to be one of the cities…",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-lu5a0a",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Roma è una delle città più visitate del mondo. Ogni anno milioni di turisti arrivano ---- ammirare i suoi monumenti. Molti di loro restano in città per tre giorni e riescono a vedere solo una parte di quello che offre. Chi vuole conoscerla davvero dovrebbe passare almeno una settimana. Nonostante il traffico e i prezzi alti, vale sempre la pena di visitarla.",
+  "options": [
+   "per",
+   "prima",
+   "senza",
+   "invece",
+   "dopo"
+  ],
+  "answer": 0,
+  "explain": "Purpose: per + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-ofoous",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Roma è una delle città più visitate del mondo. Ogni anno milioni di turisti arrivano per ammirare i suoi monumenti. Molti di loro restano in città ---- tre giorni e riescono a vedere solo una parte di quello che offre. Chi vuole conoscerla davvero dovrebbe passare almeno una settimana. Nonostante il traffico e i prezzi alti, vale sempre la pena di visitarla.",
+  "options": [
+   "tra",
+   "dopo",
+   "fa",
+   "per",
+   "da"
+  ],
+  "answer": 3,
+  "explain": "\"per tre giorni\" = for three days (a completed period).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1qzbiea",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Roma è una delle città più visitate del mondo. Ogni anno milioni di turisti arrivano per ammirare i suoi monumenti. Molti di loro restano in città per tre giorni e riescono a vedere solo una parte di quello che offre. Chi vuole conoscerla davvero ---- passare almeno una settimana. Nonostante il traffico e i prezzi alti, vale sempre la pena di visitarla.",
+  "options": [
+   "dovendo",
+   "dovere",
+   "dovrebbe",
+   "dovrebbero",
+   "dovuto"
+  ],
+  "answer": 2,
+  "explain": "\"Chi\" is singular; \"dovrebbe\" gives advice.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1xcf9vw",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Roma è una delle città più visitate del mondo. Ogni anno milioni di turisti arrivano per ammirare i suoi monumenti. Molti di loro restano in città per tre giorni e riescono a vedere solo una parte di quello che offre. Chi vuole conoscerla davvero dovrebbe passare almeno una settimana. ---- il traffico e i prezzi alti, vale sempre la pena di visitarla.",
+  "options": [
+   "Perché",
+   "Nonostante",
+   "Affinché",
+   "Siccome",
+   "Dunque"
+  ],
+  "answer": 1,
+  "explain": "\"Nonostante\" + noun = despite.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1i81rma",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Con la diffusione di internet, il modo di leggere le notizie è cambiato. Un tempo la maggior parte delle persone ---- il giornale ogni mattina; oggi, invece, molti si informano sui social network. Questo cambiamento ha vantaggi e svantaggi. Da un lato le notizie arrivano subito; dall'altro è più difficile capire quali fonti siano affidabili. Molti utenti condividono articoli senza averli letti. Sarebbe utile aiutare gli studenti a riconoscere le informazioni false.",
+  "options": [
+   "comprava",
+   "comprato",
+   "comprasse",
+   "comprando",
+   "comprerà"
+  ],
+  "answer": 0,
+  "explain": "\"Un tempo\" + habit in the past → imperfetto.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1mtsuuc",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Con la diffusione di internet, il modo di leggere le notizie è cambiato. Un tempo la maggior parte delle persone comprava il giornale ogni mattina; oggi, invece, molti si informano sui social network. Questo cambiamento ---- vantaggi e svantaggi. Da un lato le notizie arrivano subito; dall'altro è più difficile capire quali fonti siano affidabili. Molti utenti condividono articoli senza averli letti. Sarebbe utile aiutare gli studenti a riconoscere le informazioni false.",
+  "options": [
+   "abbia",
+   "hanno",
+   "avrebbero",
+   "ha",
+   "avere"
+  ],
+  "answer": 3,
+  "explain": "Singular subject \"cambiamento\" → ha.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-bmlw2g",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Con la diffusione di internet, il modo di leggere le notizie è cambiato. Un tempo la maggior parte delle persone comprava il giornale ogni mattina; oggi, invece, molti si informano sui social network. Questo cambiamento ha vantaggi e svantaggi. Da un lato le notizie arrivano ----; dall'altro è più difficile capire quali fonti siano affidabili. Molti utenti condividono articoli senza averli letti. Sarebbe utile aiutare gli studenti a riconoscere le informazioni false.",
+  "options": [
+   "quasi",
+   "mai",
+   "subito",
+   "poco",
+   "meno"
+  ],
+  "answer": 2,
+  "explain": "The \"advantage\" side: news arrives immediately.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1kml840",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Con la diffusione di internet, il modo di leggere le notizie è cambiato. Un tempo la maggior parte delle persone comprava il giornale ogni mattina; oggi, invece, molti si informano sui social network. Questo cambiamento ha vantaggi e svantaggi. Da un lato le notizie arrivano subito; dall'altro è più difficile capire quali fonti siano affidabili. Molti utenti condividono articoli ---- averli letti. Sarebbe utile aiutare gli studenti a riconoscere le informazioni false.",
+  "options": [
+   "senza",
+   "invece",
+   "siccome",
+   "mentre",
+   "perché"
+  ],
+  "answer": 0,
+  "explain": "\"senza + infinitive\" = without having…",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-yapzvm",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "Con la diffusione di internet, il modo di leggere le notizie è cambiato. Un tempo la maggior parte delle persone comprava il giornale ogni mattina; oggi, invece, molti si informano sui social network. Questo cambiamento ha vantaggi e svantaggi. Da un lato le notizie arrivano subito; dall'altro è più difficile capire quali fonti siano affidabili. Molti utenti condividono articoli senza averli letti. Sarebbe utile ---- gli studenti a riconoscere le informazioni false.",
+  "options": [
+   "aiutare",
+   "aiuta",
+   "aiutato",
+   "aiuti",
+   "aiutando"
+  ],
+  "answer": 0,
+  "explain": "\"Sarebbe utile\" + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-qkcwtc",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il diritto allo studio è garantito dalla Costituzione, ---- nella pratica non tutti possono esercitarlo allo stesso modo. Le differenze economiche tra le famiglie influenzano le scelte scolastiche dei figli. Nonostante lo Stato abbia introdotto borse di studio e agevolazioni, molti giovani abbandonano gli studi prima del diploma. È necessario che le istituzioni intervengano con misure più efficaci, altrimenti le disuguaglianze rischiano di aumentare.",
+  "options": [
+   "ma",
+   "oppure",
+   "perciò",
+   "siccome",
+   "dunque"
+  ],
+  "answer": 0,
+  "explain": "The sentence turns from principle to practice: ma = but.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-scwon0",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il diritto allo studio è garantito dalla Costituzione, ma nella pratica non tutti possono esercitarlo allo stesso modo. Le differenze economiche tra le famiglie influenzano ---- scelte scolastiche dei figli. Nonostante lo Stato abbia introdotto borse di studio e agevolazioni, molti giovani abbandonano gli studi prima del diploma. È necessario che le istituzioni intervengano con misure più efficaci, altrimenti le disuguaglianze rischiano di aumentare.",
+  "options": [
+   "i",
+   "gli",
+   "la",
+   "le",
+   "lo"
+  ],
+  "answer": 3,
+  "explain": "\"scelte\" is feminine plural → le.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1kz3k2u",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il diritto allo studio è garantito dalla Costituzione, ma nella pratica non tutti possono esercitarlo allo stesso modo. Le differenze economiche tra le famiglie influenzano le scelte scolastiche dei figli. ---- lo Stato abbia introdotto borse di studio e agevolazioni, molti giovani abbandonano gli studi prima del diploma. È necessario che le istituzioni intervengano con misure più efficaci, altrimenti le disuguaglianze rischiano di aumentare.",
+  "options": [
+   "Poiché",
+   "Siccome",
+   "Nonostante",
+   "Perché",
+   "Quindi"
+  ],
+  "answer": 2,
+  "explain": "Subjunctive + a contrast: nonostante = although/despite.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1pofkq4",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il diritto allo studio è garantito dalla Costituzione, ma nella pratica non tutti possono esercitarlo allo stesso modo. Le differenze economiche tra le famiglie influenzano le scelte scolastiche dei figli. Nonostante lo Stato abbia introdotto borse di studio e agevolazioni, molti giovani abbandonano gli studi prima del diploma. È ---- che le istituzioni intervengano con misure più efficaci, altrimenti le disuguaglianze rischiano di aumentare.",
+  "options": [
+   "necessaria",
+   "necessario",
+   "necessità",
+   "necessari",
+   "necessariamente"
+  ],
+  "answer": 1,
+  "explain": "\"È necessario che\" + subjunctive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-11sdtt2",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il diritto allo studio è garantito dalla Costituzione, ma nella pratica non tutti possono esercitarlo allo stesso modo. Le differenze economiche tra le famiglie influenzano le scelte scolastiche dei figli. Nonostante lo Stato abbia introdotto borse di studio e agevolazioni, molti giovani abbandonano gli studi prima del diploma. È necessario che le istituzioni intervengano con misure più efficaci, ---- le disuguaglianze rischiano di aumentare.",
+  "options": [
+   "altrimenti",
+   "tuttavia",
+   "dunque",
+   "perciò",
+   "quindi"
+  ],
+  "answer": 0,
+  "explain": "altrimenti = otherwise (the warning if nothing is done).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1f8wrgf",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Ieri Marco ---- a Firenze con alcuni amici. Il treno è partito alle otto e i ragazzi sono arrivati alle dieci. Appena arrivati, hanno visitato il Duomo e hanno pranzato in un piccolo ristorante. Nel pomeriggio, però, ha cominciato a piovere e tutti hanno dovuto tornare in albergo. La sera erano stanchi, ma contenti.",
+  "options": [
+   "è andato",
+   "ha andato",
+   "va",
+   "è andata",
+   "andrà"
+  ],
+  "answer": 0,
+  "explain": "\"andare\" takes essere; Marco is masculine → è andato.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-10npd47",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Ieri Marco è andato a Firenze con alcuni amici. Il treno è partito alle otto e i ragazzi ---- arrivati alle dieci. Appena arrivati, hanno visitato il Duomo e hanno pranzato in un piccolo ristorante. Nel pomeriggio, però, ha cominciato a piovere e tutti hanno dovuto tornare in albergo. La sera erano stanchi, ma contenti.",
+  "options": [
+   "sono",
+   "sarebbero",
+   "hanno",
+   "siano",
+   "stanno"
+  ],
+  "answer": 0,
+  "explain": "\"arrivare\" takes essere: sono arrivati.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1t1lt4v",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Ieri Marco è andato a Firenze con alcuni amici. Il treno è partito alle otto e i ragazzi sono arrivati alle dieci. Appena arrivati, hanno visitato il Duomo ---- hanno pranzato in un piccolo ristorante. Nel pomeriggio, però, ha cominciato a piovere e tutti hanno dovuto tornare in albergo. La sera erano stanchi, ma contenti.",
+  "options": [
+   "perché",
+   "sebbene",
+   "ma",
+   "e",
+   "oppure"
+  ],
+  "answer": 3,
+  "explain": "Two actions in sequence are joined by e.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-17wui4r",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Ieri Marco è andato a Firenze con alcuni amici. Il treno è partito alle otto e i ragazzi sono arrivati alle dieci. Appena arrivati, hanno visitato il Duomo e hanno pranzato in un piccolo ristorante. Nel pomeriggio, però, ha cominciato a piovere e tutti ---- tornare in albergo. La sera erano stanchi, ma contenti.",
+  "options": [
+   "hanno dovuto",
+   "dovere",
+   "devono",
+   "dovrebbero",
+   "dovendo"
+  ],
+  "answer": 0,
+  "explain": "Past event (it started to rain) → passato prossimo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-17i59s1",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 2,
+  "prompt": "Ieri Marco è andato a Firenze con alcuni amici. Il treno è partito alle otto e i ragazzi sono arrivati alle dieci. Appena arrivati, hanno visitato il Duomo e hanno pranzato in un piccolo ristorante. Nel pomeriggio, però, ha cominciato a piovere e tutti hanno dovuto tornare in albergo. La sera erano stanchi, ---- contenti.",
+  "options": [
+   "ma",
+   "perché",
+   "dunque",
+   "oppure",
+   "quindi"
+  ],
+  "answer": 0,
+  "explain": "\"stanchi, ma contenti\" = tired but happy.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-19dgupf",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Molti critici sostengono che il romanzo realista sia nato ---- bisogno di raccontare la vita quotidiana. Gli autori non si limitavano più a descrivere eroi e re, ma osservavano con attenzione la gente comune. Il pubblico, che fino ad allora leggeva soprattutto poesia e teatro, scoprì così storie vicine alla propria esperienza. È probabile che questo cambiamento abbia contribuito alla diffusione della lettura. Resta ancora da capire quanto abbia pesato il progresso tecnico.",
+  "options": [
+   "dal",
+   "col",
+   "al",
+   "sul",
+   "tra"
+  ],
+  "answer": 0,
+  "explain": "\"nascere da\" = to arise from.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-g528op",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Molti critici sostengono che il romanzo realista sia nato dal bisogno di raccontare la vita quotidiana. Gli autori non si limitavano più a descrivere eroi e re, ---- osservavano con attenzione la gente comune. Il pubblico, che fino ad allora leggeva soprattutto poesia e teatro, scoprì così storie vicine alla propria esperienza. È probabile che questo cambiamento abbia contribuito alla diffusione della lettura. Resta ancora da capire quanto abbia pesato il progresso tecnico.",
+  "options": [
+   "ma",
+   "oppure",
+   "perché",
+   "quindi",
+   "sebbene"
+  ],
+  "answer": 0,
+  "explain": "\"non… più… , ma…\" = no longer… but…",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1hqudul",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Molti critici sostengono che il romanzo realista sia nato dal bisogno di raccontare la vita quotidiana. Gli autori non si limitavano più a descrivere eroi e re, ma osservavano con attenzione la gente comune. Il pubblico, ---- fino ad allora leggeva soprattutto poesia e teatro, scoprì così storie vicine alla propria esperienza. È probabile che questo cambiamento abbia contribuito alla diffusione della lettura. Resta ancora da capire quanto abbia pesato il progresso tecnico.",
+  "options": [
+   "che",
+   "dove",
+   "cui",
+   "quanto",
+   "quale"
+  ],
+  "answer": 0,
+  "explain": "Subject of \"leggeva\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-yz5bfz",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Molti critici sostengono che il romanzo realista sia nato dal bisogno di raccontare la vita quotidiana. Gli autori non si limitavano più a descrivere eroi e re, ma osservavano con attenzione la gente comune. Il pubblico, che fino ad allora leggeva soprattutto poesia e teatro, scoprì così storie vicine alla propria esperienza. È probabile che questo cambiamento ---- contribuito alla diffusione della lettura. Resta ancora da capire quanto abbia pesato il progresso tecnico.",
+  "options": [
+   "ha",
+   "avrebbe",
+   "abbia",
+   "avendo",
+   "aveva"
+  ],
+  "answer": 2,
+  "explain": "\"È probabile che\" + congiuntivo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1yh7mnp",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Molti critici sostengono che il romanzo realista sia nato dal bisogno di raccontare la vita quotidiana. Gli autori non si limitavano più a descrivere eroi e re, ma osservavano con attenzione la gente comune. Il pubblico, che fino ad allora leggeva soprattutto poesia e teatro, scoprì così storie vicine alla propria esperienza. È probabile che questo cambiamento abbia contribuito alla diffusione della lettura. Resta ---- da capire quanto abbia pesato il progresso tecnico.",
+  "options": [
+   "ancora",
+   "quasi",
+   "troppo",
+   "mai",
+   "già"
+  ],
+  "answer": 0,
+  "explain": "\"Resta ancora da capire\" = it remains to be understood.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-oc660x",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il lavoro da remoto si è diffuso rapidamente negli ultimi anni. ---- molti dipendenti apprezzino la flessibilità, altri lamentano un senso di isolamento. Le aziende, invece, devono trovare un equilibrio: da un lato ridurre i costi degli uffici, dall'altro mantenere la coesione dei team. Sebbene il lavoro da casa non sia adatto a tutte le professioni, esso offre opportunità prima impensabili. Non a caso, molti lavoratori scelgono di cambiare città senza cambiare impiego. Tuttavia, resta da valutare l'impatto di lungo periodo sulla produttività.",
+  "options": [
+   "Dunque",
+   "Poiché",
+   "Benché",
+   "Siccome",
+   "Perciò"
+  ],
+  "answer": 2,
+  "explain": "Subjunctive \"apprezzino\" → benché.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-mz174x",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il lavoro da remoto si è diffuso rapidamente negli ultimi anni. Benché molti dipendenti apprezzino la flessibilità, altri lamentano un senso di isolamento. Le aziende, ----, devono trovare un equilibrio: da un lato ridurre i costi degli uffici, dall'altro mantenere la coesione dei team. Sebbene il lavoro da casa non sia adatto a tutte le professioni, esso offre opportunità prima impensabili. Non a caso, molti lavoratori scelgono di cambiare città senza cambiare impiego. Tuttavia, resta da valutare l'impatto di lungo periodo sulla produttività.",
+  "options": [
+   "cioè",
+   "ovvero",
+   "difatti",
+   "ossia",
+   "invece"
+  ],
+  "answer": 4,
+  "explain": "Employees vs companies: invece = on the other hand.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-s1be0r",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il lavoro da remoto si è diffuso rapidamente negli ultimi anni. Benché molti dipendenti apprezzino la flessibilità, altri lamentano un senso di isolamento. Le aziende, invece, devono trovare un equilibrio: da un lato ridurre i costi degli uffici, dall'altro mantenere la coesione dei team. ---- il lavoro da casa non sia adatto a tutte le professioni, esso offre opportunità prima impensabili. Non a caso, molti lavoratori scelgono di cambiare città senza cambiare impiego. Tuttavia, resta da valutare l'impatto di lungo periodo sulla produttività.",
+  "options": [
+   "Quindi",
+   "Perché",
+   "Dunque",
+   "Sebbene",
+   "Siccome"
+  ],
+  "answer": 3,
+  "explain": "Subjunctive \"sia\" → sebbene.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-13mek1h",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il lavoro da remoto si è diffuso rapidamente negli ultimi anni. Benché molti dipendenti apprezzino la flessibilità, altri lamentano un senso di isolamento. Le aziende, invece, devono trovare un equilibrio: da un lato ridurre i costi degli uffici, dall'altro mantenere la coesione dei team. Sebbene il lavoro da casa non sia adatto a tutte le professioni, esso offre opportunità prima impensabili. Non a caso, molti lavoratori ---- di cambiare città senza cambiare impiego. Tuttavia, resta da valutare l'impatto di lungo periodo sulla produttività.",
+  "options": [
+   "scelgono",
+   "scelto",
+   "scegliere",
+   "scegliendo",
+   "sceglie"
+  ],
+  "answer": 0,
+  "explain": "Plural subject \"molti lavoratori\" → scelgono.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-wpxsj1",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Il lavoro da remoto si è diffuso rapidamente negli ultimi anni. Benché molti dipendenti apprezzino la flessibilità, altri lamentano un senso di isolamento. Le aziende, invece, devono trovare un equilibrio: da un lato ridurre i costi degli uffici, dall'altro mantenere la coesione dei team. Sebbene il lavoro da casa non sia adatto a tutte le professioni, esso offre opportunità prima impensabili. Non a caso, molti lavoratori scelgono di cambiare città senza cambiare impiego. ----, resta da valutare l'impatto di lungo periodo sulla produttività.",
+  "options": [
+   "Quindi",
+   "Dunque",
+   "Per esempio",
+   "Infatti",
+   "Tuttavia"
+  ],
+  "answer": 4,
+  "explain": "After the opportunities comes a reservation: tuttavia.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1qijjkt",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "La cucina italiana è famosa in tutto il mondo non solo ---- i suoi sapori, ma anche per la varietà delle ricette regionali. Ogni regione ha piatti tipici che riflettono la storia e il clima del territorio. Ad esempio, nel Nord si usa più burro che olio d'oliva, mentre nel Sud si mangia più pesce e più verdura. Molti turisti vengono in Italia proprio per assaggiare queste specialità. Anche se i prodotti tipici costano di più, la maggior parte dei visitatori è disposta a pagarli.",
+  "options": [
+   "per",
+   "con",
+   "da",
+   "su",
+   "di"
+  ],
+  "answer": 0,
+  "explain": "\"non solo per… ma anche per…\" — the same preposition is repeated.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1pw0kw3",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "La cucina italiana è famosa in tutto il mondo non solo per i suoi sapori, ma anche per la varietà delle ricette regionali. Ogni regione ha piatti tipici ---- riflettono la storia e il clima del territorio. Ad esempio, nel Nord si usa più burro che olio d'oliva, mentre nel Sud si mangia più pesce e più verdura. Molti turisti vengono in Italia proprio per assaggiare queste specialità. Anche se i prodotti tipici costano di più, la maggior parte dei visitatori è disposta a pagarli.",
+  "options": [
+   "cui",
+   "dove",
+   "quale",
+   "quanto",
+   "che"
+  ],
+  "answer": 4,
+  "explain": "Subject of \"riflettono\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-oamxtt",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "La cucina italiana è famosa in tutto il mondo non solo per i suoi sapori, ma anche per la varietà delle ricette regionali. Ogni regione ha piatti tipici che riflettono la storia e il clima del territorio. Ad esempio, nel Nord si usa ---- burro che olio d'oliva, mentre nel Sud si mangia più pesce e più verdura. Molti turisti vengono in Italia proprio per assaggiare queste specialità. Anche se i prodotti tipici costano di più, la maggior parte dei visitatori è disposta a pagarli.",
+  "options": [
+   "più",
+   "molto",
+   "tanto",
+   "altrettanto",
+   "così"
+  ],
+  "answer": 0,
+  "explain": "Comparison between two nouns: più… che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-94gysx",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "La cucina italiana è famosa in tutto il mondo non solo per i suoi sapori, ma anche per la varietà delle ricette regionali. Ogni regione ha piatti tipici che riflettono la storia e il clima del territorio. Ad esempio, nel Nord si usa più burro che olio d'oliva, mentre nel Sud si mangia più pesce e più verdura. Molti turisti vengono in Italia proprio ---- assaggiare queste specialità. Anche se i prodotti tipici costano di più, la maggior parte dei visitatori è disposta a pagarli.",
+  "options": [
+   "con",
+   "di",
+   "per",
+   "da",
+   "in"
+  ],
+  "answer": 2,
+  "explain": "Purpose: per + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-dur3wv",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "La cucina italiana è famosa in tutto il mondo non solo per i suoi sapori, ma anche per la varietà delle ricette regionali. Ogni regione ha piatti tipici che riflettono la storia e il clima del territorio. Ad esempio, nel Nord si usa più burro che olio d'oliva, mentre nel Sud si mangia più pesce e più verdura. Molti turisti vengono in Italia proprio per assaggiare queste specialità. ---- i prodotti tipici costano di più, la maggior parte dei visitatori è disposta a pagarli.",
+  "options": [
+   "Anche se",
+   "Infatti",
+   "Siccome",
+   "Perché",
+   "Quindi"
+  ],
+  "answer": 0,
+  "explain": "Concession with the indicative: anche se = even though.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-czxbus",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "L'intelligenza artificiale sta cambiando molti settori, dalla medicina all'industria. Alcuni programmi sono in grado di analizzare migliaia di immagini mediche in pochi minuti e di individuare segnali ---- un medico potrebbe non notare. Tuttavia, queste tecnologie non sostituiscono il lavoro umano: lo rendono più efficace. Gli esperti insistono sulla necessità di regole chiare per proteggere i dati dei pazienti. Sebbene sia ancora presto per valutare tutte le conseguenze, è già evidente che la società dovrà adattarsi. Inoltre stanno cambiando anche le competenze richieste ai lavoratori.",
+  "options": [
+   "cui",
+   "dove",
+   "chi",
+   "quanto",
+   "che"
+  ],
+  "answer": 4,
+  "explain": "Direct-object relative pronoun (un medico potrebbe non notare i segnali) → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1dn9fm2",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "L'intelligenza artificiale sta cambiando molti settori, dalla medicina all'industria. Alcuni programmi sono in grado di analizzare migliaia di immagini mediche in pochi minuti e di individuare segnali che un medico potrebbe non notare. ----, queste tecnologie non sostituiscono il lavoro umano: lo rendono più efficace. Gli esperti insistono sulla necessità di regole chiare per proteggere i dati dei pazienti. Sebbene sia ancora presto per valutare tutte le conseguenze, è già evidente che la società dovrà adattarsi. Inoltre stanno cambiando anche le competenze richieste ai lavoratori.",
+  "options": [
+   "Dunque",
+   "Infatti",
+   "Quindi",
+   "Tuttavia",
+   "Perciò"
+  ],
+  "answer": 3,
+  "explain": "Reassurance after a possibly worrying idea: tuttavia = however.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-9llt6m",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "L'intelligenza artificiale sta cambiando molti settori, dalla medicina all'industria. Alcuni programmi sono in grado di analizzare migliaia di immagini mediche in pochi minuti e di individuare segnali che un medico potrebbe non notare. Tuttavia, queste tecnologie non sostituiscono il lavoro umano: lo rendono più efficace. Gli esperti insistono ---- necessità di regole chiare per proteggere i dati dei pazienti. Sebbene sia ancora presto per valutare tutte le conseguenze, è già evidente che la società dovrà adattarsi. Inoltre stanno cambiando anche le competenze richieste ai lavoratori.",
+  "options": [
+   "dalla",
+   "nella",
+   "della",
+   "sulla",
+   "alla"
+  ],
+  "answer": 3,
+  "explain": "\"insistere su\" = to insist on.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-we6f3w",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "L'intelligenza artificiale sta cambiando molti settori, dalla medicina all'industria. Alcuni programmi sono in grado di analizzare migliaia di immagini mediche in pochi minuti e di individuare segnali che un medico potrebbe non notare. Tuttavia, queste tecnologie non sostituiscono il lavoro umano: lo rendono più efficace. Gli esperti insistono sulla necessità di regole chiare per proteggere i dati dei pazienti. ---- sia ancora presto per valutare tutte le conseguenze, è già evidente che la società dovrà adattarsi. Inoltre stanno cambiando anche le competenze richieste ai lavoratori.",
+  "options": [
+   "Poiché",
+   "Dato che",
+   "Dunque",
+   "Perciò",
+   "Sebbene"
+  ],
+  "answer": 4,
+  "explain": "Subjunctive \"sia\" → sebbene.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1uaw0go",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 3,
+  "prompt": "L'intelligenza artificiale sta cambiando molti settori, dalla medicina all'industria. Alcuni programmi sono in grado di analizzare migliaia di immagini mediche in pochi minuti e di individuare segnali che un medico potrebbe non notare. Tuttavia, queste tecnologie non sostituiscono il lavoro umano: lo rendono più efficace. Gli esperti insistono sulla necessità di regole chiare per proteggere i dati dei pazienti. Sebbene sia ancora presto per valutare tutte le conseguenze, è già evidente che la società dovrà adattarsi. ---- stanno cambiando anche le competenze richieste ai lavoratori.",
+  "options": [
+   "Perciò",
+   "Cioè",
+   "Invece",
+   "Tuttavia",
+   "Inoltre"
+  ],
+  "answer": 4,
+  "explain": "inoltre = moreover, adding one more point.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-n22tnj",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Nel Novecento l'Italia ha conosciuto trasformazioni profonde. Dopo la Seconda guerra mondiale il paese era povero e in gran parte agricolo; ---- pochi decenni, però, è diventato una delle maggiori economie industriali d'Europa. Questo sviluppo, che fu rapido, non fu uniforme: il Nord crebbe molto più velocemente del Sud. Molti meridionali emigrarono verso le città industriali, perché cercavano lavoro e condizioni di vita migliori. Ancora oggi le differenze tra le due aree rimangono un tema centrale del dibattito politico. È essenziale comprendere queste dinamiche per capire la società italiana contemporanea.",
+  "options": [
+   "Tra",
+   "Da",
+   "Per",
+   "In",
+   "Su"
+  ],
+  "answer": 3,
+  "explain": "\"In pochi decenni\" = within a few decades (tra would mean \"in the future\").",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-iteac7",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Nel Novecento l'Italia ha conosciuto trasformazioni profonde. Dopo la Seconda guerra mondiale il paese era povero e in gran parte agricolo; In pochi decenni, però, è diventato una delle maggiori economie industriali d'Europa. Questo sviluppo, ---- fu rapido, non fu uniforme: il Nord crebbe molto più velocemente del Sud. Molti meridionali emigrarono verso le città industriali, perché cercavano lavoro e condizioni di vita migliori. Ancora oggi le differenze tra le due aree rimangono un tema centrale del dibattito politico. È essenziale comprendere queste dinamiche per capire la società italiana contemporanea.",
+  "options": [
+   "cui",
+   "quanto",
+   "quale",
+   "dove",
+   "che"
+  ],
+  "answer": 4,
+  "explain": "Subject of \"fu rapido\" → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-on9swz",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Nel Novecento l'Italia ha conosciuto trasformazioni profonde. Dopo la Seconda guerra mondiale il paese era povero e in gran parte agricolo; In pochi decenni, però, è diventato una delle maggiori economie industriali d'Europa. Questo sviluppo, che fu rapido, non fu uniforme: il Nord crebbe molto più velocemente del Sud. Molti meridionali emigrarono verso le città industriali, ---- cercavano lavoro e condizioni di vita migliori. Ancora oggi le differenze tra le due aree rimangono un tema centrale del dibattito politico. È essenziale comprendere queste dinamiche per capire la società italiana contemporanea.",
+  "options": [
+   "perché",
+   "sebbene",
+   "affinché",
+   "quindi",
+   "dunque"
+  ],
+  "answer": 0,
+  "explain": "Reason with the indicative: perché cercavano lavoro.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1ksulhf",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Nel Novecento l'Italia ha conosciuto trasformazioni profonde. Dopo la Seconda guerra mondiale il paese era povero e in gran parte agricolo; In pochi decenni, però, è diventato una delle maggiori economie industriali d'Europa. Questo sviluppo, che fu rapido, non fu uniforme: il Nord crebbe molto più velocemente del Sud. Molti meridionali emigrarono verso le città industriali, perché cercavano lavoro e condizioni di vita migliori. Ancora oggi le differenze tra le due aree ---- un tema centrale del dibattito politico. È essenziale comprendere queste dinamiche per capire la società italiana contemporanea.",
+  "options": [
+   "rimasero",
+   "rimarrebbe",
+   "rimanga",
+   "rimane",
+   "rimangono"
+  ],
+  "answer": 4,
+  "explain": "Plural subject, present time (\"Ancora oggi\") → rimangono.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-c-1acrifz",
+  "section": "cloze",
+  "topic": "exam.cloze",
+  "level": 4,
+  "prompt": "Nel Novecento l'Italia ha conosciuto trasformazioni profonde. Dopo la Seconda guerra mondiale il paese era povero e in gran parte agricolo; In pochi decenni, però, è diventato una delle maggiori economie industriali d'Europa. Questo sviluppo, che fu rapido, non fu uniforme: il Nord crebbe molto più velocemente del Sud. Molti meridionali emigrarono verso le città industriali, perché cercavano lavoro e condizioni di vita migliori. Ancora oggi le differenze tra le due aree rimangono un tema centrale del dibattito politico. È ---- comprendere queste dinamiche per capire la società italiana contemporanea.",
+  "options": [
+   "essenza",
+   "essendo",
+   "essenzialmente",
+   "essenziali",
+   "essenziale"
+  ],
+  "answer": 4,
+  "explain": "\"È essenziale\" + infinitive.",
+  "source": "hand",
+  "verified": true
+ }
+]

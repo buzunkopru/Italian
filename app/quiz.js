@@ -88,7 +88,7 @@ export function runQuiz(root, ctx, cfg) {
         <span class="small muted">${Math.min(answered + 1, queue.length)}/${queue.length}</span>
       </div>
       <div class="bar"><div style="width:${(pos / queue.length) * 100}%"></div></div>
-      <div class="card qcard"><div class="qtext" id="qtext">${promptHtml(q)}</div></div>
+      <div class="card qcard"><div class="qtext${q.prompt.length > 140 ? " long" : ""}" id="qtext">${promptHtml(q)}</div></div>
       <div class="opts" id="opts">${q.options.map((o, i) => `<button class="opt" data-i="${i}">${esc(o)}</button>`).join('')}</div>
       <div id="fb"></div>`;
 
