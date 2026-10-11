@@ -35,7 +35,7 @@ export async function render(root, ctx) {
     <div class="card small muted">
       <h3>About</h3>
       <p>Mille v2 · personal study app for the Italian YDS.</p>
-      <p>Sentences from Tatoeba (CC BY 2.0 FR) will be credited here once they are added.</p>
+      <p>Cloze sentences come from <a href="https://tatoeba.org" target="_blank" rel="noopener" style="text-decoration:underline">Tatoeba.org</a>, written by its volunteer contributors and licensed CC BY 2.0 FR. Each sentence keeps its Tatoeba id so its author can be found.</p>
     </div>`;
 
   root.querySelector('#export').addEventListener('click', async () => {

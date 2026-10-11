@@ -15,6 +15,8 @@ for (const f of readdirSync(join(root, 'content', 'lessons'))) {
   lvl.lessons.forEach((l) => known.add(l.topic));
 }
 
+for (const t of Object.keys(JSON.parse(readFileSync(join(root, 'content', 'topics.json'), 'utf8')))) known.add(t);
+
 const all = [];
 for (const f of readdirSync(qdir).filter((n) => n.endsWith('.json') && n !== 'index.json')) {
   const list = JSON.parse(readFileSync(join(qdir, f), 'utf8'));

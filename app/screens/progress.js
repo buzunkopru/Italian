@@ -1,4 +1,4 @@
-import { loadAllLessons } from '../content.js';
+import { loadAllLessons, loadTopics } from '../content.js';
 import { esc } from '../util.js';
 import { topicStats } from '../../engine/mastery.js';
 import { localDay, addDays } from '../../engine/dates.js';
@@ -6,7 +6,7 @@ import { localDay, addDays } from '../../engine/dates.js';
 const WORD_LEVEL = { 1: 'A1', 2: 'A2', 3: 'B1', 4: 'B2' };
 
 export async function render(root, ctx) {
-  const [answers, lessons, srs] = await Promise.all([ctx.storage.getAnswers(), loadAllLessons(), ctx.storage.getAllSrs()]);
+  const [answers, lessons, srs, topics] = await Promise.all([ctx.storage.getAnswers(), loadAllLessons(), ctx.storage.getAllSrs(), loadTopics()]);
   if (!answers.length) {
     root.innerHTML = `<h1>Progress</h1><div class="empty"><div style="font-size:2.4rem">📈</div><p>Answer a few questions and your progress shows up here.</p><a class="btn" href="#/practice">Start practising</a></div>`;
     return;
@@ -15,6 +15,7 @@ export async function render(root, ctx) {
   const titleOf = (topic) => {
     const l = lessons.find((x) => x.topic === topic);
     if (l) return `${l.id} ${l.title}`;
+    if (topics[topic]) return topics[topic];
     const m = /^words\.stage(\d)$/.exec(topic);
     if (m) return `Words · ${WORD_LEVEL[m[1]]}`;
     return topic;

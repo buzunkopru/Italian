@@ -1,5 +1,5 @@
 import { loadBank } from '../bank.js';
-import { loadAllLessons, loadWords } from '../content.js';
+import { loadAllLessons, loadWords, loadTopics } from '../content.js';
 import { runQuiz } from '../quiz.js';
 import { makeResolver } from '../resolve.js';
 import { esc } from '../util.js';
@@ -15,7 +15,7 @@ export async function render(root, ctx, params) {
 }
 
 async function renderList(root, ctx) {
-  const [bank, lessons, answers] = await Promise.all([loadBank(), loadAllLessons(), ctx.storage.getAnswers()]);
+  const [bank, lessons, answers, topics] = await Promise.all([loadBank(), loadAllLessons(), ctx.storage.getAnswers(), loadTopics()]);
   const stats = topicStats(answers);
   const count = (t) => bank.questions.filter((q) => q.topic === t && q.section === 'drill').length;
 
@@ -23,6 +23,11 @@ async function renderList(root, ctx) {
     const s = stats.get(t);
     return s ? `<span class="pill ${s.acc >= 0.8 ? 'ok' : s.acc < 0.5 ? 'bad' : ''}">${Math.round(s.acc * 100)}%</span>` : '';
   };
+
+  const extra = Object.entries(topics).map(([t, title]) => {
+    const n = count(t);
+    return n ? `<a class="card tap" href="#/practice/${esc(t)}"><div class="row"><div class="grow"><b>${esc(title)}</b><div class="muted small">${n} real sentences</div></div>${accOf(t)}</div></a>` : '';
+  }).join('');
 
   let lastLevel = 0;
   const rows = lessons.map((l) => {
@@ -39,6 +44,8 @@ async function renderList(root, ctx) {
     <p class="muted">Quick rounds of ${ROUND}. Pick a topic, or mix.</p>
     <a class="card tap" href="#/practice/mixed"><div class="row between"><div><h3 style="margin:0">🎲 Mixed practice</h3><span class="muted small">${bank.questions.filter((q) => q.section === 'drill').length} questions, all topics</span></div><span>›</span></div></a>
     <a class="card tap" href="#/practice/words"><div class="row between"><div><h3 style="margin:0">📖 Vocabulary round</h3><span class="muted small">1,000-word deck, new words first</span></div><span>›</span></div></a>
+    <h3 class="sechead">Cloze with real sentences</h3>
+    ${extra}
     ${rows}`;
 }
 
@@ -59,7 +66,8 @@ async function renderRound(root, ctx, topic) {
     const pool = bank.questions.filter((q) => q.section === 'drill' && (topic === 'mixed' || q.topic === topic));
     const lessons = await loadAllLessons();
     const l = lessons.find((x) => x.topic === topic);
-    title = topic === 'mixed' ? 'Mixed practice' : l ? `Lesson ${l.id}` : topic;
+    const topics = await loadTopics();
+    title = topic === 'mixed' ? 'Mixed practice' : l ? `Lesson ${l.id}` : topics[topic] || topic;
     items = pickQuestions({ pool, history: historyOf(answers), n: ROUND }).map((q) => ({ ref: `q:${q.id}` }));
   }
 

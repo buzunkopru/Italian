@@ -18,5 +18,5 @@ npm run import   # one-time import of v1 lessons/words (needs archive/v1, which 
 
 ## Credits
 
-Sentences from [Tatoeba](https://tatoeba.org) (CC BY 2.0 FR) will be credited here when added.
+Cloze sentences are from [Tatoeba](https://tatoeba.org) (CC BY 2.0 FR). See content/ATTRIBUTION.md.
 

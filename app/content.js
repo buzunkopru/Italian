@@ -27,3 +27,6 @@ export async function loadAllLessons() {
   }
   return out;
 }
+
+/** Extra (non-lesson) practice topics: { topicId: title } */
+export const loadTopics = () => getJSON('content/topics.json');

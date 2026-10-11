@@ -1,6 +1,6 @@
 // Mille service worker: network-first (always fresh when online), cache fallback (works offline).
 // Bump CACHE when the list of files changes.
-const CACHE = 'mille-v2-3';
+const CACHE = 'mille-v2-4';
 const ASSETS = [
   './',
   'index.html',
@@ -30,6 +30,7 @@ const ASSETS = [
   'engine/storage.js',
   'engine/streak.js',
   'content/levels.json',
+  'content/topics.json',
   'content/questions/index.json',
   'content/words.json',
   'content/lessons/level-1.json',
