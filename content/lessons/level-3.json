@@ -1,0 +1,463 @@
+{
+ "id": 3,
+ "name": "Level 3: B1 Transizione",
+ "tag": "Past Horizons & Complex Reading",
+ "badge": "🌳 B1 Transizione",
+ "description": "Imperfetto ('V' past), Passato Remoto for historical texts, Passive voice intro, and the 'CUI' relative connector.",
+ "accent": "#E09F3E",
+ "lessons": [
+  {
+   "id": "3.1",
+   "title": "Imperfetto: The Narrative Background",
+   "subtitle": "The famous 'V' past tense: era, faceva, avevano, credevano.",
+   "mentalModel": "The Imperfetto describes continuous states, habitual actions, and background conditions. Look for the letter <strong>V</strong>: *parla<strong>v</strong>a* (was speaking), *ave<strong>v</strong>a* (had), *dice<strong>v</strong>a* (was saying).",
+   "concepts": [
+    {
+     "it": "era / erano",
+     "en": "was / were (Essere)",
+     "note": "era comune (was common), erano presenti (were present)"
+    },
+    {
+     "it": "aveva / avevano",
+     "en": "had (Avere)",
+     "note": "aveva un impatto (had an impact)"
+    },
+    {
+     "it": "credeva / credevano",
+     "en": "believed / thought",
+     "note": "si credeva (it was believed)"
+    }
+   ],
+   "xray": {
+    "blocks": [
+     {
+      "it": "Nell'antichità,",
+      "role": "Time Context",
+      "en": "In antiquity,",
+      "colorClass": "xray-obj"
+     },
+     {
+      "it": "la maggior parte degli studiosi",
+      "role": "Subject",
+      "en": "most scholars",
+      "colorClass": "xray-subj"
+     },
+     {
+      "it": "credeva",
+      "role": "Verb (Imperfetto)",
+      "en": "believed",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "che la Terra fosse piatta.",
+      "role": "Subordinate Clause",
+      "en": "that the Earth was flat.",
+      "colorClass": "xray-obj"
+     }
+    ],
+    "fullEn": "In antiquity, most scholars believed that the Earth was flat."
+   },
+   "bridgeMarker": "<strong>Golden Bridge to Level 4 (YDS):</strong> The Imperfetto sets the historical stage on YDS reading passages. Whenever you see '-ava', '-eva', or '-iva', you are looking at past context!",
+   "checkQuiz": {
+    "question": "Which letter is the telltale sign of the Imperfetto past tense in Italian?",
+    "options": [
+     {
+      "text": "The letter 'V' (faceva, aveva, scriveva)",
+      "isCorrect": true
+     },
+     {
+      "text": "The letter 'Z'",
+      "isCorrect": false
+     },
+     {
+      "text": "The letter 'Q'",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "The characteristic consonant of the Imperfetto across all verbs is 'v'."
+   },
+   "topic": "lesson.3.1"
+  },
+  {
+   "id": "3.2",
+   "title": "Passato Prossimo vs. Imperfetto in Texts",
+   "subtitle": "Event vs. Background: The classic dual-past structure in exam passages.",
+   "mentalModel": "Think of Imperfetto as the movie background (weather, emotions, ongoing conditions) and Passato Prossimo as the sudden event that occurred (*Mentre lavorava, ha scoperto...* = While working, he discovered...).",
+   "concepts": [
+    {
+     "it": "Mentre studiava... (Imperfetto)",
+     "en": "While he was studying... (ongoing backdrop)"
+    },
+    {
+     "it": "...ha trovato la soluzione (Passato Prossimo)",
+     "en": "...he found the solution (punctual completed event)"
+    }
+   ],
+   "bridgeMarker": "<strong>Connector Pairing:</strong> 'Mentre' (while) is almost always followed by the Imperfetto in narrative passages!",
+   "checkQuiz": {
+    "question": "In 'Mentre scriveva il saggio, il ricercatore ha ricevuto la notizia', which verb was ongoing?",
+    "options": [
+     {
+      "text": "scriveva (was writing)",
+      "isCorrect": true
+     },
+     {
+      "text": "ha ricevuto (received)",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'scriveva' (Imperfetto) describes the continuous background activity."
+   },
+   "topic": "lesson.3.2"
+  },
+  {
+   "id": "3.3",
+   "title": "Passato Remoto: The Historical Text Decoder",
+   "subtitle": "Fu, furono, disse, fece: The literary past tense in archaeology and history.",
+   "mentalModel": "Passato Remoto is not used in casual conversation, but Turkish YDS loves historical passages! You only need to recognize 3rd-person forms: <strong>fu</strong> (was), <strong>furono</strong> (were), <strong>fece</strong> (did), <strong>scrisse</strong> (wrote).",
+   "concepts": [
+    {
+     "it": "fu / furono",
+     "en": "was / were (Essere in Passato Remoto)"
+    },
+    {
+     "it": "ebbe / ebbero",
+     "en": "had (Avere in Passato Remoto)"
+    },
+    {
+     "it": "nacque / morì",
+     "en": "was born / died (biographical dates)"
+    }
+   ],
+   "bridgeMarker": "<strong>Exam Goldmine:</strong> When an exam question discusses Roman history or a Renaissance artist, look for 'fu' and 'furono'—they simply mean 'was' and 'were'!",
+   "checkQuiz": {
+    "question": "What does 'L'impero romano fu fondato...' mean?",
+    "options": [
+     {
+      "text": "The Roman Empire was founded...",
+      "isCorrect": true
+     },
+     {
+      "text": "The Roman Empire will be founded...",
+      "isCorrect": false
+     },
+     {
+      "text": "The Roman Empire is founding...",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'fu' is the 3rd-person singular Passato Remoto of 'essere' (was)."
+   },
+   "topic": "lesson.3.3"
+  },
+  {
+   "id": "3.4",
+   "title": "The Advanced Relative: CUI & Preposition Pairs",
+   "subtitle": "In cui (in which), per cui (for which), di cui (of which).",
+   "mentalModel": "While 'che' handles direct subjects, <strong>CUI</strong> handles every prepositional link: *il periodo <strong>in cui</strong> visse* (the period in which he lived), *il motivo <strong>per cui</strong> ha scelto* (the reason why/for which he chose).",
+   "concepts": [
+    {
+     "it": "in cui",
+     "en": "in which / where",
+     "note": "il contesto in cui opera (the context in which it operates)"
+    },
+    {
+     "it": "di cui",
+     "en": "of which / about which",
+     "note": "l'argomento di cui parliamo (the topic we speak of)"
+    },
+    {
+     "it": "per cui",
+     "en": "for which / that's why",
+     "note": "il motivo per cui (the reason why)"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Sentence Completion:</strong> 'In cui' is often used interchangeably with 'dove' (where) for abstract contexts like *uno studio in cui si dimostra*.",
+   "checkQuiz": {
+    "question": "How do you translate 'the method by which (with which) they achieved results'?",
+    "options": [
+     {
+      "text": "il metodo con cui hanno ottenuto risultati",
+      "isCorrect": true
+     },
+     {
+      "text": "il metodo che hanno ottenuto risultati",
+      "isCorrect": false
+     },
+     {
+      "text": "il metodo di cui hanno ottenuto risultati",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'con cui' means 'with/by which'."
+   },
+   "topic": "lesson.3.4"
+  },
+  {
+   "id": "3.5",
+   "title": "Passive Voice Mechanics (Essere vs. Venire)",
+   "subtitle": "È stato scoperto (was discovered) & Viene analizzato (is analyzed).",
+   "mentalModel": "Passive voice emphasizes the finding over the researcher: <strong>essere + past participle + da</strong> (*È stato dimostrato dagli esperti* = It was demonstrated by the experts). Italian also frequently swaps 'essere' for <strong>venire</strong> (*Viene considerato* = Is considered).",
+   "concepts": [
+    {
+     "it": "è stato dimostrato / sono stati dimostrati",
+     "en": "was / were demonstrated"
+    },
+    {
+     "it": "viene utilizzato / vengono utilizzati",
+     "en": "is / are utilized (present passive)"
+    },
+    {
+     "it": "dal / dalla / dagli",
+     "en": "by the (introduces the agent)"
+    }
+   ],
+   "bridgeMarker": "<strong>Passive Rule:</strong> 'Viene + participle' ALWAYS means present tense passive (e.g. *viene analizzato* = is analyzed, NOT 'comes analyzed')!",
+   "checkQuiz": {
+    "question": "What does 'Il fenomeno viene osservato dagli scienziati' mean?",
+    "options": [
+     {
+      "text": "The phenomenon is observed by scientists",
+      "isCorrect": true
+     },
+     {
+      "text": "The phenomenon came to observe scientists",
+      "isCorrect": false
+     },
+     {
+      "text": "Scientists come and observe the phenomenon",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'viene + participle' forms the present passive: 'is observed'."
+   },
+   "topic": "lesson.3.5"
+  },
+  {
+   "id": "3.6",
+   "title": "The Passive SI (Si Passivante)",
+   "subtitle": "Si vedono progressi (progress is seen) vs. Si legge un testo.",
+   "mentalModel": "When 'si' is followed by a verb and a plural noun, the verb turns plural: *<strong>Si legge</strong> un libro* (one reads a book) vs. *<strong>Si leggono</strong> molti libri* (many books are read).",
+   "concepts": [
+    {
+     "it": "si osserva (singular) / si osservano (plural)",
+     "en": "is observed / are observed"
+    },
+    {
+     "it": "si trova (singular) / si trovano (plural)",
+     "en": "is found / are found"
+    }
+   ],
+   "bridgeMarker": "<strong>Grammar Check on YDS:</strong> If the noun after the verb is plural (*molti casi*), the verb MUST end in '-no' (*si registrano molti casi*).",
+   "checkQuiz": {
+    "question": "Complete the sentence: 'In questo capitolo si _____ molti esempi.'",
+    "options": [
+     {
+      "text": "trovano",
+      "isCorrect": true
+     },
+     {
+      "text": "trova",
+      "isCorrect": false
+     },
+     {
+      "text": "trovato",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "Because 'molti esempi' is plural, the passive SI verb must be plural: 'trovano'."
+   },
+   "topic": "lesson.3.6"
+  },
+  {
+   "id": "3.7",
+   "title": "Gerund Reading Markers (-ando, -endo)",
+   "subtitle": "By doing, having done: Synthesizing actions and cause.",
+   "mentalModel": "Italian gerunds end in <strong>-ando</strong> (-are verbs) or <strong>-endo</strong> (-ere/-ire verbs). They express means or simultaneous actions: *Analizzando i dati, hanno compreso...* (By analyzing the data, they understood...).",
+   "concepts": [
+    {
+     "it": "analizzando / esaminando",
+     "en": "by analyzing / by examining"
+    },
+    {
+     "it": "avendo concluso / essendo giunto",
+     "en": "having concluded / having arrived (past gerund)"
+    }
+   ],
+   "bridgeMarker": "<strong>Sentence Translation Shortcut:</strong> Translate leading gerund clauses as 'By [verb]-ing' or 'While [verb]-ing'.",
+   "checkQuiz": {
+    "question": "What does 'Confrontando i due testi...' mean at the start of a sentence?",
+    "options": [
+     {
+      "text": "By comparing the two texts...",
+      "isCorrect": true
+     },
+     {
+      "text": "After they forgot the two texts...",
+      "isCorrect": false
+     },
+     {
+      "text": "Before reading the two texts...",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "Gerund ending in -ando translates to 'By comparing' or 'While comparing'."
+   },
+   "topic": "lesson.3.7"
+  },
+  {
+   "id": "3.8",
+   "title": "Conditional Mood: Hypothesis & Nuance (-rebbe, -rebbero)",
+   "subtitle": "Would, could, should: Academic claims and polite hypothesis.",
+   "mentalModel": "Academics rarely say 'this will happen 100%'. They say 'this <strong>would suggest</strong>' (*suggerirebbe*). Look for <strong>-rebbe</strong> (singular) and <strong>-rebbero</strong> (plural).",
+   "concepts": [
+    {
+     "it": "potrebbe / potrebbero",
+     "en": "could / might (singular / plural)"
+    },
+    {
+     "it": "dovrebbe / dovrebbero",
+     "en": "should / ought to (singular / plural)"
+    },
+    {
+     "it": "sarebbe / sarebbero",
+     "en": "would be (singular / plural)"
+    }
+   ],
+   "bridgeMarker": "<strong>The Double 'R' Rule:</strong> Conditional ALWAYS has double 'r' in the stem (*sarà* = will be vs *sarebbe* = would be).",
+   "checkQuiz": {
+    "question": "How do you say 'This discovery could change the field'?",
+    "options": [
+     {
+      "text": "Questa scoperta potrebbe cambiare il settore",
+      "isCorrect": true
+     },
+     {
+      "text": "Questa scoperta può cambiare il settore",
+      "isCorrect": false
+     },
+     {
+      "text": "Questa scoperta potrà cambiare il settore",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'potrebbe' is the conditional 'could / might'."
+   },
+   "topic": "lesson.3.8"
+  },
+  {
+   "id": "3.9",
+   "title": "Subjunctive Introduction: Triggers & Recognition",
+   "subtitle": "Che sia, che abbiano, che possano: Demystifying the subjunctive.",
+   "mentalModel": "The subjunctive (Congiuntivo) is not an alien tense: it simply appears after expressions of doubt, necessity, and specific connectors (*Sebbene*, *Affinché*). 3rd-person forms end in <strong>-a</strong> (-ere/-ire verbs) or <strong>-i</strong> (-are verbs)!",
+   "concepts": [
+    {
+     "it": "è necessario che sia...",
+     "en": "it is necessary that it be..."
+    },
+    {
+     "it": "si pensa che abbiano...",
+     "en": "it is thought that they have..."
+    },
+    {
+     "it": "sebbene sia...",
+     "en": "although it is... (connector trigger)"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Secret:</strong> You don't need to conjugate it actively! You just need to recognize that 'sia' = is, and 'abbia' = has when triggered by connectors in Level 4!",
+   "checkQuiz": {
+    "question": "What is 'sia' in the sentence 'Sebbene sia difficile'?",
+    "options": [
+     {
+      "text": "The subjunctive form of 'essere' (to be)",
+      "isCorrect": true
+     },
+     {
+      "text": "The past tense of 'sapere'",
+      "isCorrect": false
+     },
+     {
+      "text": "A preposition meaning 'without'",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'sia' is the 3rd-person subjunctive of 'essere' triggered by 'sebbene'."
+   },
+   "topic": "lesson.3.9"
+  },
+  {
+   "id": "3.10",
+   "title": "Hypothetical Periods: Real vs. Unreal",
+   "subtitle": "Se è vero... vs. Se fosse possibile, sarebbe ideale.",
+   "mentalModel": "Conditionals follow rigid pairs: Real condition uses present (*Se piove, non andiamo*); hypothetical condition pairs Imperfetto Congiuntivo with Conditional (*Se fosse... sarebbe...* = If it were... it would be...).",
+   "concepts": [
+    {
+     "it": "Se + Present -> Present / Future",
+     "en": "Real condition (Se i dati sono corretti, confermano...)"
+    },
+    {
+     "it": "Se + Congiuntivo Imperfetto -> Condizionale",
+     "en": "Hypothetical condition (Se avessimo prove, pubblicheremmo...)"
+    }
+   ],
+   "bridgeMarker": "<strong>ÖSYM Question Pattern:</strong> If you see 'Se' followed by a verb with '-ss-' (fosse, avesse), the second clause MUST contain '-rebbe' (sarebbe, avrebbe)!",
+   "checkQuiz": {
+    "question": "If the first clause is 'Se la teoria fosse corretta, ...', what should the second verb be?",
+    "options": [
+     {
+      "text": "spiegherebbe il fenomeno (Conditional)",
+      "isCorrect": true
+     },
+     {
+      "text": "ha spiegato il fenomeno (Past)",
+      "isCorrect": false
+     },
+     {
+      "text": "spiega il fenomeno (Present)",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Se + fosse' requires a conditional in the main clause ('spiegherebbe')."
+   },
+   "topic": "lesson.3.10"
+  },
+  {
+   "id": "3.11",
+   "title": "Indefinite Pronouns: Qualcuno, Nessuno, Ognuno, Chiunque",
+   "subtitle": "Defining unspecified actors in research statements.",
+   "mentalModel": "Indefinites refer to unspecified persons or things: *qualcuno* (someone), *nessuno* (no one / none), *ognuno* (each one), *chiunque* (whoever / anyone).",
+   "concepts": [
+    {
+     "it": "nessuno / nessuna",
+     "en": "no one / none / nobody",
+     "note": "Nessuno studio ha confermato (no study confirmed)"
+    },
+    {
+     "it": "chiunque (+ congiuntivo)",
+     "en": "whoever / anyone who",
+     "note": "chiunque analizzi i dati (whoever analyzes the data)"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Trap:</strong> When 'nessuno' comes after the verb, Italian requires a double negative: *Non abbiamo trovato nessuno* (We didn't find anyone).",
+   "checkQuiz": {
+    "question": "What does 'Nessuna prova è stata presentata' mean?",
+    "options": [
+     {
+      "text": "No evidence has been presented",
+      "isCorrect": true
+     },
+     {
+      "text": "All evidence has been presented",
+      "isCorrect": false
+     },
+     {
+      "text": "Some evidence has been presented",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Nessuna prova' means 'no evidence / not any proof'."
+   },
+   "topic": "lesson.3.11"
+  }
+ ]
+}

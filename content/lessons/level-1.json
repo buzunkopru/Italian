@@ -1,0 +1,532 @@
+{
+ "id": 1,
+ "name": "Level 1: A1 Fondamenta",
+ "tag": "A1 Foundations",
+ "badge": "🌱 A1 Fondamenta",
+ "description": "Master the 2 foundational pillars (Essere & Avere), articles, and preposition contractions.",
+ "accent": "#2563EB",
+ "lessons": [
+  {
+   "id": "1.1",
+   "title": "The Two Pillars: Essere & Avere",
+   "subtitle": "Why these two irregular verbs are the engine of all Italian sentences.",
+   "mentalModel": "Just like 'To Be' and 'To Have' in English, Italian relies entirely on <strong>Essere</strong> and <strong>Avere</strong>. They describe identity, state, and possession—and in Level 2, they act as the auxiliary 'helpers' for every past tense action!",
+   "concepts": [
+    {
+     "it": "io sono / lui è / loro sono",
+     "en": "I am / he (she) is / they are (Essere)",
+     "note": "Notice 'è' (is with accent). Without accent, 'e' means 'and'."
+    },
+    {
+     "it": "io ho / lui ha / loro hanno",
+     "en": "I have / he (she) has / they have (Avere)",
+     "note": "The 'h' in Italian is silent! 'ha' sounds like 'ah'."
+    }
+   ],
+   "xray": {
+    "blocks": [
+     {
+      "it": "L'amico",
+      "role": "Subject (Noun)",
+      "en": "The friend",
+      "colorClass": "xray-subj"
+     },
+     {
+      "it": "è",
+      "role": "Verb (Essere)",
+      "en": "is",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "a casa",
+      "role": "Location",
+      "en": "at home",
+      "colorClass": "xray-obj"
+     },
+     {
+      "it": "e",
+      "role": "Conjunction",
+      "en": "and",
+      "colorClass": "xray-conn"
+     },
+     {
+      "it": "ha",
+      "role": "Verb (Avere)",
+      "en": "has",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "un libro.",
+      "role": "Object",
+      "en": "a book.",
+      "colorClass": "xray-obj"
+     }
+    ],
+    "fullEn": "The friend is at home and has a book."
+   },
+   "bridgeMarker": "<strong>Golden Bridge to Level 4 (YDS):</strong> Keep an eye on <em>Essere</em>! In formal YDS sentences, its 3rd-person subjunctive form becomes <strong>sia</strong> (singular) and <strong>siano</strong> (plural)—which you saw earlier! And its past form becomes <strong>è stato</strong> (was). When you see 'siano' on the YDS, you are simply looking at <em>essere</em>!",
+   "checkQuiz": {
+    "question": "How do you say 'The researchers have' in Italian?",
+    "options": [
+     {
+      "text": "I ricercatori hanno",
+      "isCorrect": true
+     },
+     {
+      "text": "I ricercatori sono",
+      "isCorrect": false
+     },
+     {
+      "text": "I ricercatori è",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "For plural subjects ('loro' / they), 'avere' conjugates as 'hanno'."
+   },
+   "topic": "lesson.1.1"
+  },
+  {
+   "id": "1.2",
+   "title": "Articles & Preposition Contractions",
+   "subtitle": "How prepositions combine with articles (in + il = nel, di + la = della).",
+   "mentalModel": "Every Italian noun has a grammatical gender: <strong>🔴 Feminine (Red)</strong> or <strong>🔵 Masculine (Blue)</strong>. Recognizing the article instantly reveals the gender and how prepositions will contract around it!",
+   "concepts": [
+    {
+     "it": "<span class='art-masc'>il</span> / <span class='art-masc'>lo</span> / <span class='art-masc'>l'</span> (Plural: <span class='art-masc'>i</span> / <span class='art-masc'>gli</span>)",
+     "en": "🔵 MASCULINE (Blue): il libro (i libri), lo studente (gli studenti), l'amico (gli amici)",
+     "note": "Use 'lo' before s+consonant, z, gn; use 'l'' before vowels."
+    },
+    {
+     "it": "<span class='art-fem'>la</span> / <span class='art-fem'>l'</span> (Plural: <span class='art-fem'>le</span>)",
+     "en": "🔴 FEMININE (Red): la casa (le case), l'idea (le idee)",
+     "note": "Feminine nouns almost always end in -a (plural -e)."
+    },
+    {
+     "it": "in + <span class='art-masc'>il</span> = <span class='art-masc'>nel</span> / in + <span class='art-fem'>la</span> = <span class='art-fem'>nella</span>",
+     "en": "Contractions: in the (masculine blue: nel / feminine red: nella)",
+     "note": "nel libro (in the book), nella società (in society)"
+    },
+    {
+     "it": "di + <span class='art-masc'>il</span> = <span class='art-masc'>del</span> / di + <span class='art-fem'>la</span> = <span class='art-fem'>della</span>",
+     "en": "Contractions: of the (del / della)",
+     "note": "la struttura del progetto, la voce della scienza"
+    },
+    {
+     "it": "da + <span class='art-masc'>il</span> = <span class='art-masc'>dal</span> / da + <span class='art-fem'>la</span> = <span class='art-fem'>dalla</span>",
+     "en": "Contractions: from / by the (agent in passive: dal / dalla / dagli)",
+     "note": "dagli scienziati (by the scientists)"
+    }
+   ],
+   "xray": {
+    "blocks": [
+     {
+      "it": "<span class='art-fem'>La</span> ricerca",
+      "role": "Subject (🔴 Feminine)",
+      "en": "The research",
+      "colorClass": "xray-subj"
+     },
+     {
+      "it": "è",
+      "role": "Verb (Essere)",
+      "en": "is",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "<span class='art-masc'>nel</span> cassetto",
+      "role": "in + il (🔵 Masculine)",
+      "en": "in the drawer",
+      "colorClass": "xray-obj"
+     },
+     {
+      "it": "<span class='art-fem'>della</span> scrivania.",
+      "role": "di + la (🔴 Feminine)",
+      "en": "of the desk.",
+      "colorClass": "xray-obj"
+     }
+    ],
+    "fullEn": "The research is in the desk drawer."
+   },
+   "bridgeMarker": "<strong>Golden Bridge to Level 4 (YDS):</strong> In YDS passive voice questions, actions are carried out <em>by</em> someone using <strong>da + article</strong> (e.g. <em>'è stato scoperto <strong>dagli</strong> esperti'</em> = was discovered by the experts). Spotting 'dagli' gives you the subject instantly!",
+   "checkQuiz": {
+    "question": "What does 'nella società' mean?",
+    "options": [
+     {
+      "text": "In the society (in + la)",
+      "isCorrect": true
+     },
+     {
+      "text": "From the society (da + la)",
+      "isCorrect": false
+     },
+     {
+      "text": "Of the society (di + la)",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'in' + 'la' contract to form 'nella' (in the feminine)."
+   },
+   "topic": "lesson.1.2"
+  },
+  {
+   "id": "1.3",
+   "title": "The Present Tense Verb Rhythm",
+   "subtitle": "The 3 regular endings (-are, -ere, -ire) and the vital 3rd-person rule.",
+   "mentalModel": "Italian verbs belong to three families based on their infinitives: <strong>-are</strong> (parlare), <strong>-ere</strong> (leggere), and <strong>-ire</strong> (dormire). For academic reading, 95% of verbs are 3rd-person singular (-a/-e) or plural (-ano/-ono)!",
+   "concepts": [
+    {
+     "it": "parla / parlano",
+     "en": "speaks / they speak (-are family)",
+     "note": "Singular ends in -a; plural ends in -ano."
+    },
+    {
+     "it": "scrive / scrivono",
+     "en": "writes / they write (-ere family)",
+     "note": "Singular ends in -e; plural ends in -ono."
+    },
+    {
+     "it": "dorme / dormono",
+     "en": "sleeps / they sleep (-ire family)",
+     "note": "Singular ends in -e; plural ends in -ono."
+    }
+   ],
+   "xray": {
+    "blocks": [
+     {
+      "it": "Gli studenti",
+      "role": "Subject (Plural)",
+      "en": "The students",
+      "colorClass": "xray-subj"
+     },
+     {
+      "it": "leggono",
+      "role": "Verb (-ono plural)",
+      "en": "read",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "e",
+      "role": "Conjunction",
+      "en": "and",
+      "colorClass": "xray-conn"
+     },
+     {
+      "it": "scrivono",
+      "role": "Verb (-ono plural)",
+      "en": "write",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "insieme.",
+      "role": "Adverb",
+      "en": "together.",
+      "colorClass": "xray-obj"
+     }
+    ],
+    "fullEn": "The students read and write together."
+   },
+   "bridgeMarker": "<strong>Golden Bridge to Level 4 (YDS):</strong> Notice that all plural verbs end in <strong>-no</strong> (parlano, scrivono, sono, hanno). On YDS translation questions, checking if the verb ends in '-no' immediately eliminates singular distractors!",
+   "checkQuiz": {
+    "question": "Which ending indicates 3rd-person PLURAL (they) in Italian?",
+    "options": [
+     {
+      "text": "Ending in -no (parlano / scrivono)",
+      "isCorrect": true
+     },
+     {
+      "text": "Ending in -i (parli)",
+      "isCorrect": false
+     },
+     {
+      "text": "Ending in -o (parlo)",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "All 3rd-person plural verbs end in -no (they speak, they write, they are)."
+   },
+   "topic": "lesson.1.3"
+  },
+  {
+   "id": "1.4",
+   "title": "The Core Irregular Action Verbs: Fare & Andare",
+   "subtitle": "Mastering the two most frequent action drivers in Italian sentences.",
+   "mentalModel": "Just like 'to do/make' and 'to go' in English, Italian uses <strong>fare</strong> (fa, fanno) and <strong>andare</strong> (va, vanno) constantly. Notice how the 3rd-person forms still end in -a (singular) and -anno (plural)!",
+   "concepts": [
+    {
+     "it": "lui fa / loro fanno",
+     "en": "he (she) does / they do (Fare)",
+     "note": "fa una ricerca (conducts research), fa parte di (is part of)"
+    },
+    {
+     "it": "lui va / loro vanno",
+     "en": "he (she) goes / they go (Andare)",
+     "note": "va verso (goes toward), vanno a Roma (they go to Rome)"
+    }
+   ],
+   "xray": {
+    "blocks": [
+     {
+      "it": "Lo scienziato",
+      "role": "Subject",
+      "en": "The scientist",
+      "colorClass": "xray-subj"
+     },
+     {
+      "it": "fa",
+      "role": "Verb (Fare)",
+      "en": "makes",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "una scoperta importante.",
+      "role": "Object",
+      "en": "an important discovery.",
+      "colorClass": "xray-obj"
+     }
+    ],
+    "fullEn": "The scientist makes an important discovery."
+   },
+   "bridgeMarker": "<strong>Bridge to YDS:</strong> 'Fare' is used in academic Italian for expressions like 'fare riferimento a' (to refer to) and 'fare parte di' (to belong to).",
+   "checkQuiz": {
+    "question": "How do you say 'The researchers conduct (make) research'?",
+    "options": [
+     {
+      "text": "I ricercatori fanno ricerche",
+      "isCorrect": true
+     },
+     {
+      "text": "I ricercatori fa ricerche",
+      "isCorrect": false
+     },
+     {
+      "text": "I ricercatori va ricerche",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "3rd-person plural of 'fare' is 'fanno'."
+   },
+   "topic": "lesson.1.4"
+  },
+  {
+   "id": "1.5",
+   "title": "Venire & Dare: Motion & Passive Foundation",
+   "subtitle": "How 'Venire' acts as a passive engine and 'Dare' provides results.",
+   "mentalModel": "<strong>Venire</strong> (viene, vengono) means 'to come', but in academic Italian it has a superpower: it is used as a passive auxiliary (*viene considerato* = is considered)! <strong>Dare</strong> (dà, danno) means 'to give'.",
+   "concepts": [
+    {
+     "it": "viene / vengono",
+     "en": "comes / they come (Venire)",
+     "note": "Later in Level 3: viene fatto = is done!"
+    },
+    {
+     "it": "dà / danno",
+     "en": "gives / they give (Dare)",
+     "note": "dà risultati = yields results"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Secret:</strong> In Level 3, you will see 'viene' replacing 'è' in passive sentences: 'Il testo viene tradotto' = 'The text is translated'.",
+   "checkQuiz": {
+    "question": "What is the 3rd person singular of Venire?",
+    "options": [
+     {
+      "text": "viene",
+      "isCorrect": true
+     },
+     {
+      "text": "vengono",
+      "isCorrect": false
+     },
+     {
+      "text": "vado",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'viene' is the 3rd-person singular form."
+   },
+   "topic": "lesson.1.5"
+  },
+  {
+   "id": "1.6",
+   "title": "Negation & Invariable Markers",
+   "subtitle": "Non, mai, nulla, niente: How Italian handles negative statements.",
+   "mentalModel": "Italian uses a double negative naturally: <strong>non</strong> goes before the verb (*Non abbiamo tempo*). With 'mai' (never), 'non ... mai' forms complete negation.",
+   "concepts": [
+    {
+     "it": "non ... mai",
+     "en": "never",
+     "note": "non cambia mai (never changes)"
+    },
+    {
+     "it": "non ... più",
+     "en": "no longer / no more",
+     "note": "non è più valido (is no longer valid)"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Trap:</strong> 'Non solo ... ma anche' means 'Not only ... but also', a very frequent connector pairing on YDS!",
+   "checkQuiz": {
+    "question": "Where does 'non' go in an Italian sentence?",
+    "options": [
+     {
+      "text": "Immediately before the verb",
+      "isCorrect": true
+     },
+     {
+      "text": "At the very end of the sentence",
+      "isCorrect": false
+     },
+     {
+      "text": "After the direct object",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'non' always precedes the conjugated verb."
+   },
+   "topic": "lesson.1.6"
+  },
+  {
+   "id": "1.7",
+   "title": "Interrogative Question Stems",
+   "subtitle": "Chi, cosa, dove, quando, perché, come, quanto.",
+   "mentalModel": "These words question subjects, objects, reasons, and times. Crucial for understanding Reading Comprehension question stems on exams!",
+   "concepts": [
+    {
+     "it": "Chi (who), Cosa (what), Dove (where)",
+     "en": "Who, what, where"
+    },
+    {
+     "it": "Quando (when), Perché (why/because), Come (how)",
+     "en": "When, why, how"
+    }
+   ],
+   "bridgeMarker": "<strong>Exam Skill:</strong> Reading question stems always begin with these words (e.g. *Secondo il testo, perché...?* = According to the text, why...?).",
+   "checkQuiz": {
+    "question": "What does 'Perché' mean in Italian?",
+    "options": [
+     {
+      "text": "Both 'Why?' and 'Because'",
+      "isCorrect": true
+     },
+     {
+      "text": "Only 'Where'",
+      "isCorrect": false
+     },
+     {
+      "text": "Only 'When'",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Perché' handles both the question (why) and the answer (because)."
+   },
+   "topic": "lesson.1.7"
+  },
+  {
+   "id": "1.8",
+   "title": "Adjectives & Agreement Rules",
+   "subtitle": "How Italian adjectives adapt to masculine, feminine, and plural nouns.",
+   "mentalModel": "Unlike English where 'big' never changes, Italian adjectives match the noun: *un buon libro* -> *buoni libri*; *una buona idea* -> *buone idee*.",
+   "concepts": [
+    {
+     "it": "-o / -a / -i / -e",
+     "en": "The 4 ending pattern",
+     "note": "nuovo, nuova, nuovi, nuove"
+    },
+    {
+     "it": "-e / -i",
+     "en": "The 2 ending pattern",
+     "note": "importante (sg), importanti (pl)"
+    }
+   ],
+   "bridgeMarker": "<strong>Elimination Hack:</strong> Match the adjective's gender/number with the subject to quickly eliminate 2 out of 5 options on YDS!",
+   "checkQuiz": {
+    "question": "What is the plural of 'importante'?",
+    "options": [
+     {
+      "text": "importanti",
+      "isCorrect": true
+     },
+     {
+      "text": "importanto",
+      "isCorrect": false
+     },
+     {
+      "text": "importanta",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "Adjectives ending in -e change to -i in the plural for both masculine and feminine."
+   },
+   "topic": "lesson.1.8"
+  },
+  {
+   "id": "1.9",
+   "title": "Possession & Attribution",
+   "subtitle": "Il suo, la sua, i loro: Tracking who owns what in academic texts.",
+   "mentalModel": "Italian puts the definite article before possessives: *la sua ricerca* (his/her research), *i loro risultati* (their results).",
+   "concepts": [
+    {
+     "it": "il suo / la sua",
+     "en": "his / her / its"
+    },
+    {
+     "it": "il loro / la loro",
+     "en": "their (invariable possessive)"
+    }
+   ],
+   "bridgeMarker": "<strong>Academic Reading:</strong> 'Il loro' never changes its ending! Only the article before it changes: *i loro studi* (their studies).",
+   "checkQuiz": {
+    "question": "How do you say 'their findings'?",
+    "options": [
+     {
+      "text": "i loro risultati",
+      "isCorrect": true
+     },
+     {
+      "text": "i lori risultati",
+      "isCorrect": false
+     },
+     {
+      "text": "le sue risultati",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'loro' never changes; the plural article 'i' matches 'risultati'."
+   },
+   "topic": "lesson.1.9"
+  },
+  {
+   "id": "1.10",
+   "title": "Quantifiers & Numbers",
+   "subtitle": "Molto, poco, tutto, ogni, alcuni, primo, secondo.",
+   "mentalModel": "Quantifiers establish scope: *alcuni studi* (some studies), *tutti i dati* (all data), *il primo capitolo* (the first chapter).",
+   "concepts": [
+    {
+     "it": "alcuni / alcune",
+     "en": "some / a few"
+    },
+    {
+     "it": "ogni (invariable)",
+     "en": "every / each"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Note:</strong> Watch out for 'ogni' vs 'tutti'. 'Ogni' is followed by a singular noun (*ogni ricercatore*), while 'tutti' takes plural (*tutti i ricercatori*).",
+   "checkQuiz": {
+    "question": "Which quantifier is invariable and takes a singular noun?",
+    "options": [
+     {
+      "text": "Ogni",
+      "isCorrect": true
+     },
+     {
+      "text": "Tutti",
+      "isCorrect": false
+     },
+     {
+      "text": "Molti",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Ogni' means 'each/every' and is always singular."
+   },
+   "topic": "lesson.1.10"
+  }
+ ]
+}

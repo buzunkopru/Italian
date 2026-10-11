@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Mille • YDS Italiano</title>
+  <meta name="theme-color" content="#0F172A">
+  <meta name="color-scheme" content="dark">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/icon-192.png">
+  <link rel="apple-touch-icon" href="icons/icon-180.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="Mille">
+  <link rel="stylesheet" href="app/style.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="#/today">Mille <span>YDS 55+</span></a>
+    <a class="gear" href="#/settings" aria-label="Settings">⚙︎</a>
+  </header>
+
+  <main id="view" tabindex="-1"></main>
+
+  <nav class="tabbar" aria-label="Main">
+    <a href="#/today" data-tab="today"><i>🏠</i><span>Today</span></a>
+    <a href="#/learn" data-tab="learn"><i>🎓</i><span>Learn</span></a>
+    <a href="#/practice" data-tab="practice"><i>⚡</i><span>Practice</span></a>
+    <a href="#/exam" data-tab="exam"><i>📝</i><span>Exam</span></a>
+    <a href="#/words" data-tab="words"><i>📖</i><span>Words</span></a>
+    <a href="#/progress" data-tab="progress"><i>📈</i><span>Progress</span></a>
+  </nav>
+
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+  <noscript>Mille needs JavaScript.</noscript>
+  <script type="module" src="app/main.js"></script>
+</body>
+</html>

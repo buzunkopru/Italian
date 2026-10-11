@@ -1,0 +1,558 @@
+{
+ "id": 4,
+ "name": "Level 4: B2 YDS Accademia",
+ "tag": "The Exam Simulator",
+ "badge": "🏛️ B2 YDS Accademia",
+ "description": "The 25 Master Connectors (Sebbene, Tuttavia, Poiché) and 25 Research Argumentation Verbs with 3rd-person Tense Decoders.",
+ "accent": "#8B5CF6",
+ "lessons": [
+  {
+   "id": "4.1",
+   "title": "The Concession & Contrast Masters",
+   "subtitle": "Sebbene, Benché, Tuttavia, Nonostante, Mentre, Invece.",
+   "mentalModel": "Academic arguments always balance opposing findings: 'Although X, Y is true' or 'X is difficult; however, Y succeeded.' In Italian, <strong>Sebbene / Benché</strong> start the concession clause (and trigger the subjunctive), while <strong>Tuttavia</strong> transitions between sentences.",
+   "concepts": [
+    {
+     "it": "Sebbene / Benché (+ congiuntivo)",
+     "en": "Although / Even though",
+     "note": "Signals contrast; governs subjunctive (sia, abbiano, possano)."
+    },
+    {
+     "it": "Tuttavia / Ciononostante",
+     "en": "However / Nevertheless",
+     "note": "Pivots between two complete sentences (often after a semicolon ;)."
+    },
+    {
+     "it": "Mentre ... invece",
+     "en": "While / Whereas ... on the contrary",
+     "note": "Contrasts two concurrent perspectives in reading passages."
+    }
+   ],
+   "xray": {
+    "blocks": [
+     {
+      "it": "Sebbene",
+      "role": "Connector (Concession)",
+      "en": "Although",
+      "colorClass": "xray-conn"
+     },
+     {
+      "it": "i dati siano preliminari,",
+      "role": "Subordinate (Subjunctive)",
+      "en": "the data is preliminary,",
+      "colorClass": "xray-subj"
+     },
+     {
+      "it": "la ricerca",
+      "role": "Main Subject",
+      "en": "the research",
+      "colorClass": "xray-subj"
+     },
+     {
+      "it": "dimostra",
+      "role": "Main Verb",
+      "en": "demonstrates",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "una tendenza chiara.",
+      "role": "Object",
+      "en": "a clear trend.",
+      "colorClass": "xray-obj"
+     }
+    ],
+    "fullEn": "Although the data is preliminary, the research demonstrates a clear trend."
+   },
+   "bridgeMarker": "<strong>Look at 'siano' in the X-Ray!</strong> Now you understand where it comes from: it's simply our Level 1 friend <em>essere</em> (to be) dressed up in its formal subjunctive suit because <em>sebbene</em> triggered it!",
+   "checkQuiz": {
+    "question": "Which connector connects two sentences after a semicolon (;) to mean 'However'?",
+    "options": [
+     {
+      "text": "Tuttavia",
+      "isCorrect": true
+     },
+     {
+      "text": "Sebbene",
+      "isCorrect": false
+     },
+     {
+      "text": "Affinché",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Tuttavia' (However / Nevertheless) is the transition marker between independent clauses."
+   },
+   "topic": "lesson.4.1"
+  },
+  {
+   "id": "4.2",
+   "title": "Cause, Effect & Result Markers",
+   "subtitle": "Poiché, Siccome, Dato che, Quindi, Pertanto, Perciò, Di conseguenza.",
+   "mentalModel": "Research papers constantly explain why phenomena occur: Cause -> Result. <strong>Poiché</strong> and <strong>Siccome</strong> set up the cause at the beginning of the sentence, while <strong>Pertanto</strong> and <strong>Quindi</strong> declare the final consequence.",
+   "concepts": [
+    {
+     "it": "Poiché / Siccome / Dato che",
+     "en": "Since / Given that / Because",
+     "note": "States undisputed factual premises leading to a result."
+    },
+    {
+     "it": "Quindi / Pertanto / Perciò",
+     "en": "Therefore / Hence / For this reason",
+     "note": "Declares the logical deduction or consequence."
+    },
+    {
+     "it": "Di conseguenza",
+     "en": "Consequently / As a result",
+     "note": "Formal academic equivalent of English 'consequently'."
+    }
+   ],
+   "xray": {
+    "blocks": [
+     {
+      "it": "Poiché",
+      "role": "Causal Connector",
+      "en": "Since",
+      "colorClass": "xray-conn"
+     },
+     {
+      "it": "le risorse sono limitate,",
+      "role": "Cause Clause",
+      "en": "resources are limited,",
+      "colorClass": "xray-obj"
+     },
+     {
+      "it": "dobbiamo",
+      "role": "Verb",
+      "en": "we must",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "stabilire delle priorità.",
+      "role": "Object",
+      "en": "establish priorities.",
+      "colorClass": "xray-obj"
+     }
+    ],
+    "fullEn": "Since resources are limited, we must establish priorities."
+   },
+   "bridgeMarker": "<strong>YDS Rule:</strong> Never confuse cause with contrast! If the second clause is a natural, logical result of the first, pick <em>poiché</em> or <em>pertanto</em>, never <em>sebbene</em>.",
+   "checkQuiz": {
+    "question": "Which word means 'Therefore / Hence' in formal academic Italian?",
+    "options": [
+     {
+      "text": "Pertanto",
+      "isCorrect": true
+     },
+     {
+      "text": "Benché",
+      "isCorrect": false
+     },
+     {
+      "text": "Mentre",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Pertanto' is the high-frequency academic marker for 'therefore / hence'."
+   },
+   "topic": "lesson.4.2"
+  },
+  {
+   "id": "4.3",
+   "title": "Purpose & Finality Connectors",
+   "subtitle": "Affinché, Al fine di, Onde, Allo scopo di.",
+   "mentalModel": "Academic proposals define aims: 'In order that / in order to'. <strong>Al fine di / Allo scopo di</strong> are followed by an infinitive, while <strong>Affinché</strong> triggers the subjunctive!",
+   "concepts": [
+    {
+     "it": "Affinché (+ congiuntivo)",
+     "en": "So that / In order that",
+     "note": "Affinché i risultati siano validi (so that results be valid)"
+    },
+    {
+     "it": "Al fine di / Allo scopo di (+ infinito)",
+     "en": "In order to / With the aim of",
+     "note": "Al fine di ridurre l'errore (in order to reduce error)"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Shortcut:</strong> If a blank is followed directly by an infinitive verb (*ridurre*), pick 'Al fine di'. If followed by a subjunctive verb (*sia*), pick 'Affinché'!",
+   "checkQuiz": {
+    "question": "Which purpose connector is followed by a subjunctive verb?",
+    "options": [
+     {
+      "text": "Affinché",
+      "isCorrect": true
+     },
+     {
+      "text": "Al fine di",
+      "isCorrect": false
+     },
+     {
+      "text": "Allo scopo di",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Affinché' introduces a subordinate clause requiring the subjunctive mood."
+   },
+   "topic": "lesson.4.3"
+  },
+  {
+   "id": "4.4",
+   "title": "Condition & Exception Markers",
+   "subtitle": "Purché, A patto che, A meno che non, Qualora.",
+   "mentalModel": "Hypotheses and boundaries: 'Provided that' (*purché*), 'Unless' (*a meno che non*), 'In case / should' (*qualora*). All of these academic condition markers trigger the subjunctive!",
+   "concepts": [
+    {
+     "it": "Purché / A patto che (+ congiuntivo)",
+     "en": "Provided that / On condition that"
+    },
+    {
+     "it": "A meno che non (+ congiuntivo)",
+     "en": "Unless (introduces an exception)"
+    },
+    {
+     "it": "Qualora (+ congiuntivo)",
+     "en": "In the event that / If / Should"
+    }
+   ],
+   "bridgeMarker": "<strong>Exam Note:</strong> 'A meno che non' always includes 'non', but translates to positive 'unless' in English!",
+   "checkQuiz": {
+    "question": "What does 'A meno che non' mean?",
+    "options": [
+     {
+      "text": "Unless",
+      "isCorrect": true
+     },
+     {
+      "text": "Although",
+      "isCorrect": false
+     },
+     {
+      "text": "Because",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'A meno che non' means 'unless / except if'."
+   },
+   "topic": "lesson.4.4"
+  },
+  {
+   "id": "4.5",
+   "title": "Addition, Reformulation & Exemplification",
+   "subtitle": "Inoltre, Oltre a, Ossia, Vale a dire, Ad esempio.",
+   "mentalModel": "Authors build evidence layer upon layer: 'Moreover' (*inoltre*), 'In addition to' (*oltre a*), 'That is to say / namely' (*ossia, vale a dire*).",
+   "concepts": [
+    {
+     "it": "Inoltre / D'altronde",
+     "en": "Furthermore / Moreover / Besides"
+    },
+    {
+     "it": "Ossia / Vale a dire / Cioè",
+     "en": "Namely / That is to say (reformulation)"
+    },
+    {
+     "it": "Ad esempio / Per esempio",
+     "en": "For example / For instance"
+    }
+   ],
+   "bridgeMarker": "<strong>Paragraph Completion (Akışı Bozan Cümle):</strong> Look for 'Inoltre'. If the preceding sentence did not make a positive claim, 'Inoltre' does not belong there!",
+   "checkQuiz": {
+    "question": "Which marker means 'Namely / That is to say' in formal academic writing?",
+    "options": [
+     {
+      "text": "Ossia",
+      "isCorrect": true
+     },
+     {
+      "text": "Sebbene",
+      "isCorrect": false
+     },
+     {
+      "text": "Quindi",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Ossia' reformulates or clarifies a preceding term."
+   },
+   "topic": "lesson.4.5"
+  },
+  {
+   "id": "4.6",
+   "title": "Academic Discourse Signaling",
+   "subtitle": "In primo luogo, In sintesi, D'altronde, D'altra parte.",
+   "mentalModel": "Discourse markers guide the reader through complex arguments: roadmap signposts like *In primo luogo* (Firstly), *D'altro canto* (On the other hand), *In conclusione* (In conclusion).",
+   "concepts": [
+    {
+     "it": "Da un lato ... dall'altro",
+     "en": "On the one hand ... on the other hand"
+    },
+    {
+     "it": "In sintesi / In conclusione",
+     "en": "In summary / In conclusion"
+    },
+    {
+     "it": "D'altra parte",
+     "en": "On the other hand / Moreover"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Structure:</strong> If a paragraph begins with 'Da un lato', scan the passage for 'dall'altro' to quickly locate the author's counter-argument!",
+   "checkQuiz": {
+    "question": "What connector naturally pairs with 'Da un lato'?",
+    "options": [
+     {
+      "text": "Dall'altro (canto)",
+      "isCorrect": true
+     },
+     {
+      "text": "Perciò",
+      "isCorrect": false
+     },
+     {
+      "text": "Affinché",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Da un lato ... dall'altro' is the standard 'on the one hand ... on the other'."
+   },
+   "topic": "lesson.4.6"
+  },
+  {
+   "id": "4.7",
+   "title": "Verbs of Argumentation & Claim",
+   "subtitle": "Sostenere, Ipotizzare, Affermare, Asserire, Ritenere.",
+   "mentalModel": "These verbs define what scholars argue: *L'autore sostiene che...* (The author argues that...), *Si ritiene che...* (It is believed that...). Look at their 3rd-person forms!",
+   "concepts": [
+    {
+     "it": "sostiene / sostengono",
+     "en": "argues / they maintain (Sostenere)"
+    },
+    {
+     "it": "afferma / affermano",
+     "en": "asserts / states (Affermare)"
+    },
+    {
+     "it": "ritiene / ritengono",
+     "en": "believes / considers (Ritenere)"
+    }
+   ],
+   "bridgeMarker": "<strong>Reading Stem Mastery:</strong> Comprehension questions ask: 'Secondo il testo, cosa sostiene l'autore?' = According to the text, what does the author argue?",
+   "checkQuiz": {
+    "question": "What is the English meaning of 'sostenere' in an academic context?",
+    "options": [
+     {
+      "text": "To maintain / to argue a claim",
+      "isCorrect": true
+     },
+     {
+      "text": "To deny completely",
+      "isCorrect": false
+     },
+     {
+      "text": "To ignore evidence",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Sostenere' means to argue, maintain, or assert a thesis."
+   },
+   "topic": "lesson.4.7"
+  },
+  {
+   "id": "4.8",
+   "title": "Verbs of Investigation & Discovery",
+   "subtitle": "Indagare, Rilevare, Dimostrare, Evidenziare, Esaminare.",
+   "mentalModel": "The methodology verbs: *La ricerca indaga...* (The research investigates...), *I dati evidenziano...* (The data highlights...). Transparent Latin cognates with English!",
+   "concepts": [
+    {
+     "it": "dimostra / dimostrano",
+     "en": "demonstrates / they prove (Dimostrare)"
+    },
+    {
+     "it": "evidenzia / evidenziano",
+     "en": "highlights / emphasizes (Evidenziare)"
+    },
+    {
+     "it": "rileva / rilevano",
+     "en": "detects / reveals / notices (Rilevare)"
+    }
+   ],
+   "bridgeMarker": "<strong>Translation Questions (Çeviri):</strong> Spotting 'dimostra' immediately tells you to find 'kanıtlamaktadır / göstermektedir' in the Turkish choices!",
+   "checkQuiz": {
+    "question": "What does 'I dati evidenziano una discrepanza' mean?",
+    "options": [
+     {
+      "text": "The data highlights a discrepancy",
+      "isCorrect": true
+     },
+     {
+      "text": "The data hides a discrepancy",
+      "isCorrect": false
+     },
+     {
+      "text": "The data removes a discrepancy",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'evidenziano' means 'highlights / brings to light'."
+   },
+   "topic": "lesson.4.8"
+  },
+  {
+   "id": "4.9",
+   "title": "Verbs of Causation & Impact",
+   "subtitle": "Comportare, Provocare, Favorire, Influenzare, Scaturire.",
+   "mentalModel": "Cause-effect relationships: *Questo fenomeno comporta gravi rischi* (entails serious risks), *Le politiche favoriscono la crescita* (policies foster growth).",
+   "concepts": [
+    {
+     "it": "comporta / comportano",
+     "en": "entails / involves (Comportare)"
+    },
+    {
+     "it": "favorisce / favoriscono",
+     "en": "fosters / promotes / facilitates (Favorire)"
+    },
+    {
+     "it": "scaturisce da",
+     "en": "stems from / arises from (Scaturire)"
+    }
+   ],
+   "bridgeMarker": "<strong>Academic Synonym:</strong> 'Comportare' is the formal academic synonym for 'avere come conseguenza' (to result in).",
+   "checkQuiz": {
+    "question": "What does 'favorire lo sviluppo' mean?",
+    "options": [
+     {
+      "text": "To foster / promote development",
+      "isCorrect": true
+     },
+     {
+      "text": "To prevent development",
+      "isCorrect": false
+     },
+     {
+      "text": "To delay development",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'favorire' means to promote, encourage, or facilitate."
+   },
+   "topic": "lesson.4.9"
+  },
+  {
+   "id": "4.10",
+   "title": "Academic Prepositional Collocations",
+   "subtitle": "A scapito di, In merito a, In base a, Rispetto a, Nei confronti di.",
+   "mentalModel": "Collocations are fixed multi-word phrases heavily tested on ÖSYM exams: *in base a* (based on), *a scapito di* (at the expense of), *in merito a* (regarding).",
+   "concepts": [
+    {
+     "it": "in base a / in base ai dati",
+     "en": "based on / on the basis of"
+    },
+    {
+     "it": "a scapito di / a danno di",
+     "en": "at the expense of / to the detriment of"
+    },
+    {
+     "it": "in merito a / a proposito di",
+     "en": "regarding / with respect to"
+    }
+   ],
+   "bridgeMarker": "<strong>Preposition Cloze Mastery:</strong> On YDS cloze tests, when you see 'a scapito', the following preposition is ALWAYS 'di'!",
+   "checkQuiz": {
+    "question": "What does 'a scapito di' mean in academic discourse?",
+    "options": [
+     {
+      "text": "At the expense / detriment of",
+      "isCorrect": true
+     },
+     {
+      "text": "In favor of",
+      "isCorrect": false
+     },
+     {
+      "text": "In addition to",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'a scapito di' signifies a trade-off: at the expense of."
+   },
+   "topic": "lesson.4.10"
+  },
+  {
+   "id": "4.11",
+   "title": "Sentence Completion Anatomy (Cümle Tamamlama)",
+   "subtitle": "The 3-Step formula to score 8/10 on ÖSYM Sentence Completion.",
+   "mentalModel": "Sentence completion tests logic: 1. Identify connector polarity (+/-); 2. Match subject & verb number (-no plural?); 3. Verify tense concordance (Present matches Present/Future; Past matches Past).",
+   "concepts": [
+    {
+     "it": "Polarity Check",
+     "en": "If first clause is negative, concession requires a positive turn."
+    },
+    {
+     "it": "Subject Agreement",
+     "en": "A plural subject ('i ricercatori') requires plural verb ('hanno/sono')."
+    },
+    {
+     "it": "Tense Concordance",
+     "en": "A past main clause cannot connect to a present result without a time shift marker."
+    }
+   ],
+   "bridgeMarker": "<strong>The 44/80 Target:</strong> Sentence completion questions are worth 10 questions (~12.5 points). Mastering this 3-step check unlocks half of your 55-point goal!",
+   "checkQuiz": {
+    "question": "When tackling Sentence Completion, what is step 1?",
+    "options": [
+     {
+      "text": "Identify connector polarity (+ or -) and clause relationship",
+      "isCorrect": true
+     },
+     {
+      "text": "Translate every single word into your native tongue",
+      "isCorrect": false
+     },
+     {
+      "text": "Pick the longest sentence choice immediately",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "Checking connector polarity immediately eliminates 3 out of 5 options."
+   },
+   "topic": "lesson.4.11"
+  },
+  {
+   "id": "4.12",
+   "title": "Academic Passage Reading & Discourse Mapping",
+   "subtitle": "The 5-Step YDS Reading Protocol for 20 Reading Comprehension points.",
+   "mentalModel": "Do not read academic passages like novels! Read for discourse structure: 1. Read the first and last sentence of each paragraph; 2. Circle all connectors (Sebbene, Tuttavia, Poiché); 3. Track the author's stance (favorable, critical, neutral).",
+   "concepts": [
+    {
+     "it": "Paragraph 1: Thesis",
+     "en": "Presents the academic phenomenon or accepted view."
+    },
+    {
+     "it": "Paragraph 2: Pivot",
+     "en": "Introduces counter-evidence using 'Tuttavia' or 'Invece'."
+    },
+    {
+     "it": "Paragraph 3: Synthesis",
+     "en": "Offers future outlook or qualified conclusions."
+    }
+   ],
+   "bridgeMarker": "<strong>Exam Day Secret:</strong> 90% of reading comprehension questions target the sentence IMMEDIATELY FOLLOWING a contrast connector (Tuttavia, Ciononostante). Find the connector, find the answer!",
+   "checkQuiz": {
+    "question": "Where is the core answer to a reading comprehension question usually located?",
+    "options": [
+     {
+      "text": "Immediately around the contrast or conclusion connectors",
+      "isCorrect": true
+     },
+     {
+      "text": "Always in the title",
+      "isCorrect": false
+     },
+     {
+      "text": "Randomly in footnote references",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "Examiners write questions testing whether you caught the author's argumentative pivot."
+   },
+   "topic": "lesson.4.12"
+  }
+ ]
+}

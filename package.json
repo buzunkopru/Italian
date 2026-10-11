@@ -1,0 +1,13 @@
+{
+  "name": "mille-yds-italiano",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Personal study app: Italian from A1 to a 55+ YDS score",
+  "type": "module",
+  "scripts": {
+    "test": "node --test \"tests/*.test.js\"",
+    "validate": "node tools/validate.js",
+    "import": "node tools/import-v1.js",
+    "serve": "node tools/serve.js"
+  }
+}

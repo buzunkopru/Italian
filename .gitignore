@@ -1,0 +1,6 @@
+# Third-party / personal material: never publish
+*.pdf
+archive/
+node_modules/
+.claude/
+*.log

@@ -1,0 +1,2889 @@
+[
+ {
+  "id": "drill-1.1-001",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Marco ---- uno studente all'Università di Roma.",
+  "options": [
+   "è",
+   "e",
+   "ha",
+   "sono"
+  ],
+  "answer": 0,
+  "explain": "Describing identity and profession uses 'essere'. For a 3rd-person singular subject (Marco = lui), the form is 'è' (accented). 'e' without accent means 'and'.",
+  "translation": "Marco is a student at the University of Rome.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-002",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Giulia ---- venticinque anni e vive a Milano.",
+  "options": [
+   "ha",
+   "è",
+   "hanno",
+   "a"
+  ],
+  "answer": 0,
+  "explain": "Age in Italian is always expressed using 'avere' (to have years), NEVER 'essere'! For Giulia (lei), use 'ha' (silent 'h'). 'a' without 'h' means 'to/at'.",
+  "translation": "Giulia is twenty-five years old and lives in Milan.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-003",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Gli scienziati ---- in laboratorio per analizzare i campioni.",
+  "options": [
+   "sono",
+   "è",
+   "hanno",
+   "siamo"
+  ],
+  "answer": 0,
+  "explain": "Location takes 'essere'. The subject 'Gli scienziati' is 3rd-person plural (they/loro), so the correct form is 'sono'.",
+  "translation": "The scientists are in the laboratory to analyze the samples.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-004",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "I professori ---- molti documenti importanti da verificare.",
+  "options": [
+   "hanno",
+   "ha",
+   "sono",
+   "siete"
+  ],
+  "answer": 0,
+  "explain": "Possession requires 'avere'. For a 3rd-person plural subject ('I professori' = loro), the conjugation is 'hanno'.",
+  "translation": "The professors have many important documents to verify.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-005",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Noi non ---- fame adesso, ma abbiamo sete.",
+  "options": [
+   "abbiamo",
+   "siamo",
+   "avete",
+   "ho"
+  ],
+  "answer": 0,
+  "explain": "Physical sensations like hunger ('fame') and thirst ('sete') take 'avere' in Italian (*avere fame, avere sete*). For 'noi' (we), the form is 'abbiamo'.",
+  "translation": "We are not hungry now, but we are thirsty.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-006",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Il nuovo metodo ---- innovativo _____ molto utile.",
+  "options": [
+   "è / e",
+   "e / è",
+   "è / è",
+   "ha / e"
+  ],
+  "answer": 0,
+  "explain": "The first blank needs the verb 'is' → 'è' (accented). The second blank links two adjectives with 'and' → 'e' (unaccented).",
+  "translation": "The new method is innovative and very useful.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-007",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Il direttore dell'istituto non ---- in sede oggi.",
+  "options": [
+   "è",
+   "ha",
+   "sono",
+   "sta"
+  ],
+  "answer": 0,
+  "explain": "Presence and state of being use 'essere'. In standard Italian, negation is formed by placing 'non' immediately before the conjugated verb ('non è').",
+  "translation": "The institute director is not on site today.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-008",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Io ---- molto felice di iniziare questo percorso.",
+  "options": [
+   "sono",
+   "ho",
+   "ero",
+   "sia"
+  ],
+  "answer": 0,
+  "explain": "Personal feelings and temporary emotional states take 'essere'. For 'io' (I), the present tense is 'sono'.",
+  "translation": "I am very happy to start this journey.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-009",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Io ---- una domanda fondamentale per il ricercatore.",
+  "options": [
+   "ho",
+   "ha",
+   "sono",
+   "o"
+  ],
+  "answer": 0,
+  "explain": "To have something takes 'avere'. For 'io' (I), the conjugation is 'ho' (silent 'h'). Note: 'o' without 'h' means 'or'.",
+  "translation": "I have a fundamental question for the researcher.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-010",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Tu ---- pronto per la presentazione di domani?",
+  "options": [
+   "sei",
+   "hai",
+   "eri",
+   "sia"
+  ],
+  "answer": 0,
+  "explain": "Being ready ('essere pronto') requires 'essere'. For 'tu' (you singular), the present tense form is 'sei'.",
+  "translation": "Are you ready for tomorrow's presentation?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-011",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Tu ---- tempo di leggere questo articolo?",
+  "options": [
+   "hai",
+   "sei",
+   "ha",
+   "ai"
+  ],
+  "answer": 0,
+  "explain": "Having time ('avere tempo') takes 'avere'. For 'tu' (you singular), use 'hai' (silent 'h'). Trap alert: 'ai' without 'h' means 'to the'!",
+  "translation": "Do you have time to read this article?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-012",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Noi ---- fieri dei risultati ottenuti dal team.",
+  "options": [
+   "siamo",
+   "abbiamo",
+   "siete",
+   "sono"
+  ],
+  "answer": 0,
+  "explain": "Describing an emotional state ('fieri' = proud) uses 'essere'. For 'noi' (we), the conjugation is 'siamo'.",
+  "translation": "We are proud of the results achieved by the team.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-013",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Voi ---- una copia del rapporto accademico?",
+  "options": [
+   "avete",
+   "siete",
+   "hanno",
+   "abbiamo"
+  ],
+  "answer": 0,
+  "explain": "Possession requires 'avere'. For 'voi' (you plural), the form is 'avete'.",
+  "translation": "Do you (plural) have a copy of the academic report?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-014",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "I partecipanti alla conferenza non ---- paura di fare domande.",
+  "options": [
+   "hanno",
+   "sono",
+   "ha",
+   "abbiamo"
+  ],
+  "answer": 0,
+  "explain": "To be afraid in Italian is 'avere paura' (literally to have fear). The plural subject 'I partecipanti' (loro) takes 'hanno'.",
+  "translation": "The conference participants are not afraid to ask questions.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.1-015",
+  "section": "drill",
+  "topic": "lesson.1.1",
+  "level": 1,
+  "prompt": "Questo studio scientifico ---- un contributo determinante per il settore.",
+  "options": [
+   "è",
+   "ha",
+   "sono",
+   "viene"
+  ],
+  "answer": 0,
+  "explain": "A classic academic definition sentence! The subject 'Questo studio' is 3rd-person singular, requiring 'essere' → 'è'.",
+  "translation": "This scientific study is a decisive contribution to the field.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-001",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "Studio l'italiano ---- biblioteca dell'università.",
+  "options": [
+   "nella",
+   "della",
+   "alla",
+   "sulla"
+  ],
+  "answer": 0,
+  "explain": "Preposition 'in' + feminine 'la biblioteca' contracts into 'nella'.",
+  "translation": "I study Italian in the university library.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-002",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "Il professore parla spesso ---- studenti del primo anno.",
+  "options": [
+   "agli",
+   "ai",
+   "degli",
+   "sugli"
+  ],
+  "answer": 0,
+  "explain": "'a' + masculine plural 'gli studenti' (s + consonant) contracts into 'agli'.",
+  "translation": "The professor often speaks to first-year students.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-003",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "Questo è il risultato ---- ricerca scientifica.",
+  "options": [
+   "della",
+   "nella",
+   "dalla",
+   "sulla"
+  ],
+  "answer": 0,
+  "explain": "Possession: 'di' + feminine 'la ricerca' contracts into 'della'.",
+  "translation": "This is the result of the scientific research.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-004",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "Marco legge un articolo interessante ---- giornale di oggi.",
+  "options": [
+   "sul",
+   "nel",
+   "dal",
+   "al"
+  ],
+  "answer": 0,
+  "explain": "'su' (on/in) + masculine 'il giornale' contracts into 'sul'.",
+  "translation": "Marco reads an interesting article in today's newspaper.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-005",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "I ricercatori arrivano ---- stazione centrale alle otto.",
+  "options": [
+   "alla",
+   "nella",
+   "dalla",
+   "sulla"
+  ],
+  "answer": 0,
+  "explain": "Destination: 'a' + feminine 'la stazione' contracts into 'alla'.",
+  "translation": "The researchers arrive at the central station at eight.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-006",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "---- zaino dello studente è sul tavolo.",
+  "options": [
+   "Lo",
+   "Il",
+   "L'",
+   "La"
+  ],
+  "answer": 0,
+  "explain": "Masculine singular nouns starting with 'z' take the article 'lo'.",
+  "translation": "The student's backpack is on the table.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-007",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "---- psicologo spiega i risultati del test.",
+  "options": [
+   "Lo",
+   "Il",
+   "L'",
+   "La"
+  ],
+  "answer": 0,
+  "explain": "Masculine singular nouns starting with 'ps' take the article 'lo'.",
+  "translation": "The psychologist explains the test results.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-008",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "Tutti ---- amici di Luca sono all'università.",
+  "options": [
+   "gli",
+   "i",
+   "le",
+   "l'"
+  ],
+  "answer": 0,
+  "explain": "Masculine plural nouns starting with a vowel take 'gli'.",
+  "translation": "All of Luca's friends are at the university.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-009",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "La teoria è spiegata bene ---- libro di testo.",
+  "options": [
+   "nel",
+   "sul",
+   "dal",
+   "del"
+  ],
+  "answer": 0,
+  "explain": "'in' + masculine 'il libro' contracts into 'nel'.",
+  "translation": "The theory is explained well in the textbook.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-010",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "Il testo è stato scritto ---- famoso autore italiano.",
+  "options": [
+   "dal",
+   "del",
+   "al",
+   "nel"
+  ],
+  "answer": 0,
+  "explain": "Agent in passive voice: 'da' (by) + masculine 'il' contracts into 'dal'.",
+  "translation": "The text was written by the famous Italian author.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-011",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "I documenti sono archiviati ---- ufficio del direttore.",
+  "options": [
+   "nell'",
+   "dall'",
+   "all'",
+   "sull'"
+  ],
+  "answer": 0,
+  "explain": "'in' + vowel-starting 'l'ufficio' contracts into 'nell''.",
+  "translation": "The documents are archived in the director's office.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-012",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "Il treno per Milano parte ---- binario numero quattro.",
+  "options": [
+   "dal",
+   "al",
+   "del",
+   "nel"
+  ],
+  "answer": 0,
+  "explain": "Origin / departure: 'da' + masculine 'il binario' contracts into 'dal'.",
+  "translation": "The train for Milan departs from platform number four.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-013",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "Le chiavi di casa sono ---- tavolo della cucina.",
+  "options": [
+   "sul",
+   "nel",
+   "dal",
+   "al"
+  ],
+  "answer": 0,
+  "explain": "Position on a surface: 'su' + masculine 'il tavolo' contracts into 'sul'.",
+  "translation": "The house keys are on the kitchen table.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-014",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "---- alberi del parco sono molto antichi.",
+  "options": [
+   "Gli",
+   "I",
+   "Le",
+   "L'"
+  ],
+  "answer": 0,
+  "explain": "Masculine plural nouns starting with a vowel take 'Gli'.",
+  "translation": "The trees of the park are very old.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.2-015",
+  "section": "drill",
+  "topic": "lesson.1.2",
+  "level": 1,
+  "prompt": "L'analisi dipende ---- qualità delle informazioni raccolte.",
+  "options": [
+   "dalla",
+   "della",
+   "alla",
+   "nella"
+  ],
+  "answer": 0,
+  "explain": "'Dipendere' takes preposition 'da': 'da' + 'la qualità' = 'dalla'.",
+  "translation": "The analysis depends on the quality of the collected information.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-001",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "La professoressa ---- tre lingue straniere con facilità.",
+  "options": [
+   "parla",
+   "parlano",
+   "parli",
+   "parlo"
+  ],
+  "answer": 0,
+  "explain": "3rd-person singular of '-are' verb 'parlare' ends in '-a' (parla).",
+  "translation": "The professor speaks three foreign languages with ease.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-002",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Molti studenti stranieri ---- all'università di Bologna.",
+  "options": [
+   "studiano",
+   "studia",
+   "studiamo",
+   "studiate"
+  ],
+  "answer": 0,
+  "explain": "Subject 'Molti studenti' (loro) takes '-ano' ending in '-are' (studiano).",
+  "translation": "Many foreign students study at the University of Bologna.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-003",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Il giornalista ---- un articolo approfondito sull'economia.",
+  "options": [
+   "scrive",
+   "scrivono",
+   "scrivi",
+   "scrivo"
+  ],
+  "answer": 0,
+  "explain": "3rd-person singular of 2nd conjugation '-ere' verbs ends in '-e' (scrive).",
+  "translation": "The journalist writes an in-depth article on the economy.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-004",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "I ricercatori ---- i dati raccolti durante l'esperimento.",
+  "options": [
+   "leggono",
+   "legge",
+   "leggiamo",
+   "leggete"
+  ],
+  "answer": 0,
+  "explain": "3rd-person plural of '-ere' verbs ends in '-ono' (leggono).",
+  "translation": "The researchers read the data collected during the experiment.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-005",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Mio fratello ---- a Firenze da quasi due anni.",
+  "options": [
+   "vive",
+   "vivono",
+   "vivi",
+   "vivo"
+  ],
+  "answer": 0,
+  "explain": "3rd-person singular of 'vivere' ends in '-e' (vive).",
+  "translation": "My brother lives in Florence for almost two years.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-006",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "I gatti ---- tranquillamente vicino alla finestra.",
+  "options": [
+   "dormono",
+   "dorme",
+   "dormi",
+   "dormiamo"
+  ],
+  "answer": 0,
+  "explain": "3rd-person plural of '-ire' verb 'dormire' takes '-ono' (dormono).",
+  "translation": "The cats sleep quietly near the window.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-007",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Lo studente attento ---- subito la regola grammaticale.",
+  "options": [
+   "capisce",
+   "capiscono",
+   "capisci",
+   "capo"
+  ],
+  "answer": 0,
+  "explain": "'-ire' verbs with '-isc-' infix: 3rd-person singular is 'capisce'.",
+  "translation": "The attentive student immediately understands the grammar rule.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-008",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Noi ---- un messaggio importante al direttore.",
+  "options": [
+   "inviamo",
+   "invia",
+   "inviano",
+   "inviate"
+  ],
+  "answer": 0,
+  "explain": "First-person plural (noi) always ends in '-iamo' (inviamo).",
+  "translation": "We send an important message to the director.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-009",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "I turisti ---- molti musei storici a Roma.",
+  "options": [
+   "visitano",
+   "visita",
+   "visitiamo",
+   "visitate"
+  ],
+  "answer": 0,
+  "explain": "Subject 'I turisti' (loro) takes '-ano' (visitano).",
+  "translation": "Tourists visit many historical museums in Rome.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-010",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Il bambino ---- un bicchiere di latte caldo ogni mattina.",
+  "options": [
+   "beve",
+   "bevono",
+   "bevi",
+   "bevo"
+  ],
+  "answer": 0,
+  "explain": "3rd-person singular of irregular 'bere' is 'beve'.",
+  "translation": "The child drinks a glass of warm milk every morning.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-011",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Gli ingegneri ---- un progetto innovativo nel settore.",
+  "options": [
+   "sviluppano",
+   "sviluppa",
+   "sviluppiamo",
+   "sviluppate"
+  ],
+  "answer": 0,
+  "explain": "Subject 'Gli ingegneri' (loro) takes '-ano' (sviluppano).",
+  "translation": "The engineers develop an innovative project in the sector.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-012",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Tu ---- spesso con i colleghi di lavoro?",
+  "options": [
+   "parli",
+   "parla",
+   "parlano",
+   "parlo"
+  ],
+  "answer": 0,
+  "explain": "Second-person singular (tu) always takes ending '-i' (parli).",
+  "translation": "Do you often speak with work colleagues?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-013",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Il testo accademico ---- molte informazioni dettagliate.",
+  "options": [
+   "contiene",
+   "contengono",
+   "contieni",
+   "contengo"
+  ],
+  "answer": 0,
+  "explain": "Subject 'Il testo' is singular: 'contenere' conjugates like 'tenere' (contiene).",
+  "translation": "The academic text contains a lot of detailed information.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-014",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Tutti i cittadini ---- le leggi dello Stato.",
+  "options": [
+   "rispettano",
+   "rispetta",
+   "rispettiamo",
+   "rispettate"
+  ],
+  "answer": 0,
+  "explain": "Subject 'Tutti i cittadini' is plural: '-are' verb takes '-ano' (rispettano).",
+  "translation": "All citizens respect the laws of the State.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.3-015",
+  "section": "drill",
+  "topic": "lesson.1.3",
+  "level": 1,
+  "prompt": "Lo scienziato ---- la sua teoria durante la conferenza.",
+  "options": [
+   "chiarisce",
+   "chiariscono",
+   "chiarisci",
+   "chiarisco"
+  ],
+  "answer": 0,
+  "explain": "'Chiarire' takes the '-isc-' infix in 3rd-person singular: 'chiarisce'.",
+  "translation": "The scientist clarifies his theory during the conference.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-001",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Il professore ---- lezione nell'aula magna dell'università.",
+  "options": [
+   "fa",
+   "fanno",
+   "fai",
+   "faccio"
+  ],
+  "answer": 0,
+  "explain": "3rd-person singular of 'fare' is 'fa' (lui fa).",
+  "translation": "The professor teaches in the university's main hall.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-002",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "I ricercatori ---- ricerche approfondite sul clima.",
+  "options": [
+   "fanno",
+   "fa",
+   "facciamo",
+   "fate"
+  ],
+  "answer": 0,
+  "explain": "Subject is plural (loro): 3rd-person plural of 'fare' is 'fanno'.",
+  "translation": "The researchers do in-depth research on climate.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-003",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Marco ---- all'università in bicicletta ogni mattina.",
+  "options": [
+   "va",
+   "vanno",
+   "vai",
+   "vado"
+  ],
+  "answer": 0,
+  "explain": "3rd-person singular of 'andare' is 'va' (lui va).",
+  "translation": "Marco goes to the university by bicycle every morning.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-004",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Tutti gli studenti ---- in biblioteca per studiare.",
+  "options": [
+   "vanno",
+   "va",
+   "andiamo",
+   "andate"
+  ],
+  "answer": 0,
+  "explain": "Subject is plural (loro): 3rd-person plural of 'andare' is 'vanno'.",
+  "translation": "All the students go to the library to study.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-005",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Bisogna ---- attenzione ai dettagli dell'esperimento.",
+  "options": [
+   "fare",
+   "fa",
+   "fanno",
+   "fatto"
+  ],
+  "answer": 0,
+  "explain": "After impersonal 'bisogna', use the infinitive: 'fare attenzione'.",
+  "translation": "One must pay attention to the details of the experiment.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-006",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Questo documento ---- parte degli archivi storici nazionali.",
+  "options": [
+   "fa",
+   "fanno",
+   "va",
+   "vanno"
+  ],
+  "answer": 0,
+  "explain": "Idiom 'fare parte di' (to be part of): singular subject takes 'fa parte'.",
+  "translation": "This document is part of the national historical archives.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-007",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Noi ---- a Roma per partecipare a una conferenza scientifica.",
+  "options": [
+   "andiamo",
+   "vanno",
+   "andate",
+   "vado"
+  ],
+  "answer": 0,
+  "explain": "First-person plural of 'andare' is 'andiamo'.",
+  "translation": "We are going to Rome to participate in a scientific conference.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-008",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Cosa ---- tu nel fine settimana quando non lavori?",
+  "options": [
+   "fai",
+   "fa",
+   "fanno",
+   "faccio"
+  ],
+  "answer": 0,
+  "explain": "Second-person singular of 'fare' is 'fai' (tu fai).",
+  "translation": "What do you do on the weekend when you don't work?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-009",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "I risultati dell'indagine non ---- alcuna differenza.",
+  "options": [
+   "fanno",
+   "fa",
+   "fatto",
+   "facciamo"
+  ],
+  "answer": 0,
+  "explain": "Subject 'I risultati' is plural: 'non fanno differenza'.",
+  "translation": "The results of the survey do not make any difference.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-010",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Giulia ---- spesso a piedi per raggiungere l'ufficio.",
+  "options": [
+   "va",
+   "vanno",
+   "vai",
+   "vado"
+  ],
+  "answer": 0,
+  "explain": "3rd-person singular of 'andare' is 'va' (lei va).",
+  "translation": "Giulia often goes on foot to reach the office.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-011",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Questi nuovi criteri ---- riferimento alle norme europee.",
+  "options": [
+   "fanno",
+   "fa",
+   "facciamo",
+   "fate"
+  ],
+  "answer": 0,
+  "explain": "Academic idiom: 'fare riferimento a'. Subject 'criteri' is plural: 'fanno riferimento'.",
+  "translation": "These new criteria refer to European standards.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-012",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Io ---- all'ufficio postale per ritirare un pacco.",
+  "options": [
+   "vado",
+   "va",
+   "vai",
+   "vanno"
+  ],
+  "answer": 0,
+  "explain": "First-person singular of 'andare' is 'vado' (io vado).",
+  "translation": "I go to the post office to pick up a package.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-013",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Gli ingegneri ---- del loro meglio per completare il progetto.",
+  "options": [
+   "fanno",
+   "fa",
+   "facciamo",
+   "fatto"
+  ],
+  "answer": 0,
+  "explain": "Idiom 'fare del proprio meglio': plural subject takes 'fanno'.",
+  "translation": "The engineers do their best to complete the project.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-014",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "Le statistiche ---- un quadro chiaro della situazione.",
+  "options": [
+   "fanno",
+   "fa",
+   "vanno",
+   "va"
+  ],
+  "answer": 0,
+  "explain": "Subject 'Le statistiche' is plural: 'fanno un quadro'.",
+  "translation": "The statistics paint a clear picture of the situation.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.4-015",
+  "section": "drill",
+  "topic": "lesson.1.4",
+  "level": 1,
+  "prompt": "I medici ---- un controllo accurato prima della visita.",
+  "options": [
+   "fanno",
+   "fa",
+   "facciamo",
+   "fai"
+  ],
+  "answer": 0,
+  "explain": "Subject 'I medici' is plural: 'fanno un controllo'.",
+  "translation": "The doctors perform a careful check before the visit.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-001",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Il nuovo metodo di studio ---- considerato molto efficace.",
+  "options": [
+   "viene",
+   "vengono",
+   "va",
+   "dà"
+  ],
+  "answer": 0,
+  "explain": "Dynamic passive voice: 'venire' + past participle ('viene considerato').",
+  "translation": "The new study method is considered very effective.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-002",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "I dati statistici ---- analizzati con software specializzati.",
+  "options": [
+   "vengono",
+   "viene",
+   "vanno",
+   "danno"
+  ],
+  "answer": 0,
+  "explain": "Plural passive: 'I dati' requires 3rd-person plural 'vengono analizzati'.",
+  "translation": "The statistical data are analyzed with specialized software.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-003",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Questa ricerca ---- grande importanza ai fattori ambientali.",
+  "options": [
+   "dà",
+   "da",
+   "danno",
+   "viene"
+  ],
+  "answer": 0,
+  "explain": "'Dare' in 3rd-person singular is accented ('dà') to distinguish from preposition 'da'.",
+  "translation": "This research gives great importance to environmental factors.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-004",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "I docenti ---- consigli utili a tutti gli studenti.",
+  "options": [
+   "danno",
+   "dà",
+   "vengono",
+   "viene"
+  ],
+  "answer": 0,
+  "explain": "Subject 'I docenti' is plural: 3rd-person plural of 'dare' is 'danno'.",
+  "translation": "The teachers give useful advice to all students.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-005",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Il presidente ---- inizio ai lavori della conferenza.",
+  "options": [
+   "dà",
+   "da",
+   "danno",
+   "viene"
+  ],
+  "answer": 0,
+  "explain": "Idiom 'dare inizio a' (to initiate/start): singular subject takes 'dà'.",
+  "translation": "The president kicks off the work of the conference.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-006",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Da dove ---- quel nuovo professore di linguistica?",
+  "options": [
+   "viene",
+   "vengono",
+   "dà",
+   "va"
+  ],
+  "answer": 0,
+  "explain": "Origin / provenance: 3rd-person singular of 'venire' is 'viene'.",
+  "translation": "Where does that new linguistics professor come from?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-007",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Le decisioni importanti ---- prese dal consiglio accademico.",
+  "options": [
+   "vengono",
+   "viene",
+   "danno",
+   "dà"
+  ],
+  "answer": 0,
+  "explain": "Plural passive: 'Le decisioni' takes 'vengono prese' (are taken).",
+  "translation": "Important decisions are made by the academic council.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-008",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Questo accordo commerciale ---- luogo a nuove collaborazioni.",
+  "options": [
+   "dà",
+   "da",
+   "danno",
+   "viene"
+  ],
+  "answer": 0,
+  "explain": "Idiom 'dare luogo a' (to give rise to): singular subject takes 'dà'.",
+  "translation": "This commercial agreement gives rise to new collaborations.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-009",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Molti studiosi ---- a Roma per visitare gli scavi archeologici.",
+  "options": [
+   "vengono",
+   "viene",
+   "danno",
+   "dà"
+  ],
+  "answer": 0,
+  "explain": "Movement towards location: 3rd-person plural of 'venire' is 'vengono'.",
+  "translation": "Many scholars come to Rome to visit the archaeological excavations.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-010",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Il risultato dell'esperimento ---- conferma della nostra ipotesi.",
+  "options": [
+   "dà",
+   "da",
+   "danno",
+   "viene"
+  ],
+  "answer": 0,
+  "explain": "Idiom 'dare conferma di': singular subject takes 'dà'.",
+  "translation": "The result of the experiment confirms our hypothesis.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-011",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Il documento ---- approvato all'unanimità dai delegati.",
+  "options": [
+   "viene",
+   "vengono",
+   "dà",
+   "danno"
+  ],
+  "answer": 0,
+  "explain": "Singular passive: 'Il documento' takes 'viene approvato'.",
+  "translation": "The document is approved unanimously by the delegates.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-012",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Questi progetti innovativi ---- vita a nuove opportunità.",
+  "options": [
+   "danno",
+   "dà",
+   "vengono",
+   "viene"
+  ],
+  "answer": 0,
+  "explain": "Idiom 'dare vita a': plural subject takes 'danno'.",
+  "translation": "These innovative projects give life to new opportunities.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-013",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "Il fenomeno ---- spesso interpretato in modi diversi dagli esperti.",
+  "options": [
+   "viene",
+   "vengono",
+   "dà",
+   "va"
+  ],
+  "answer": 0,
+  "explain": "Singular passive: 'Il fenomeno' takes 'viene interpretato'.",
+  "translation": "The phenomenon is often interpreted in different ways by experts.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-014",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "I libri di testo ---- distribuiti gratuitamente agli studenti.",
+  "options": [
+   "vengono",
+   "viene",
+   "danno",
+   "dà"
+  ],
+  "answer": 0,
+  "explain": "Plural passive: 'I libri' takes 'vengono distribuiti'.",
+  "translation": "The textbooks are distributed free of charge to students.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.5-015",
+  "section": "drill",
+  "topic": "lesson.1.5",
+  "level": 1,
+  "prompt": "L'università ---- la precedenza agli studenti più meritevoli.",
+  "options": [
+   "dà",
+   "da",
+   "danno",
+   "viene"
+  ],
+  "answer": 0,
+  "explain": "Idiom 'dare la precedenza a': singular subject takes 'dà'.",
+  "translation": "The university gives priority to the most deserving students.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-001",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Marco ---- ha mai visitato la città di Venezia.",
+  "options": [
+   "non",
+   "mai",
+   "più",
+   "niente"
+  ],
+  "answer": 0,
+  "explain": "Primary negation 'non' must always precede the verb in Italian ('non ha mai').",
+  "translation": "Marco has never visited the city of Venice.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-002",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "I ricercatori non hanno ---- trovato la soluzione definitiva.",
+  "options": [
+   "ancora",
+   "mai",
+   "più",
+   "niente"
+  ],
+  "answer": 0,
+  "explain": "'non ... ancora' means 'not yet'.",
+  "translation": "The researchers have not yet found the definitive solution.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-003",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Dopo la laurea, Giulia non vive ---- con i suoi genitori.",
+  "options": [
+   "più",
+   "ancora",
+   "mai",
+   "nulla"
+  ],
+  "answer": 0,
+  "explain": "'non ... più' means 'no longer / no more'.",
+  "translation": "After graduation, Giulia no longer lives with her parents.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-004",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "In questa stanza silenziosa non si sente ---- rumore.",
+  "options": [
+   "nessun",
+   "alcuno",
+   "mai",
+   "niente"
+  ],
+  "answer": 0,
+  "explain": "'non ... nessun' negates singular masculine nouns ('nessun rumore').",
+  "translation": "In this quiet room not any noise is heard.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-005",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Non c'è ---- di cui preoccuparsi per l'esame.",
+  "options": [
+   "niente",
+   "nessuno",
+   "mai",
+   "ancora"
+  ],
+  "answer": 0,
+  "explain": "'Non c'è niente' means 'there is nothing'.",
+  "translation": "There is nothing to worry about for the exam.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-006",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Gli studenti seri non arrivano ---- in ritardo a lezione.",
+  "options": [
+   "mai",
+   "più",
+   "ancora",
+   "nulla"
+  ],
+  "answer": 0,
+  "explain": "'non ... mai' expresses 'never'.",
+  "translation": "Serious students never arrive late to class.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-007",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Durante la riunione straordinaria non ha parlato ----.",
+  "options": [
+   "nessuno",
+   "niente",
+   "mai",
+   "nulla"
+  ],
+  "answer": 0,
+  "explain": "'non ha parlato nessuno' means 'nobody spoke'.",
+  "translation": "Nobody spoke during the extraordinary meeting.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-008",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "La teoria non è ---- valida secondo i nuovi dati scientifici.",
+  "options": [
+   "più",
+   "ancora",
+   "mai",
+   "niente"
+  ],
+  "answer": 0,
+  "explain": "'non è più valida' means 'is no longer valid'.",
+  "translation": "The theory is no longer valid according to the new scientific data.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-009",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Non so ---- riguardo a questo antico manoscritto.",
+  "options": [
+   "nulla",
+   "nessuno",
+   "mai",
+   "più"
+  ],
+  "answer": 0,
+  "explain": "'non sapere nulla' means 'to know nothing' ('nulla' = 'niente').",
+  "translation": "I know nothing about this ancient manuscript.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-010",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Il paziente non avverte ---- dolore dopo la cura medica.",
+  "options": [
+   "alcun",
+   "nessuno",
+   "niente",
+   "mai"
+  ],
+  "answer": 0,
+  "explain": "'non ... alcun dolore' means 'not any pain'.",
+  "translation": "The patient does not feel any pain after the medical treatment.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-011",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Noi ---- possiamo accettare queste condizioni ingiuste.",
+  "options": [
+   "non",
+   "mai",
+   "più",
+   "niente"
+  ],
+  "answer": 0,
+  "explain": "Negation precedes the finite verb: 'non possiamo'.",
+  "translation": "We cannot accept these unjust conditions.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-012",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Il treno non è ---- arrivato alla stazione centrale.",
+  "options": [
+   "ancora",
+   "più",
+   "mai",
+   "nessuno"
+  ],
+  "answer": 0,
+  "explain": "'non è ancora arrivato' means 'has not yet arrived'.",
+  "translation": "The train has not yet arrived at the central station.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-013",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Loro non fanno ---- per risolvere il problema ambientale.",
+  "options": [
+   "niente",
+   "nessuno",
+   "ancora",
+   "mai"
+  ],
+  "answer": 0,
+  "explain": "'non fare niente' means 'to do nothing'.",
+  "translation": "They do nothing to solve the environmental problem.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-014",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Non abbiamo ---- visto un fenomeno naturale simile.",
+  "options": [
+   "mai",
+   "più",
+   "ancora",
+   "nessuno"
+  ],
+  "answer": 0,
+  "explain": "'non abbiamo mai visto' means 'we have never seen'.",
+  "translation": "We have never seen a similar natural phenomenon.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.6-015",
+  "section": "drill",
+  "topic": "lesson.1.6",
+  "level": 1,
+  "prompt": "Nell'archivio digitale non è rimasto ---- documento utile.",
+  "options": [
+   "nessun",
+   "niente",
+   "mai",
+   "ancora"
+  ],
+  "answer": 0,
+  "explain": "'non è rimasto nessun documento' means 'no useful document remained'.",
+  "translation": "In the digital archive not any useful document remained.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-001",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- è l'autore principale di questo saggio filosofico?",
+  "options": [
+   "Chi",
+   "Che",
+   "Dove",
+   "Come"
+  ],
+  "answer": 0,
+  "explain": "'Chi' questions persons ('who').",
+  "translation": "Who is the main author of this philosophical essay?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-002",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- tempo occorre per completare l'analisi dei dati?",
+  "options": [
+   "Quanto",
+   "Quanti",
+   "Quale",
+   "Come"
+  ],
+  "answer": 0,
+  "explain": "'Quanto' questions uncountable masculine singular quantities ('how much').",
+  "translation": "How much time is needed to complete the data analysis?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-003",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- si trova la biblioteca centrale dell'ateneo?",
+  "options": [
+   "Dove",
+   "Quando",
+   "Chi",
+   "Perché"
+  ],
+  "answer": 0,
+  "explain": "'Dove' questions location ('where').",
+  "translation": "Where is the central university library located?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-004",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- inizia la conferenza internazionale sull'energia?",
+  "options": [
+   "Quando",
+   "Quanto",
+   "Dove",
+   "Come"
+  ],
+  "answer": 0,
+  "explain": "'Quando' questions time and dates ('when').",
+  "translation": "When does the international conference on energy begin?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-005",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- sono i vantaggi principali di questa tecnologia?",
+  "options": [
+   "Quali",
+   "Quale",
+   "Chi",
+   "Come"
+  ],
+  "answer": 0,
+  "explain": "'Quali' is the plural of 'quale' ('which / what' referring to plural nouns).",
+  "translation": "Which are the main advantages of this technology?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-006",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- spiega il professore questo difficile teorema?",
+  "options": [
+   "Come",
+   "Cosa",
+   "Chi",
+   "Dove"
+  ],
+  "answer": 0,
+  "explain": "'Come' questions manner or process ('how').",
+  "translation": "How does the professor explain this difficult theorem?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-007",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- il governo ha deciso di modificare la legge?",
+  "options": [
+   "Perché",
+   "Quando",
+   "Come",
+   "Dove"
+  ],
+  "answer": 0,
+  "explain": "'Perché' questions cause or reason ('why').",
+  "translation": "Why did the government decide to amend the law?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-008",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- studia Marco all'università di Torino?",
+  "options": [
+   "Cosa",
+   "Chi",
+   "Come",
+   "Dove"
+  ],
+  "answer": 0,
+  "explain": "'Cosa' (or 'Che cosa') questions things ('what').",
+  "translation": "What does Marco study at the University of Turin?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-009",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- studenti partecipano al programma di ricerca?",
+  "options": [
+   "Quanti",
+   "Quanto",
+   "Quante",
+   "Quali"
+  ],
+  "answer": 0,
+  "explain": "'Quanti' agrees with masculine plural countable nouns ('Quanti studenti').",
+  "translation": "How many students participate in the research program?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-010",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- è la differenza fondamentale tra le due ipotesi?",
+  "options": [
+   "Qual",
+   "Chi",
+   "Come",
+   "Quanto"
+  ],
+  "answer": 0,
+  "explain": "'Qual è' is written without an apostrophe in correct Italian.",
+  "translation": "What is the fundamental difference between the two hypotheses?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-011",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- ha confermato l'autenticità del documento storico?",
+  "options": [
+   "Chi",
+   "Cosa",
+   "Come",
+   "Dove"
+  ],
+  "answer": 0,
+  "explain": "'Chi' questions the subject person ('who').",
+  "translation": "Who confirmed the authenticity of the historical document?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-012",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- metodo è stato scelto per condurre l'indagine?",
+  "options": [
+   "Quale",
+   "Chi",
+   "Come",
+   "Cosa"
+  ],
+  "answer": 0,
+  "explain": "'Quale' identifies a specific item among options ('which method').",
+  "translation": "Which method was chosen to conduct the survey?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-013",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- volte alla settimana vai in laboratorio a studiare?",
+  "options": [
+   "Quante",
+   "Quanti",
+   "Quanto",
+   "Quali"
+  ],
+  "answer": 0,
+  "explain": "'Quante' agrees with feminine plural nouns ('Quante volte').",
+  "translation": "How many times a week do you go to the lab to study?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-014",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- significa esattamente questo termine nel testo?",
+  "options": [
+   "Cosa",
+   "Chi",
+   "Dove",
+   "Quando"
+  ],
+  "answer": 0,
+  "explain": "'Cosa significa' is standard for asking definitions ('what does it mean').",
+  "translation": "What does this term mean exactly in the text?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.7-015",
+  "section": "drill",
+  "topic": "lesson.1.7",
+  "level": 1,
+  "prompt": "---- si sviluppano le relazioni diplomatiche tra i paesi?",
+  "options": [
+   "Come",
+   "Chi",
+   "Quanto",
+   "Perché"
+  ],
+  "answer": 0,
+  "explain": "'Come' questions the dynamic manner of development ('how').",
+  "translation": "How do diplomatic relations develop between countries?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-001",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Questo libro contiene molte idee ---- per la ricerca.",
+  "options": [
+   "nuove",
+   "nuovi",
+   "nuova",
+   "nuovo"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches feminine plural noun 'idee' -> 'nuove'.",
+  "translation": "This book contains many new ideas for research.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-002",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "I risultati dell'esperimento sono estremamente ----.",
+  "options": [
+   "interessanti",
+   "interessante",
+   "interessanto",
+   "interessanta"
+  ],
+  "answer": 0,
+  "explain": "Adjectives in '-e' take '-i' in the plural: 'interessanti'.",
+  "translation": "The results of the experiment are extremely interesting.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-003",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "La lingua italiana ha una storia molto ----.",
+  "options": [
+   "ricca",
+   "ricco",
+   "ricche",
+   "ricchi"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches feminine singular noun 'storia' -> 'ricca'.",
+  "translation": "The Italian language has a very rich history.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-004",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Gli scienziati hanno scoperto un metodo ----.",
+  "options": [
+   "efficace",
+   "efficaci",
+   "efficato",
+   "efficata"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches masculine singular noun 'metodo' -> 'efficace'.",
+  "translation": "The scientists discovered an effective method.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-005",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Abbiamo letto due articoli veramente ---- sul giornale.",
+  "options": [
+   "importanti",
+   "importante",
+   "importanto",
+   "importanta"
+  ],
+  "answer": 0,
+  "explain": "Plural noun 'due articoli' takes plural ending '-i': 'importanti'.",
+  "translation": "We read two really important articles in the newspaper.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-006",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Le soluzioni proposte dal comitato sono poco ----.",
+  "options": [
+   "pratiche",
+   "pratici",
+   "pratica",
+   "pratico"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches feminine plural noun 'soluzioni' -> 'pratiche'.",
+  "translation": "The solutions proposed by the committee are not very practical.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-007",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Il professore ha presentato una relazione molto ----.",
+  "options": [
+   "chiara",
+   "chiaro",
+   "chiare",
+   "chiari"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches feminine singular noun 'relazione' -> 'chiara'.",
+  "translation": "The professor presented a very clear report.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-008",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "I problemi economici del paese sono assai ----.",
+  "options": [
+   "complessi",
+   "complesso",
+   "complessa",
+   "complesse"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches masculine plural noun 'problemi' -> 'complessi'.",
+  "translation": "The country's economic problems are quite complex.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-009",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "La nuova biblioteca comunale è un edificio ----.",
+  "options": [
+   "moderno",
+   "moderna",
+   "moderni",
+   "moderne"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches masculine singular noun 'edificio' -> 'moderno'.",
+  "translation": "The new municipal library is a modern building.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-010",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Tutte le informazioni raccolte si sono rivelate ----.",
+  "options": [
+   "utili",
+   "utile",
+   "utilo",
+   "utila"
+  ],
+  "answer": 0,
+  "explain": "Feminine plural subject 'informazioni' takes plural ending '-i': 'utili'.",
+  "translation": "All the gathered information proved to be useful.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-011",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Il candidato ha dimostrato una preparazione ----.",
+  "options": [
+   "eccellente",
+   "eccellenti",
+   "eccellento",
+   "eccellenta"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches feminine singular noun 'preparazione' -> 'eccellente'.",
+  "translation": "The candidate demonstrated excellent preparation.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-012",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Questi antichi manoscritti sono documenti assai ----.",
+  "options": [
+   "rari",
+   "raro",
+   "rara",
+   "rare"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches masculine plural noun 'documenti' -> 'rari'.",
+  "translation": "These ancient manuscripts are very rare documents.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-013",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Una dieta equilibrata è ---- per la salute fisica.",
+  "options": [
+   "fondamentale",
+   "fondamentali",
+   "fondamento",
+   "fondamentata"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches feminine singular noun 'dieta' -> 'fondamentale'.",
+  "translation": "A balanced diet is fundamental for physical health.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-014",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Gli studenti hanno ottenuto voti davvero ----.",
+  "options": [
+   "alti",
+   "alto",
+   "alta",
+   "alte"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches masculine plural noun 'voti' -> 'alti'.",
+  "translation": "The students obtained really high grades.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.8-015",
+  "section": "drill",
+  "topic": "lesson.1.8",
+  "level": 1,
+  "prompt": "Le recenti scoperte scientifiche sono davvero ----.",
+  "options": [
+   "straordinarie",
+   "straordinari",
+   "straordinaria",
+   "straordinario"
+  ],
+  "answer": 0,
+  "explain": "Adjective matches feminine plural noun 'scoperte' -> 'straordinarie'.",
+  "translation": "Recent scientific discoveries are truly extraordinary.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-001",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Il professore ha esposto ---- teoria durante il seminario.",
+  "options": [
+   "la sua",
+   "il suo",
+   "sua",
+   "suo"
+  ],
+  "answer": 0,
+  "explain": "Possessives require the definite article matching the noun: 'la sua teoria'.",
+  "translation": "The professor expounded his theory during the seminar.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-002",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Gli studenti hanno consegnato ---- compiti in tempo.",
+  "options": [
+   "i loro",
+   "il loro",
+   "loro",
+   "le loro"
+  ],
+  "answer": 0,
+  "explain": "'Loro' is invariable; the article matches the noun: 'i loro compiti'.",
+  "translation": "The students handed in their assignments on time.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-003",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Marco abita a Roma con ---- padre da diversi anni.",
+  "options": [
+   "suo",
+   "il suo",
+   "sua",
+   "la sua"
+  ],
+  "answer": 0,
+  "explain": "Singular unmodified family members omit the article: 'con suo padre'.",
+  "translation": "Marco lives in Rome with his father for several years.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-004",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Noi ammiriamo molto ---- città per la sua bellezza.",
+  "options": [
+   "la nostra",
+   "il nostro",
+   "nostra",
+   "nostro"
+  ],
+  "answer": 0,
+  "explain": "Feminine singular noun 'città' requires the article: 'la nostra città'.",
+  "translation": "We admire our city very much for its beauty.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-005",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Ogni scienziato deve verificare attentamente ---- dati.",
+  "options": [
+   "i suoi",
+   "le sue",
+   "suoi",
+   "il suo"
+  ],
+  "answer": 0,
+  "explain": "Masculine plural noun 'dati' takes 'i suoi dati'.",
+  "translation": "Every scientist must carefully verify his/her data.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-006",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Ho ricevuto una lettera importante da ---- madre ieri mattina.",
+  "options": [
+   "mia",
+   "la mia",
+   "mio",
+   "il mio"
+  ],
+  "answer": 0,
+  "explain": "Singular family member omits the article: 'da mia madre'.",
+  "translation": "I received an important letter from my mother yesterday morning.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-007",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Tutti i ricercatori difendono con forza ---- idee.",
+  "options": [
+   "le loro",
+   "i loro",
+   "loro",
+   "la loro"
+  ],
+  "answer": 0,
+  "explain": "Feminine plural noun 'idee' takes 'le loro idee'.",
+  "translation": "All researchers strongly defend their ideas.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-008",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "La commissione ha pubblicato ---- rapporto annuale.",
+  "options": [
+   "il suo",
+   "la sua",
+   "suo",
+   "sua"
+  ],
+  "answer": 0,
+  "explain": "Masculine singular noun 'rapporto' takes 'il suo rapporto'.",
+  "translation": "The committee published its annual report.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-009",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Dove hai lasciato ---- chiavi della macchina, Luca?",
+  "options": [
+   "le tue",
+   "i tuoi",
+   "tue",
+   "la tua"
+  ],
+  "answer": 0,
+  "explain": "Feminine plural noun 'chiavi' takes 'le tue chiavi'.",
+  "translation": "Where did you leave your car keys, Luca?",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-010",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Il bambino gioca spesso con ---- fratello in cortile.",
+  "options": [
+   "suo",
+   "il suo",
+   "sua",
+   "il loro"
+  ],
+  "answer": 0,
+  "explain": "Singular family member takes no article: 'con suo fratello'.",
+  "translation": "The child often plays with his brother in the courtyard.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-011",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "I delegati hanno espresso ---- parere favorevole.",
+  "options": [
+   "il loro",
+   "i loro",
+   "la loro",
+   "loro"
+  ],
+  "answer": 0,
+  "explain": "Masculine singular noun 'parere' takes 'il loro parere'.",
+  "translation": "The delegates expressed their favorable opinion.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-012",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Io studio ogni giorno con ---- migliore amico.",
+  "options": [
+   "il mio",
+   "mio",
+   "la mia",
+   "mia"
+  ],
+  "answer": 0,
+  "explain": "Non-family nouns ('amico') always take the article: 'il mio migliore amico'.",
+  "translation": "I study every day with my best friend.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-013",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "La scrittrice ha dedicato il romanzo ---- famiglia.",
+  "options": [
+   "alla sua",
+   "a sua",
+   "al suo",
+   "a suo"
+  ],
+  "answer": 0,
+  "explain": "'Famiglia' is a collective noun, retaining the article: 'alla sua famiglia'.",
+  "translation": "The writer dedicated the novel to her family.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-014",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "Le due università hanno unito ---- risorse per il progetto.",
+  "options": [
+   "le loro",
+   "i loro",
+   "loro",
+   "la loro"
+  ],
+  "answer": 0,
+  "explain": "Feminine plural noun 'risorse' takes 'le loro risorse'.",
+  "translation": "The two universities joined their resources for the project.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.9-015",
+  "section": "drill",
+  "topic": "lesson.1.9",
+  "level": 1,
+  "prompt": "L'autore spiega chiaramente ---- punto di vista.",
+  "options": [
+   "il suo",
+   "la sua",
+   "suo",
+   "sua"
+  ],
+  "answer": 0,
+  "explain": "Masculine singular noun 'punto di vista' takes 'il suo'.",
+  "translation": "The author clearly explains his point of view.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-001",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "---- studente deve presentare il documento d'identità.",
+  "options": [
+   "Ogni",
+   "Tutti",
+   "Alcuni",
+   "Molti"
+  ],
+  "answer": 0,
+  "explain": "'Ogni' is invariable and always takes a singular noun ('ogni studente').",
+  "translation": "Every student must present the identity document.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-002",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "Nel saggio vengono analizzati ---- casi studio interessanti.",
+  "options": [
+   "alcuni",
+   "ogni",
+   "qualche",
+   "tutto"
+  ],
+  "answer": 0,
+  "explain": "'Alcuni' modifies masculine plural countable nouns ('alcuni casi').",
+  "translation": "In the essay, several interesting case studies are analyzed.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-003",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "---- i partecipanti hanno applaudito alla fine del discorso.",
+  "options": [
+   "Tutti",
+   "Ogni",
+   "Alcuni",
+   "Ciascun"
+  ],
+  "answer": 0,
+  "explain": "'Tutto' requires the definite article: 'Tutti i partecipanti'.",
+  "translation": "All the participants applauded at the end of the speech.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-004",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "Purtroppo abbiamo ---- tempo per completare questo lavoro.",
+  "options": [
+   "poco",
+   "pochi",
+   "poca",
+   "poche"
+  ],
+  "answer": 0,
+  "explain": "'Poco' modifies masculine singular uncountable nouns ('poco tempo').",
+  "translation": "Unfortunately we have little time to complete this work.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-005",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "Ci sono ---- persone in piazza che aspettano l'inizio.",
+  "options": [
+   "molte",
+   "molti",
+   "molto",
+   "molta"
+  ],
+  "answer": 0,
+  "explain": "'Persone' is feminine plural, so it requires 'molte persone'.",
+  "translation": "There are many people in the square waiting for the start.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-006",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "Il ricercatore ha pubblicato il suo ---- articolo scientifico.",
+  "options": [
+   "primo",
+   "uno",
+   "prima",
+   "primario"
+  ],
+  "answer": 0,
+  "explain": "Ordinal number for masculine singular: 'il suo primo articolo'.",
+  "translation": "The researcher published his first scientific article.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-007",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "In ---- paese del mondo esistono tradizioni culturali uniche.",
+  "options": [
+   "ogni",
+   "tutti",
+   "alcuni",
+   "molti"
+  ],
+  "answer": 0,
+  "explain": "'Ogni' precedes singular nouns: 'in ogni paese'.",
+  "translation": "In every country of the world there are unique cultural traditions.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-008",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "L'archivio storico conserva ---- documenti antichi.",
+  "options": [
+   "molti",
+   "molto",
+   "molta",
+   "molte"
+  ],
+  "answer": 0,
+  "explain": "'Documenti' is masculine plural, so it takes 'molti documenti'.",
+  "translation": "The historical archive preserves many ancient documents.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-009",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "Solo ---- donne facevano parte del parlamento in quell'epoca.",
+  "options": [
+   "poche",
+   "pochi",
+   "poco",
+   "poca"
+  ],
+  "answer": 0,
+  "explain": "'Donne' is feminine plural, so it takes 'poche donne'.",
+  "translation": "Only a few women were part of parliament in that era.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-010",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "---- la città è rimasta senza elettricità per due ore.",
+  "options": [
+   "Tutta",
+   "Tutto",
+   "Tutti",
+   "Tutte"
+  ],
+  "answer": 0,
+  "explain": "'Tutta la città' means 'the entire city' ('tutta' + fem singular).",
+  "translation": "The whole city remained without electricity for two hours.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-011",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "Lo studente ha superato l'esame al ---- tentativo.",
+  "options": [
+   "secondo",
+   "due",
+   "seconda",
+   "secondari"
+  ],
+  "answer": 0,
+  "explain": "Ordinal number: 'al secondo tentativo' (on the second attempt).",
+  "translation": "The student passed the exam on the second attempt.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-012",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "---- volta che visito Roma scopro monumenti affascinanti.",
+  "options": [
+   "Ogni",
+   "Tutti",
+   "Alcuni",
+   "Molti"
+  ],
+  "answer": 0,
+  "explain": "'Ogni volta' means 'every time' ('ogni' + singular).",
+  "translation": "Every time I visit Rome I discover fascinating monuments.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-013",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "Nel laboratorio ci sono ---- strumenti tecnologici moderni.",
+  "options": [
+   "alcuni",
+   "ogni",
+   "qualche",
+   "tutto"
+  ],
+  "answer": 0,
+  "explain": "'Alcuni' modifies masculine plural nouns ('alcuni strumenti').",
+  "translation": "In the lab there are some modern technological instruments.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-014",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "Ci sono ---- dubbi sulla reale efficacia di questa cura.",
+  "options": [
+   "molti",
+   "molto",
+   "molta",
+   "molte"
+  ],
+  "answer": 0,
+  "explain": "'Dubbi' is masculine plural, so it takes 'molti dubbi'.",
+  "translation": "There are many doubts about the real efficacy of this treatment.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "drill-1.10-015",
+  "section": "drill",
+  "topic": "lesson.1.10",
+  "level": 1,
+  "prompt": "Ha risposto correttamente a ---- le domande del test.",
+  "options": [
+   "tutte",
+   "tutti",
+   "tutta",
+   "tutto"
+  ],
+  "answer": 0,
+  "explain": "'Tutte le domande' (all the questions: 'tutte' + feminine plural).",
+  "translation": "He/she answered all the questions on the test correctly.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L1-001",
+  "section": "drill",
+  "topic": "level.1",
+  "level": 1,
+  "prompt": "Il ricercatore ---- a Roma per una conferenza accademica.",
+  "options": [
+   "è",
+   "sono",
+   "ha",
+   "hanno"
+  ],
+  "answer": 0,
+  "explain": "Subject 'Il ricercatore' is 3rd-person singular (he/lui). The present tense of 'essere' is 'è' (is).",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L1-002",
+  "section": "drill",
+  "topic": "level.1",
+  "level": 1,
+  "prompt": "I professori dell'università ---- molti articoli scientifici.",
+  "options": [
+   "hanno",
+   "ha",
+   "sono",
+   "è"
+  ],
+  "answer": 0,
+  "explain": "Subject 'I professori' is 3rd-person plural (they/loro). 'Avere' conjugates as 'hanno' (have).",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L1-003",
+  "section": "drill",
+  "topic": "level.1",
+  "level": 1,
+  "prompt": "La risposta corretta si trova ---- pagina dieci del manuale.",
+  "options": [
+   "nella",
+   "nel",
+   "della",
+   "dal"
+  ],
+  "answer": 0,
+  "explain": "'in' + feminine article 'la' contracts to 'nella' (in the page).",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L2-001",
+  "section": "drill",
+  "topic": "level.2",
+  "level": 2,
+  "prompt": "Questo nuovo approccio teorico ---- spiegare le discrepanze osservate.",
+  "options": [
+   "può",
+   "possono",
+   "deve",
+   "vogliono"
+  ],
+  "answer": 0,
+  "explain": "Subject 'Questo nuovo approccio' is 3rd-person singular. 'Può' (can) expresses capability.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L2-002",
+  "section": "drill",
+  "topic": "level.2",
+  "level": 2,
+  "prompt": "Nel corso degli ultimi decenni, ---- osservato un progressivo aumento delle temperature.",
+  "options": [
+   "si è",
+   "ha",
+   "sono",
+   "hanno"
+  ],
+  "answer": 0,
+  "explain": "Impersonal reflexive passive in the past: 'si è osservato' (there has been observed / one has observed).",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L2-003",
+  "section": "drill",
+  "topic": "level.2",
+  "level": 2,
+  "prompt": "Il comitato scientifico ---- stabilire nuove linee guida entro la fine del mese.",
+  "options": [
+   "deve",
+   "devono",
+   "possono",
+   "vogliono"
+  ],
+  "answer": 0,
+  "explain": "Singular subject 'Il comitato' takes 3rd-person singular 'deve' (must).",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L3-001",
+  "section": "drill",
+  "topic": "level.3",
+  "level": 3,
+  "prompt": "Il periodo storico ---- cui visse l'autore fu caratterizzato da profondi sconvolgimenti.",
+  "options": [
+   "in",
+   "di",
+   "per",
+   "con"
+  ],
+  "answer": 0,
+  "explain": "'in cui' means 'in which' referring to historical time periods.",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L3-002",
+  "section": "drill",
+  "topic": "level.3",
+  "level": 3,
+  "prompt": "Mentre gli archeologi ---- gli scavi, una nuova tomba è stata riportata alla luce.",
+  "options": [
+   "conducevano",
+   "hanno condotto",
+   "condurranno",
+   "condurrebbero"
+  ],
+  "answer": 0,
+  "explain": "After 'mentre', the continuous narrative background requires Imperfetto ('conducevano').",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L3-003",
+  "section": "drill",
+  "topic": "level.3",
+  "level": 3,
+  "prompt": "I risultati dell'indagine ---- pubblicati sul prossimo numero della rivista accademica.",
+  "options": [
+   "verranno",
+   "viene",
+   "hanno",
+   "avrebbero"
+  ],
+  "answer": 0,
+  "explain": "Passive voice with venire in the future plural: 'verranno pubblicati' (will be published).",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L4-001",
+  "section": "drill",
+  "topic": "level.4",
+  "level": 4,
+  "prompt": "---- l'inquinamento sia aumentato notevolmente, molte nazioni non hanno adottato politiche verdi.",
+  "options": [
+   "Sebbene",
+   "Poiché",
+   "Quindi",
+   "Pertanto"
+  ],
+  "answer": 0,
+  "explain": "'Sebbene' introduces a concession clause and triggers the subjunctive ('sia aumentato').",
+  "source": "v1",
+  "verified": false
+ },
+ {
+  "id": "cloze-L4-002",
+  "section": "drill",
+  "topic": "level.4",
+  "level": 4,
+  "prompt": "Le prime teorie presentavano evidenti lacune; ----, hanno gettato le basi per l'astrofisica moderna.",
+  "options": [
+   "tuttavia",
+   "perciò",
+   "quindi",
+   "poiché"
+  ],
+  "answer": 0,
+  "explain": "'Tuttavia' (however / nevertheless) is the correct contrast marker after a semicolon.",
+  "source": "v1",
+  "verified": false
+ }
+]

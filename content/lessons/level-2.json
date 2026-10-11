@@ -1,0 +1,452 @@
+{
+ "id": 2,
+ "name": "Level 2: A2 Struttura",
+ "tag": "Action, Time & Modals",
+ "badge": "🌿 A2 Struttura",
+ "description": "Modal verbs (potere, volere, dovere), Passato Prossimo (ha fatto, è andato), and the universal connector 'CHE'.",
+ "accent": "#10B981",
+ "lessons": [
+  {
+   "id": "2.1",
+   "title": "The Modals: Potere, Volere, Dovere",
+   "subtitle": "Can, want, must: How modal verbs govern infinitives in academic statements.",
+   "mentalModel": "Modal verbs are followed by an infinitive verb (*può spiegare* = can explain, *deve essere* = must be). In YDS texts, they express possibility, obligation, and hypothesis.",
+   "concepts": [
+    {
+     "it": "può / possono (Potere)",
+     "en": "can / is able to / they can",
+     "note": "Expresses capability or possibility."
+    },
+    {
+     "it": "deve / devono (Dovere)",
+     "en": "must / has to / they must",
+     "note": "Expresses necessity or logical deduction."
+    },
+    {
+     "it": "vuole / vogliono (Volere)",
+     "en": "wants / intends to",
+     "note": "Expresses intent or objective."
+    }
+   ],
+   "xray": {
+    "blocks": [
+     {
+      "it": "Questo modello",
+      "role": "Subject",
+      "en": "This model",
+      "colorClass": "xray-subj"
+     },
+     {
+      "it": "può spiegare",
+      "role": "Modal + Verb",
+      "en": "can explain",
+      "colorClass": "xray-verb"
+     },
+     {
+      "it": "il fenomeno.",
+      "role": "Object",
+      "en": "the phenomenon.",
+      "colorClass": "xray-obj"
+     }
+    ],
+    "fullEn": "This model can explain the phenomenon."
+   },
+   "bridgeMarker": "<strong>Golden Bridge to Level 4 (YDS):</strong> Watch for conditional forms in Level 4: *potrebbe* (could / might) and *dovrebbe* (should / ought to). Recognizing *può* and *deve* now is the key to understanding those!",
+   "checkQuiz": {
+    "question": "How do you translate 'The researchers must evaluate the data'?",
+    "options": [
+     {
+      "text": "I ricercatori devono valutare i dati",
+      "isCorrect": true
+     },
+     {
+      "text": "I ricercatori possono valutare i dati",
+      "isCorrect": false
+     },
+     {
+      "text": "I ricercatori vogliono valutare i dati",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'devono' expresses obligation (must / have to)."
+   },
+   "topic": "lesson.2.1"
+  },
+  {
+   "id": "2.2",
+   "title": "Passato Prossimo with Avere",
+   "subtitle": "The engine for 80% of past actions in Italian (ha detto, hanno confermato).",
+   "mentalModel": "Formed with <strong>avere + past participle</strong> (-ato, -uto, -ito). Notice the subject is singular (ha) or plural (hanno), while the participle ends in -o!",
+   "concepts": [
+    {
+     "it": "ha confermato / hanno confermato",
+     "en": "confirmed / have confirmed (-are -> -ato)"
+    },
+    {
+     "it": "ha sostenuto / hanno sostenuto",
+     "en": "maintained / argued (-ere -> -uto)"
+    },
+    {
+     "it": "ha chiarito / hanno chiarito",
+     "en": "clarified / clarified (-ire -> -ito)"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Note:</strong> Past participles ending in -to are Latin cognates with English -ted (es. *ha confermato* = has confirmed).",
+   "checkQuiz": {
+    "question": "What is the past participle of 'parlare'?",
+    "options": [
+     {
+      "text": "parlato",
+      "isCorrect": true
+     },
+     {
+      "text": "parluto",
+      "isCorrect": false
+     },
+     {
+      "text": "parlito",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "Regular -are verbs form participles with -ato."
+   },
+   "topic": "lesson.2.2"
+  },
+  {
+   "id": "2.3",
+   "title": "Passato Prossimo with Essere & Agreement",
+   "subtitle": "Movement, state verbs, and why the ending agrees with gender/number.",
+   "mentalModel": "Verbs of motion and state use <strong>essere</strong>, and their participle must match gender and number: *è andato* (he went), *è andata* (she went), *sono andati* (they went).",
+   "concepts": [
+    {
+     "it": "è nato / è morta",
+     "en": "was born / died (historical biographies)"
+    },
+    {
+     "it": "è diventato / è diventata",
+     "en": "became / turned into"
+    }
+   ],
+   "bridgeMarker": "<strong>Exam Skill:</strong> In YDS biographical reading passages, verbs like *è nato* (was born) and *è vissuto* (lived) appear frequently.",
+   "checkQuiz": {
+    "question": "Which sentence is correct for 'The scientist (f) became famous'?",
+    "options": [
+     {
+      "text": "La scienziata è diventata famosa",
+      "isCorrect": true
+     },
+     {
+      "text": "La scienziata è diventato famosa",
+      "isCorrect": false
+     },
+     {
+      "text": "La scienziata ha diventato famosa",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "With 'essere', the past participle agrees in gender (-a for feminine)."
+   },
+   "topic": "lesson.2.3"
+  },
+  {
+   "id": "2.4",
+   "title": "Direct Object Pronouns: Lo, La, Li, Le",
+   "subtitle": "Replacing objects to avoid repetition (him, her, it, them).",
+   "mentalModel": "These little words sit right in front of the verb: *Lo studio? Lo conosco.* (The study? I know it.)",
+   "concepts": [
+    {
+     "it": "lo / la",
+     "en": "it / him / her (singular)",
+     "note": "lo conferma (confirms it)"
+    },
+    {
+     "it": "li / le",
+     "en": "them (masculine / feminine plural)",
+     "note": "li esamina (examines them)"
+    }
+   ],
+   "bridgeMarker": "<strong>Reading Tip:</strong> Always look back one sentence to see which noun 'lo' or 'la' is pointing to.",
+   "checkQuiz": {
+    "question": "In 'I risultati? Li esaminiamo', what does 'Li' refer to?",
+    "options": [
+     {
+      "text": "I risultati (The results)",
+      "isCorrect": true
+     },
+     {
+      "text": "Gli studenti",
+      "isCorrect": false
+     },
+     {
+      "text": "La teoria",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'Li' is masculine plural, replacing 'i risultati'."
+   },
+   "topic": "lesson.2.4"
+  },
+  {
+   "id": "2.5",
+   "title": "Indirect Object Pronouns: Gli, Le, Loro",
+   "subtitle": "To him, to her, to them: Attribution in academic reporting.",
+   "mentalModel": "Used when actions are done <em>to</em> someone: *gli autori gli attribuiscono* (authors attribute to him).",
+   "concepts": [
+    {
+     "it": "gli / le",
+     "en": "to him / to her",
+     "note": "gli dà importanza (gives importance to it/him)"
+    },
+    {
+     "it": "loro",
+     "en": "to them",
+     "note": "dà loro fiducia (gives them trust)"
+    }
+   ],
+   "bridgeMarker": "<strong>Watch Out:</strong> 'Gli' can mean the plural article ('gli scienziati') or the pronoun 'to him'. Check if a verb follows!",
+   "checkQuiz": {
+    "question": "What does 'gli' mean when placed immediately before a verb?",
+    "options": [
+     {
+      "text": "To him / to it",
+      "isCorrect": true
+     },
+     {
+      "text": "The (plural)",
+      "isCorrect": false
+     },
+     {
+      "text": "Without",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "Before a verb, 'gli' functions as the indirect pronoun 'to him / to it'."
+   },
+   "topic": "lesson.2.5"
+  },
+  {
+   "id": "2.6",
+   "title": "Reflexive Verbs & The Impersonal 'SI'",
+   "subtitle": "How 'Si osserva' (it is observed) powers all academic papers.",
+   "mentalModel": "Academic papers rarely say 'I think'. They say <strong>si ritiene</strong> (it is believed) or <strong>si osserva</strong> (one observes / it is observed). This impersonal 'si' is the king of academic prose!",
+   "concepts": [
+    {
+     "it": "si osserva / si nota",
+     "en": "one observes / it is observed / one notes"
+    },
+    {
+     "it": "si ritiene / si pensa",
+     "en": "it is believed / it is considered"
+    }
+   ],
+   "bridgeMarker": "<strong>Golden Bridge:</strong> 40% of sentences on the YDS use impersonal 'si'! When you see 'si + 3rd person verb', read it as 'it is + [past participle]'.",
+   "checkQuiz": {
+    "question": "How do you translate 'Si nota un cambiamento'?",
+    "options": [
+     {
+      "text": "A change is noted / One notes a change",
+      "isCorrect": true
+     },
+     {
+      "text": "He notes his change",
+      "isCorrect": false
+     },
+     {
+      "text": "They never notice changes",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "Impersonal 'si' + 3rd person creates the academic passive 'it is noted'."
+   },
+   "topic": "lesson.2.6"
+  },
+  {
+   "id": "2.7",
+   "title": "The Universal Relative Pronoun: CHE",
+   "subtitle": "The most frequent connector in Italian: who, whom, which, that.",
+   "mentalModel": "<strong>CHE</strong> connects clauses seamlessly: *il fattore <strong>che</strong> influenza i risultati* (the factor that influences results). It never changes form!",
+   "concepts": [
+    {
+     "it": "che (Subject)",
+     "en": "who / which / that",
+     "note": "lo scienziato che studia (the scientist who studies)"
+    },
+    {
+     "it": "che (Object)",
+     "en": "whom / which / that",
+     "note": "i dati che vediamo (the data that we see)"
+    }
+   ],
+   "bridgeMarker": "<strong>Structure Secret:</strong> On YDS sentence completion, 'che' splits the sentence in two. Find the verb inside the 'che' clause first!",
+   "checkQuiz": {
+    "question": "What does 'che' translate to when connecting a noun and a verb?",
+    "options": [
+     {
+      "text": "That / Which / Who",
+      "isCorrect": true
+     },
+     {
+      "text": "Because only",
+      "isCorrect": false
+     },
+     {
+      "text": "Although",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'che' is the invariable relative pronoun meaning that/which/who."
+   },
+   "topic": "lesson.2.7"
+  },
+  {
+   "id": "2.8",
+   "title": "Comparing Things: Più ... di / Meno ... di",
+   "subtitle": "More than, less than, as ... as: Comparing research outcomes.",
+   "mentalModel": "Used to compare two entities: *più grande di* (bigger than), *meno efficace di* (less effective than), *tanto ... quanto* (as ... as).",
+   "concepts": [
+    {
+     "it": "più ... di / meno ... di",
+     "en": "more ... than / less ... than"
+    },
+    {
+     "it": "tanto ... quanto",
+     "en": "as much ... as / both ... and"
+    }
+   ],
+   "bridgeMarker": "<strong>YDS Trap:</strong> 'Di' is used before nouns (*più di Roma*), but 'che' is used before adjectives or verbs (*più interessante che utile*).",
+   "checkQuiz": {
+    "question": "How do you say 'more efficient than'?",
+    "options": [
+     {
+      "text": "più efficiente di",
+      "isCorrect": true
+     },
+     {
+      "text": "molto efficiente da",
+      "isCorrect": false
+     },
+     {
+      "text": "meno efficiente di",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'più ... di' means more ... than."
+   },
+   "topic": "lesson.2.8"
+  },
+  {
+   "id": "2.9",
+   "title": "Adverbs of Frequency & Manner (-mente)",
+   "subtitle": "Chiaramente, recentemente, principalmente: Modifying claims.",
+   "mentalModel": "Just like '-ly' in English, Italian adds <strong>-mente</strong> to the feminine adjective: *chiara* -> *chiaramente* (clearly), *recente* -> *recentemente* (recently).",
+   "concepts": [
+    {
+     "it": "principalmente / soprattutto",
+     "en": "mainly / above all"
+    },
+    {
+     "it": "chiaramente / evidentemente",
+     "en": "clearly / evidently"
+    }
+   ],
+   "bridgeMarker": "<strong>Cognate Power:</strong> 90% of -mente adverbs are transparent English cognates (generalmente = generally, naturalmente = naturally).",
+   "checkQuiz": {
+    "question": "What is the English meaning of 'recentemente'?",
+    "options": [
+     {
+      "text": "Recently",
+      "isCorrect": true
+     },
+     {
+      "text": "Rarely",
+      "isCorrect": false
+     },
+     {
+      "text": "Right now",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "Transparent cognate with English 'recently'."
+   },
+   "topic": "lesson.2.9"
+  },
+  {
+   "id": "2.10",
+   "title": "Time Horizons & Duration: Da, Fa, Durante, Prima, Dopo",
+   "subtitle": "Tracking chronology in historical and scientific passages.",
+   "mentalModel": "Time markers define the timeline: *da tre anni* (for three years / since), *tre anni fa* (three years ago), *prima di* (before), *dopo* (after).",
+   "concepts": [
+    {
+     "it": "da (present tense)",
+     "en": "for / since (ongoing action)",
+     "note": "Lavora qui da tre anni (has worked here for 3 years)"
+    },
+    {
+     "it": "fa (past tense)",
+     "en": "ago",
+     "note": "dieci anni fa (ten years ago)"
+    }
+   ],
+   "bridgeMarker": "<strong>ÖSYM Test Question:</strong> 'Da' with a present tense verb translates to English Present Perfect ('has been doing'). Crucial for translation questions!",
+   "checkQuiz": {
+    "question": "How do you translate 'five years ago'?",
+    "options": [
+     {
+      "text": "cinque anni fa",
+      "isCorrect": true
+     },
+     {
+      "text": "da cinque anni",
+      "isCorrect": false
+     },
+     {
+      "text": "dopo cinque anni",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'fa' placed after the time unit means 'ago'."
+   },
+   "topic": "lesson.2.10"
+  },
+  {
+   "id": "2.11",
+   "title": "Future Tense Reading Markers (-rà, -ranno)",
+   "subtitle": "Recognizing predictions, forecasts, and hypotheses.",
+   "mentalModel": "The future tense is characterized by the stressed endings <strong>-rà</strong> (singular: *sarà*, *farà*, *mostrerà*) and <strong>-ranno</strong> (plural: *saranno*, *faranno*, *mostreranno*).",
+   "concepts": [
+    {
+     "it": "sarà / saranno",
+     "en": "will be (singular / plural)"
+    },
+    {
+     "it": "avrà / avranno",
+     "en": "will have (singular / plural)"
+    },
+    {
+     "it": "dimostrerà / dimostreranno",
+     "en": "will demonstrate"
+    }
+   ],
+   "bridgeMarker": "<strong>Future vs Conditional:</strong> Don't confuse -rà (future: will) with -rebbe (conditional: would)! Future has one 'r', conditional has double 'rr'.",
+   "checkQuiz": {
+    "question": "What does 'La ricerca mostrerà nuovi dati' mean?",
+    "options": [
+     {
+      "text": "The research will show new data",
+      "isCorrect": true
+     },
+     {
+      "text": "The research showed new data",
+      "isCorrect": false
+     },
+     {
+      "text": "The research shows new data",
+      "isCorrect": false
+     }
+    ],
+    "explanation": "'mostrerà' is the future tense ending in -rà (will show)."
+   },
+   "topic": "lesson.2.11"
+  }
+ ]
+}
