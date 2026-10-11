@@ -7,7 +7,7 @@ import { esc } from '../util.js';
 import { pickQuestions, historyOf } from '../../engine/picker.js';
 import { EXAM_SECTIONS } from '../../engine/schema.js';
 
-const SECTIONS = {
+export const SECTIONS = {
   vocab: ['Vocabulary in context', 'One word fits the sentence.', 10],
   cloze: ['Passage cloze', 'A short paragraph, one blank at a time.', 5],
   grammar: ['Grammar', 'Choose the correct form.', 10],
@@ -21,7 +21,8 @@ const SECTIONS = {
 };
 
 export async function render(root, ctx, params) {
-  const [section] = params;
+  const [section, ...rest] = params;
+  if (section === 'mock') return (await import('./mock.js')).render(root, ctx, rest);
   if (section && SECTIONS[section]) return renderRound(root, ctx, section);
   const bank = await loadBank();
   const count = (s) => bank.questions.filter((q) => q.section === s && q.verified).length;
@@ -32,7 +33,9 @@ export async function render(root, ctx, params) {
       ? `<a class="card tap" href="#/exam/${s}"><div class="row"><div class="grow"><b>${esc(title)}</b><div class="muted small">${esc(hint)} · ${n} questions</div></div><span>›</span></div></a>`
       : `<div class="card dim"><div class="row"><div class="grow"><b>${esc(title)}</b><div class="muted small">Coming soon · ${EXAM_SECTIONS[s]} of 80 questions in the real exam</div></div></div></div>`;
   }).join('');
-  root.innerHTML = `<h1>Exam</h1><p class="muted">Practise one part of the YDS paper at a time. Full timed mock exams arrive later.</p>${rows}`;
+  root.innerHTML = `<h1>Exam</h1>
+    <a class="card tap" href="#/exam/mock"><div class="row between"><div><h3 style="margin:0">⏱ Mock exam</h3><span class="muted small">All ten sections, timed, scored like the real paper</span></div><span>›</span></div></a>
+    <h3 class="sechead">Practise one section</h3>${rows}`;
 }
 
 async function renderRound(root, ctx, section) {

@@ -158,6 +158,13 @@ input[type=search], input[type=text], select, textarea {
 .bar > div.r { background: var(--bad); }
 .qcard { margin-top: 12px; }
 .qtext { font-size: 1.2rem; line-height: 1.6; white-space: pre-line; }
+.opt.sel { border-color: var(--accent); background: var(--accent-soft); }
+.clock { font-variant-numeric: tabular-nums; font-size: 1.1rem; }
+.clock.low { color: #ff6b6b; }
+.qgrid { display: grid; grid-template-columns: repeat(8, 1fr); gap: 6px; margin-top: 12px; }
+.qn { padding: 8px 0; border-radius: 8px; border: 1px solid var(--line); background: transparent; color: inherit; font: inherit; }
+.qn.done { background: var(--accent-soft); }
+.qn.cur { outline: 2px solid var(--accent); }
 .passage { margin-top: 12px; font-size: 0.98rem; line-height: 1.55; }
 .qtext.long { font-size: 0.98rem; line-height: 1.5; }
 .blank { display: inline-block; min-width: 3.2em; border-bottom: 3px solid var(--accent); text-align: center; font-weight: 700; padding: 0 4px; }

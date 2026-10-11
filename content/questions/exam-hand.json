@@ -1293,7 +1293,8 @@
   "answer": 4,
   "explain": "Verbs of change like \"diventare\" take essere: sono diventati.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-0"
  },
  {
   "id": "x-c-15sbys5",
@@ -1311,7 +1312,8 @@
   "answer": 2,
   "explain": "\"Non solo… ma anche\" = not only… but also.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-0"
  },
  {
   "id": "x-c-97l731",
@@ -1329,7 +1331,8 @@
   "answer": 3,
   "explain": "After the benefits comes a warning, so we need a contrast: tuttavia = however.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-0"
  },
  {
   "id": "x-c-ykmmn1",
@@ -1347,7 +1350,8 @@
   "answer": 1,
   "explain": "\"ore\" is feminine plural → molte.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-0"
  },
  {
   "id": "x-c-1osqmnv",
@@ -1365,7 +1369,8 @@
   "answer": 0,
   "explain": "\"È importante\" + infinitive.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-0"
  },
  {
   "id": "x-c-1p63ib5",
@@ -1383,7 +1388,8 @@
   "answer": 3,
   "explain": "Direct-object relative pronoun → che.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-1"
  },
  {
   "id": "x-c-ks29wb",
@@ -1401,7 +1407,8 @@
   "answer": 1,
   "explain": "A change that started in the past and still matters now → passato prossimo.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-1"
  },
  {
   "id": "x-c-1t656lz",
@@ -1419,7 +1426,8 @@
   "answer": 2,
   "explain": "The subjunctive \"abbiano firmato\" signals a concession: benché = although.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-1"
  },
  {
   "id": "x-c-1g2v6ux",
@@ -1437,7 +1445,8 @@
   "answer": 1,
   "explain": "\"sia necessario\" + infinitive (no \"che\" here).",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-1"
  },
  {
   "id": "x-c-6a7qmz",
@@ -1455,7 +1464,8 @@
   "answer": 2,
   "explain": "The \"se\" clause is future (si agirà), so the result is future too; plural subject → diventeranno.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-1"
  },
  {
   "id": "x-c-n4lfei",
@@ -1473,7 +1483,8 @@
   "answer": 3,
   "explain": "Purpose before an infinitive → per.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-2"
  },
  {
   "id": "x-c-kboa1i",
@@ -1491,7 +1502,8 @@
   "answer": 0,
   "explain": "Subject of \"è stato creato\" → che.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-2"
  },
  {
   "id": "x-c-1e1wuai",
@@ -1509,7 +1521,8 @@
   "answer": 4,
   "explain": "A positive result follows: grazie a = thanks to.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-2"
  },
  {
   "id": "x-c-1s9x9lu",
@@ -1527,7 +1540,8 @@
   "answer": 3,
   "explain": "\"imparano a\" + infinitive.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-2"
  },
  {
   "id": "x-c-dtm25g",
@@ -1545,7 +1559,8 @@
   "answer": 0,
   "explain": "The sentence limits the benefit, so it contrasts with the previous one: tuttavia.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-2"
  },
  {
   "id": "x-c-elglgg",
@@ -1563,7 +1578,8 @@
   "answer": 0,
   "explain": "\"fare bene a\" + la salute → alla.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-3"
  },
  {
   "id": "x-c-1mckpdk",
@@ -1581,7 +1597,8 @@
   "answer": 0,
   "explain": "\"al giorno\" = per day.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-3"
  },
  {
   "id": "x-c-pll1e",
@@ -1599,7 +1616,8 @@
   "answer": 2,
   "explain": "The sentence gives the reason for the advice: infatti = in fact.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-3"
  },
  {
   "id": "x-c-9obs2g",
@@ -1617,7 +1635,8 @@
   "answer": 1,
   "explain": "Singular subject \"Chi\" → dovrebbe (advice).",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-3"
  },
  {
   "id": "x-c-1yl8tig",
@@ -1635,7 +1654,8 @@
   "answer": 4,
   "explain": "\"sentirsi meglio\" = to feel better; \"Chi\" takes a singular verb.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-3"
  },
  {
   "id": "x-c-5lnpwy",
@@ -1653,7 +1673,8 @@
   "answer": 2,
   "explain": "\"scomparire\" takes essere: sono scomparse.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-4"
  },
  {
   "id": "x-c-9dm392",
@@ -1671,7 +1692,8 @@
   "answer": 2,
   "explain": "Two groups are contrasted: mentre = whereas.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-4"
  },
  {
   "id": "x-c-1g2y2jm",
@@ -1689,7 +1711,8 @@
   "answer": 2,
   "explain": "The investment is the consequence of the risk: per questo motivo = for this reason.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-4"
  },
  {
   "id": "x-c-ycp4gk",
@@ -1707,7 +1730,8 @@
   "answer": 4,
   "explain": "Subject of \"conviene\" → che.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-4"
  },
  {
   "id": "x-c-a47rkg",
@@ -1725,7 +1749,8 @@
   "answer": 3,
   "explain": "The last sentence sums up the paragraph.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-4"
  },
  {
   "id": "x-c-z8glmz",
@@ -1743,7 +1768,8 @@
   "answer": 0,
   "explain": "\"soprattutto\" = above all, singling out the last item of the list.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-5"
  },
  {
   "id": "x-c-xvjh4p",
@@ -1761,7 +1787,8 @@
   "answer": 2,
   "explain": "\"non… finché non\" = not… until: valid only after it has been verified.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-5"
  },
  {
   "id": "x-c-144lcvb",
@@ -1779,7 +1806,8 @@
   "answer": 4,
   "explain": "Subject of \"sono stati esaminati\" → che.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-5"
  },
  {
   "id": "x-c-1y9pg51",
@@ -1797,7 +1825,8 @@
   "answer": 0,
   "explain": "\"casi\" is plural → mancano.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-5"
  },
  {
   "id": "x-c-1scl92h",
@@ -1815,7 +1844,8 @@
   "answer": 0,
   "explain": "Plural adjective agreeing with \"situazioni\".",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-5"
  },
  {
   "id": "x-c-12ine",
@@ -1833,7 +1863,8 @@
   "answer": 0,
   "explain": "The subjunctive \"generi/porti\" requires a concessive conjunction: sebbene = although.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-6"
  },
  {
   "id": "x-c-lz4y0g",
@@ -1851,7 +1882,8 @@
   "answer": 1,
   "explain": "\"A causa di\" + noun: a causa dei flussi turistici = because of the tourist flows.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-6"
  },
  {
   "id": "x-c-pyxz6g",
@@ -1869,7 +1901,8 @@
   "answer": 1,
   "explain": "\"decidere di\" + infinitive.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-6"
  },
  {
   "id": "x-c-11avku0",
@@ -1887,7 +1920,8 @@
   "answer": 4,
   "explain": "The measures help but are not enough: tuttavia = however.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-6"
  },
  {
   "id": "x-c-126wupe",
@@ -1905,7 +1939,8 @@
   "answer": 0,
   "explain": "Purpose → per + infinitive.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-6"
  },
  {
   "id": "x-c-dggfww",
@@ -1923,7 +1958,8 @@
   "answer": 0,
   "explain": "\"essere una delle città…\" = to be one of the cities…",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-7"
  },
  {
   "id": "x-c-lu5a0a",
@@ -1941,7 +1977,8 @@
   "answer": 0,
   "explain": "Purpose: per + infinitive.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-7"
  },
  {
   "id": "x-c-ofoous",
@@ -1959,7 +1996,8 @@
   "answer": 3,
   "explain": "\"per tre giorni\" = for three days (a completed period).",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-7"
  },
  {
   "id": "x-c-1qzbiea",
@@ -1977,7 +2015,8 @@
   "answer": 2,
   "explain": "\"Chi\" is singular; \"dovrebbe\" gives advice.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-7"
  },
  {
   "id": "x-c-1xcf9vw",
@@ -1995,7 +2034,8 @@
   "answer": 1,
   "explain": "\"Nonostante\" + noun = despite.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-7"
  },
  {
   "id": "x-c-1i81rma",
@@ -2013,7 +2053,8 @@
   "answer": 0,
   "explain": "\"Un tempo\" + habit in the past → imperfetto.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-8"
  },
  {
   "id": "x-c-1mtsuuc",
@@ -2031,7 +2072,8 @@
   "answer": 3,
   "explain": "Singular subject \"cambiamento\" → ha.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-8"
  },
  {
   "id": "x-c-bmlw2g",
@@ -2049,7 +2091,8 @@
   "answer": 2,
   "explain": "The \"advantage\" side: news arrives immediately.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-8"
  },
  {
   "id": "x-c-1kml840",
@@ -2067,7 +2110,8 @@
   "answer": 0,
   "explain": "\"senza + infinitive\" = without having…",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-8"
  },
  {
   "id": "x-c-yapzvm",
@@ -2085,7 +2129,8 @@
   "answer": 0,
   "explain": "\"Sarebbe utile\" + infinitive.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-8"
  },
  {
   "id": "x-c-qkcwtc",
@@ -2103,7 +2148,8 @@
   "answer": 0,
   "explain": "The sentence turns from principle to practice: ma = but.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-9"
  },
  {
   "id": "x-c-scwon0",
@@ -2121,7 +2167,8 @@
   "answer": 3,
   "explain": "\"scelte\" is feminine plural → le.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-9"
  },
  {
   "id": "x-c-1kz3k2u",
@@ -2139,7 +2186,8 @@
   "answer": 2,
   "explain": "Subjunctive + a contrast: nonostante = although/despite.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-9"
  },
  {
   "id": "x-c-1pofkq4",
@@ -2157,7 +2205,8 @@
   "answer": 1,
   "explain": "\"È necessario che\" + subjunctive.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-9"
  },
  {
   "id": "x-c-11sdtt2",
@@ -2175,7 +2224,8 @@
   "answer": 0,
   "explain": "altrimenti = otherwise (the warning if nothing is done).",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-9"
  },
  {
   "id": "x-c-1f8wrgf",
@@ -2193,7 +2243,8 @@
   "answer": 0,
   "explain": "\"andare\" takes essere; Marco is masculine → è andato.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-10"
  },
  {
   "id": "x-c-10npd47",
@@ -2211,7 +2262,8 @@
   "answer": 0,
   "explain": "\"arrivare\" takes essere: sono arrivati.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-10"
  },
  {
   "id": "x-c-1t1lt4v",
@@ -2229,7 +2281,8 @@
   "answer": 3,
   "explain": "Two actions in sequence are joined by e.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-10"
  },
  {
   "id": "x-c-17wui4r",
@@ -2247,7 +2300,8 @@
   "answer": 0,
   "explain": "Past event (it started to rain) → passato prossimo.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-10"
  },
  {
   "id": "x-c-17i59s1",
@@ -2265,7 +2319,8 @@
   "answer": 0,
   "explain": "\"stanchi, ma contenti\" = tired but happy.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-10"
  },
  {
   "id": "x-c-19dgupf",
@@ -2283,7 +2338,8 @@
   "answer": 0,
   "explain": "\"nascere da\" = to arise from.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-11"
  },
  {
   "id": "x-c-g528op",
@@ -2301,7 +2357,8 @@
   "answer": 0,
   "explain": "\"non… più… , ma…\" = no longer… but…",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-11"
  },
  {
   "id": "x-c-1hqudul",
@@ -2319,7 +2376,8 @@
   "answer": 0,
   "explain": "Subject of \"leggeva\" → che.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-11"
  },
  {
   "id": "x-c-yz5bfz",
@@ -2337,7 +2395,8 @@
   "answer": 2,
   "explain": "\"È probabile che\" + congiuntivo.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-11"
  },
  {
   "id": "x-c-1yh7mnp",
@@ -2355,7 +2414,8 @@
   "answer": 0,
   "explain": "\"Resta ancora da capire\" = it remains to be understood.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-11"
  },
  {
   "id": "x-c-oc660x",
@@ -2373,7 +2433,8 @@
   "answer": 2,
   "explain": "Subjunctive \"apprezzino\" → benché.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-12"
  },
  {
   "id": "x-c-mz174x",
@@ -2391,7 +2452,8 @@
   "answer": 4,
   "explain": "Employees vs companies: invece = on the other hand.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-12"
  },
  {
   "id": "x-c-s1be0r",
@@ -2409,7 +2471,8 @@
   "answer": 3,
   "explain": "Subjunctive \"sia\" → sebbene.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-12"
  },
  {
   "id": "x-c-13mek1h",
@@ -2427,7 +2490,8 @@
   "answer": 0,
   "explain": "Plural subject \"molti lavoratori\" → scelgono.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-12"
  },
  {
   "id": "x-c-wpxsj1",
@@ -2445,7 +2509,8 @@
   "answer": 4,
   "explain": "After the opportunities comes a reservation: tuttavia.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-12"
  },
  {
   "id": "x-c-1qijjkt",
@@ -2463,7 +2528,8 @@
   "answer": 0,
   "explain": "\"non solo per… ma anche per…\" — the same preposition is repeated.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-13"
  },
  {
   "id": "x-c-1pw0kw3",
@@ -2481,7 +2547,8 @@
   "answer": 4,
   "explain": "Subject of \"riflettono\" → che.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-13"
  },
  {
   "id": "x-c-oamxtt",
@@ -2499,7 +2566,8 @@
   "answer": 0,
   "explain": "Comparison between two nouns: più… che.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-13"
  },
  {
   "id": "x-c-94gysx",
@@ -2517,7 +2585,8 @@
   "answer": 2,
   "explain": "Purpose: per + infinitive.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-13"
  },
  {
   "id": "x-c-dur3wv",
@@ -2535,7 +2604,8 @@
   "answer": 0,
   "explain": "Concession with the indicative: anche se = even though.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-13"
  },
  {
   "id": "x-c-czxbus",
@@ -2553,7 +2623,8 @@
   "answer": 4,
   "explain": "Direct-object relative pronoun (un medico potrebbe non notare i segnali) → che.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-14"
  },
  {
   "id": "x-c-1dn9fm2",
@@ -2571,7 +2642,8 @@
   "answer": 3,
   "explain": "Reassurance after a possibly worrying idea: tuttavia = however.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-14"
  },
  {
   "id": "x-c-9llt6m",
@@ -2589,7 +2661,8 @@
   "answer": 3,
   "explain": "\"insistere su\" = to insist on.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-14"
  },
  {
   "id": "x-c-we6f3w",
@@ -2607,7 +2680,8 @@
   "answer": 4,
   "explain": "Subjunctive \"sia\" → sebbene.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-14"
  },
  {
   "id": "x-c-1uaw0go",
@@ -2625,7 +2699,8 @@
   "answer": 4,
   "explain": "inoltre = moreover, adding one more point.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-14"
  },
  {
   "id": "x-c-n22tnj",
@@ -2643,7 +2718,8 @@
   "answer": 3,
   "explain": "\"In pochi decenni\" = within a few decades (tra would mean \"in the future\").",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-15"
  },
  {
   "id": "x-c-iteac7",
@@ -2661,7 +2737,8 @@
   "answer": 4,
   "explain": "Subject of \"fu rapido\" → che.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-15"
  },
  {
   "id": "x-c-on9swz",
@@ -2679,7 +2756,8 @@
   "answer": 0,
   "explain": "Reason with the indicative: perché cercavano lavoro.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-15"
  },
  {
   "id": "x-c-1ksulhf",
@@ -2697,7 +2775,8 @@
   "answer": 4,
   "explain": "Plural subject, present time (\"Ancora oggi\") → rimangono.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-15"
  },
  {
   "id": "x-c-1acrifz",
@@ -2715,7 +2794,8 @@
   "answer": 4,
   "explain": "\"È essenziale\" + infinitive.",
   "source": "hand",
-  "verified": true
+  "verified": true,
+  "group": "cloze-15"
  },
  {
   "id": "x-k-kzz2m6",

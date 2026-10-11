@@ -1,5 +1,6 @@
 import { loadAllLessons, loadTopics } from '../content.js';
 import { esc } from '../util.js';
+import { estimateCard } from '../estimate-card.js';
 import { topicStats } from '../../engine/mastery.js';
 import { localDay, addDays } from '../../engine/dates.js';
 
@@ -63,8 +64,5 @@ export async function render(root, ctx) {
         </div>`).join('')}
     </div>
 
-    <div class="card">
-      <h3>Estimated YDS score</h3>
-      <p class="muted" style="margin:0">Shown once you answer exam-style questions (steps 5–6).</p>
-    </div>`;
+    ${await estimateCard(ctx.storage, answers)}`;
 }

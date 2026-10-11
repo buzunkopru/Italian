@@ -3,6 +3,7 @@ import { localDay } from '../../engine/dates.js';
 import { loadAllLessons } from '../content.js';
 import { build } from './session.js';
 import { esc } from '../util.js';
+import { estimateCard } from '../estimate-card.js';
 
 export async function render(root, ctx) {
   const { storage } = ctx;
@@ -49,8 +50,5 @@ export async function render(root, ctx) {
     ${next ? `<a class="card tap" href="#/learn/${next.level}/${esc(next.id)}">
       <div class="row between"><div><span class="pill">Next lesson</span><h3 style="margin:6px 0 0">${esc(next.id)} ${esc(next.title)}</h3></div><span>›</span></div></a>` : ''}
 
-    <div class="card">
-      <h3>Estimated YDS score</h3>
-      <p class="muted" style="margin:0">Not enough data yet. It appears after you answer exam-style questions.</p>
-    </div>`;
+    ${await estimateCard(storage, answers)}`;
 }

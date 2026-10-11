@@ -1,6 +1,6 @@
 // Mille service worker: network-first (always fresh when online), cache fallback (works offline).
 // Bump CACHE when the list of files changes.
-const CACHE = 'mille-v2-6';
+const CACHE = 'mille-v2-7';
 const ASSETS = [
   './',
   'index.html',
@@ -20,6 +20,10 @@ const ASSETS = [
   'app/screens/session.js',
   'app/screens/progress.js',
   'app/screens/exam.js',
+  'app/screens/mock.js',
+  'app/estimate-card.js',
+  'engine/mock.js',
+  'engine/estimate.js',
   'engine/schema.js',
   'engine/dates.js',
   'engine/srs.js',

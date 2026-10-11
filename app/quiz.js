@@ -7,7 +7,7 @@ import { localDay } from '../engine/dates.js';
 const blankHtml = (text, state = '') =>
   `<span class="blank ${state}">${text ? esc(text) : '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;'}</span>`;
 
-function promptHtml(q, fill, state) {
+export function promptHtml(q, fill, state) {
   const safe = esc(q.prompt);
   if (!safe.includes('----')) return safe;
   // "all'" + " uomo" reads "all'uomo": drop the space after an apostrophe

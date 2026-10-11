@@ -42,11 +42,11 @@ export function passagePrompt(passage, target) {
 
 export function clozeQuestions(rng) {
   const out = [];
-  for (const passage of EXAM_CLOZE_PASSAGES) {
+  for (const [pi, passage] of EXAM_CLOZE_PASSAGES.entries()) {
     passage.blanks.forEach(([answer, wrong, explain], i) => {
       out.push(build({
         section: 'cloze', topic: 'exam.cloze', level: passage.level,
-        prompt: passagePrompt(passage, i + 1), answer, wrong, explain, rng, tag: 'c',
+        prompt: passagePrompt(passage, i + 1), answer, wrong, explain, rng, tag: 'c', extra: { group: 'cloze-' + pi },
       }));
     });
   }
