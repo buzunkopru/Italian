@@ -2,6 +2,7 @@
 // Hand-written and reviewed, so they are marked source "hand" and verified.
 import { EXAM_VOCAB } from './handwritten/exam-vocab.js';
 import { EXAM_CLOZE_PASSAGES } from './handwritten/exam-cloze.js';
+import { EXAM_COMPLETION } from './handwritten/exam-completion.js';
 import { hash } from './util.js';
 import { shuffle } from '../engine/picker.js';
 
@@ -44,6 +45,11 @@ export function clozeQuestions(rng) {
   return out;
 }
 
+export function completionQuestions(rng) {
+  return EXAM_COMPLETION.map(([level, prompt, answer, wrong, explain]) =>
+    build({ section: 'completion', topic: 'exam.completion', level, prompt, answer, wrong, explain, rng, tag: 'k' }));
+}
+
 export function generate(rng) {
-  return [...vocabQuestions(rng), ...clozeQuestions(rng)];
+  return [...vocabQuestions(rng), ...clozeQuestions(rng), ...completionQuestions(rng)];
 }

@@ -2716,5 +2716,815 @@
   "explain": "\"È essenziale\" + infinitive.",
   "source": "hand",
   "verified": true
+ },
+ {
+  "id": "x-k-kzz2m6",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Se avessi più tempo, ----.",
+  "options": [
+   "studierò di più",
+   "ho studiato di più",
+   "studio di più",
+   "studiassi di più",
+   "studierei di più"
+  ],
+  "answer": 4,
+  "explain": "Se + imperfetto congiuntivo (avessi) → condizionale presente in the main clause: studierei.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1wi4qqn",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Se domani piove, ----.",
+  "options": [
+   "resteremo a casa",
+   "resteremmo a casa",
+   "saremmo rimasti a casa",
+   "eravamo rimasti a casa",
+   "restassimo a casa"
+  ],
+  "answer": 0,
+  "explain": "A real possibility (se + presente) → future or present in the main clause.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-134vy63",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Se avessi saputo la verità, ----.",
+  "options": [
+   "non accettassi",
+   "non ho accettato",
+   "non accetterò",
+   "non avrei accettato",
+   "non accetto"
+  ],
+  "answer": 3,
+  "explain": "Se + trapassato congiuntivo (avessi saputo) → condizionale passato: non avrei accettato.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1aj3t12",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Se fossi in te, ----.",
+  "options": [
+   "ci ho pensato bene",
+   "ci penserei bene",
+   "ci pensi bene",
+   "ci pensassi bene",
+   "ci penserò bene"
+  ],
+  "answer": 1,
+  "explain": "Se + imperfetto congiuntivo → condizionale presente.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1i7jpkh",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "----, andrei al mare.",
+  "options": [
+   "Se avessi le ferie",
+   "Se avrò le ferie",
+   "Se ebbi le ferie",
+   "Se avrei le ferie",
+   "Se ho le ferie"
+  ],
+  "answer": 0,
+  "explain": "\"andrei\" (condizionale) needs se + imperfetto congiuntivo. Never \"se\" + condizionale.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-414fvi",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "----, andremo al mare.",
+  "options": [
+   "Se domani fa bel tempo",
+   "Se domani facesse bel tempo",
+   "Benché domani fa bel tempo",
+   "Poiché domani faccia bel tempo",
+   "A meno che domani fa bel tempo"
+  ],
+  "answer": 0,
+  "explain": "\"andremo\" (futuro) pairs with se + presente indicativo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1usapkd",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "----, uscirei volentieri.",
+  "options": [
+   "Se non sia piovuto",
+   "Se non piove",
+   "Se non piovesse",
+   "Se non pioverà",
+   "Se non piovve"
+  ],
+  "answer": 2,
+  "explain": "\"uscirei\" (condizionale) → se + imperfetto congiuntivo: se non piovesse.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1fi5ydy",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "----, avrei comprato quella casa.",
+  "options": [
+   "Se ho avuto più soldi",
+   "Se avrei avuto più soldi",
+   "Se avessi più soldi",
+   "Se avessi avuto più soldi",
+   "Se avrò più soldi"
+  ],
+  "answer": 3,
+  "explain": "\"avrei comprato\" (condizionale passato) → se + trapassato congiuntivo: se avessi avuto.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-vflhz9",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Benché sia stanco, ----.",
+  "options": [
+   "continuava a lavorare",
+   "continui a lavorare",
+   "continuasse a lavorare",
+   "continuando a lavorare",
+   "continua a lavorare"
+  ],
+  "answer": 4,
+  "explain": "Benché takes the subjunctive in its OWN clause (sia); the main clause stays in the indicative.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-oua52o",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Affinché tutti capiscano, ----.",
+  "options": [
+   "il professore parlerà lentamente",
+   "il professore parlando lentamente",
+   "il professore parlò lentamente",
+   "il professore parlasse lentamente",
+   "il professore parli lentamente"
+  ],
+  "answer": 0,
+  "explain": "Affinché + congiuntivo goes in the subordinate clause only; the main clause is an ordinary indicative (parlerà).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1x44tvn",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Prima che il film cominci, ----.",
+  "options": [
+   "spegnessimo i telefoni",
+   "spegnevamo i telefoni",
+   "spegniamo i telefoni",
+   "avremmo spento i telefoni",
+   "spegnere i telefoni"
+  ],
+  "answer": 2,
+  "explain": "The subordinate clause is subjunctive; the main clause is a plain indicative in the present.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1om8lfp",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "A meno che non piova, ----.",
+  "options": [
+   "avremmo fatto la gita",
+   "abbiamo fatto la gita",
+   "facessimo la gita",
+   "fare la gita",
+   "faremo la gita"
+  ],
+  "answer": 4,
+  "explain": "A meno che non + congiuntivo is about the future, so the main clause is a future: faremo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1xekd33",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "È necessario che tu ----.",
+  "options": [
+   "vieni subito",
+   "verresti subito",
+   "venga subito",
+   "venivi subito",
+   "verrai subito"
+  ],
+  "answer": 2,
+  "explain": "\"È necessario che\" requires the congiuntivo presente: venga.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-maj40b",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Voglio che i miei figli ----.",
+  "options": [
+   "studino all'estero",
+   "studierebbero all'estero",
+   "studieranno all'estero",
+   "studiare all'estero",
+   "studiano all'estero"
+  ],
+  "answer": 0,
+  "explain": "\"Volere che\" + congiuntivo: studino.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-qske4i",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Purché tu ----, ti aiuterò.",
+  "options": [
+   "fai la tua parte",
+   "faccia la tua parte",
+   "facendo la tua parte",
+   "farai la tua parte",
+   "faresti la tua parte"
+  ],
+  "answer": 1,
+  "explain": "Purché (provided that) always takes the congiuntivo: faccia.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1i5hmxc",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Sebbene fosse tardi, ----.",
+  "options": [
+   "rimaniamo ancora un po'",
+   "rimarremmo ancora un po'",
+   "rimarremo ancora un po'",
+   "rimanessimo ancora un po'",
+   "siamo rimasti ancora un po'"
+  ],
+  "answer": 4,
+  "explain": "Sebbene fosse tardi is a past concession; the main clause is a past indicative (passato prossimo).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-vaecoc",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Il traffico era così intenso che ----.",
+  "options": [
+   "siamo arrivati in ritardo",
+   "abbiamo guidato più veloce del solito",
+   "il viaggio è stato rapidissimo",
+   "siamo arrivati in anticipo",
+   "eravamo molto contenti"
+  ],
+  "answer": 0,
+  "explain": "così… che introduces a consequence; heavy traffic leads to delay.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-p935id",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Poiché non aveva studiato, ----.",
+  "options": [
+   "tutti l'hanno lodato",
+   "non ha superato l'esame",
+   "ha vinto una borsa di studio",
+   "ha superato l'esame con il massimo dei voti",
+   "ha preso un voto altissimo"
+  ],
+  "answer": 1,
+  "explain": "poiché = since/because: not having studied explains failing the exam.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-8d5pxo",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Dato che il treno è in ritardo, ----.",
+  "options": [
+   "dobbiamo aspettare",
+   "siamo già arrivati",
+   "siamo partiti in anticipo",
+   "abbiamo già mangiato",
+   "il biglietto costa meno"
+  ],
+  "answer": 0,
+  "explain": "dato che = given that: a late train means we have to wait.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1os9agt",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Era talmente stanco che ----.",
+  "options": [
+   "aveva molta energia",
+   "non vedeva l'ora di correre",
+   "ha ballato fino all'alba",
+   "ha lavorato tutta la notte",
+   "si è addormentato subito"
+  ],
+  "answer": 4,
+  "explain": "talmente… che = so… that: tiredness leads to falling asleep.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1kvjuam",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Marco studia molto, mentre suo fratello ----.",
+  "options": [
+   "studia con altrettanto impegno",
+   "fa i compiti ogni giorno",
+   "legge molti libri di scuola",
+   "passa il tempo a giocare",
+   "prepara anche lui gli esami"
+  ],
+  "answer": 3,
+  "explain": "mentre = whereas: the second half must contrast with \"studia molto\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-gg9c3",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Nonostante la pioggia, ----.",
+  "options": [
+   "la partita è stata sospesa per la pioggia",
+   "è stato impossibile giocare",
+   "la partita si è giocata",
+   "il campo era troppo bagnato per giocare",
+   "gli spettatori sono rimasti a casa"
+  ],
+  "answer": 2,
+  "explain": "nonostante = despite: the main clause must go against the rain; the other four are consequences of rain.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-2ug80p",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Grazie al suo aiuto, ----.",
+  "options": [
+   "ho fallito l'esame",
+   "non ho capito niente",
+   "ho perso il lavoro",
+   "ho superato l'esame",
+   "tutto è peggiorato"
+  ],
+  "answer": 3,
+  "explain": "grazie a = thanks to: a positive result follows.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-bkklff",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "A causa del ritardo, ----.",
+  "options": [
+   "abbiamo guadagnato tempo",
+   "ci siamo riposati molto",
+   "abbiamo perso la coincidenza",
+   "abbiamo ricevuto un premio",
+   "siamo arrivati in anticipo"
+  ],
+  "answer": 2,
+  "explain": "a causa di = because of: a negative cause leads to a negative result.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-18ffg30",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Invece di studiare, ----.",
+  "options": [
+   "ha studiato tutta la notte",
+   "ha finito i compiti",
+   "ha preso appunti",
+   "ha ripassato la lezione",
+   "è andato al cinema"
+  ],
+  "answer": 4,
+  "explain": "invece di = instead of: the main clause must be something other than studying.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-tyfruw",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Senza aver letto il testo, ----.",
+  "options": [
+   "non ha potuto rispondere",
+   "ha citato molte frasi",
+   "ha scritto un riassunto perfetto",
+   "ha commentato ogni capitolo",
+   "ha capito ogni dettaglio"
+  ],
+  "answer": 0,
+  "explain": "senza aver + participle = without having…: the result is the inability to answer.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-qcoiek",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Pur essendo giovane, ----.",
+  "options": [
+   "ha ancora molto da imparare",
+   "è ancora inesperto",
+   "ha molta esperienza",
+   "ha poca esperienza",
+   "non sa niente"
+  ],
+  "answer": 2,
+  "explain": "pur + gerund = although: the main clause must contrast with youth.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-ixd4y0",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Dato che non c'erano posti liberi, ----.",
+  "options": [
+   "ci siamo seduti subito",
+   "abbiamo mangiato subito",
+   "abbiamo scelto il miglior tavolo",
+   "abbiamo prenotato per il giorno dopo",
+   "il ristorante era vuoto"
+  ],
+  "answer": 3,
+  "explain": "No free tables → we could not sit and had to book for another day.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1wjruxx",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Nonostante fosse malato, ----.",
+  "options": [
+   "ha cancellato tutti gli impegni",
+   "è andato al lavoro",
+   "ha preso un giorno di riposo",
+   "ha chiamato il medico",
+   "è rimasto a letto"
+  ],
+  "answer": 1,
+  "explain": "nonostante = despite: he did the opposite of what illness suggests.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-ci31l1",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Il governo ha ridotto le tasse, ----.",
+  "options": [
+   "perciò i cittadini hanno meno soldi",
+   "perciò i prezzi sono raddoppiati",
+   "perciò il clima è cambiato",
+   "perciò i cittadini hanno più soldi",
+   "perciò le scuole sono chiuse"
+  ],
+  "answer": 3,
+  "explain": "perciò = therefore: lower taxes leave citizens with more money.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-ft9xpd",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "----, non ho potuto partecipare alla riunione.",
+  "options": [
+   "Purché fossi malato",
+   "Affinché fossi malato",
+   "Sebbene ero malato",
+   "Poiché ero malato",
+   "Anche se fossi malato"
+  ],
+  "answer": 3,
+  "explain": "A real reason: poiché + indicativo. The other conjunctions give the wrong mood or the wrong logic.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1mteek8",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Quando ero piccolo, ----.",
+  "options": [
+   "vado spesso al mare",
+   "andavo spesso al mare",
+   "andassi spesso al mare",
+   "andrei spesso al mare",
+   "andrò spesso al mare"
+  ],
+  "answer": 1,
+  "explain": "Past habit → imperfetto: andavo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-djt2a7",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Appena arrivato a Roma, ----.",
+  "options": [
+   "telefonato a mia madre",
+   "ho telefonato a mia madre",
+   "telefonerei a mia madre",
+   "telefonando a mia madre",
+   "telefonassi a mia madre"
+  ],
+  "answer": 1,
+  "explain": "A past action → passato prossimo: ho telefonato.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1l2tnri",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Finché non avrai finito i compiti, ----.",
+  "options": [
+   "non usciresti",
+   "non uscirai",
+   "non sei uscito",
+   "non uscivi",
+   "non uscissi"
+  ],
+  "answer": 1,
+  "explain": "finché non + futuro anteriore (avrai finito) → future in the main clause.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1ljgm9r",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Più studio, ----.",
+  "options": [
+   "imparo più che",
+   "meno imparo",
+   "più imparerei",
+   "tanto imparo",
+   "più imparo"
+  ],
+  "answer": 4,
+  "explain": "più… più… = the more… the more…",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-ndro6x",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Quanto più leggi, ----.",
+  "options": [
+   "tanto più impari",
+   "più tanto impari",
+   "quanto più impari",
+   "così più impari",
+   "tanto meno impari"
+  ],
+  "answer": 0,
+  "explain": "quanto più… tanto più… = the more… the more…",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1usgi1e",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Il libro è stato scritto ----.",
+  "options": [
+   "a un autore sconosciuto",
+   "con un autore sconosciuto",
+   "da un autore sconosciuto",
+   "per un autore sconosciuto",
+   "di un autore sconosciuto"
+  ],
+  "answer": 2,
+  "explain": "The agent of a passive verb takes da.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1bhu5r1",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "In Italia si ----.",
+  "options": [
+   "è mangiato molta pasta",
+   "si mangiano molta pasta",
+   "mangiamo molta pasta",
+   "mangiano molta pasta",
+   "mangia molta pasta"
+  ],
+  "answer": 4,
+  "explain": "si impersonale/passivante + singular noun (pasta) → third person singular: mangia.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-jhat2n",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Chi vuole superare l'esame ----.",
+  "options": [
+   "deve studiare ogni giorno",
+   "devono studiare ogni giorno",
+   "dovete studiare ogni giorno",
+   "devi studiare ogni giorno",
+   "dobbiamo studiare ogni giorno"
+  ],
+  "answer": 0,
+  "explain": "\"Chi\" takes a third person singular verb.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-iiefha",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Non appena ----, ti telefono.",
+  "options": [
+   "arrivo a casa",
+   "arriverei a casa",
+   "arrivassi a casa",
+   "arrivare a casa",
+   "sono arrivato a casa ieri"
+  ],
+  "answer": 0,
+  "explain": "non appena + presente when the action is in the near future, with a present main clause.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-3bz8xw",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Ho cercato le chiavi dappertutto, ----.",
+  "options": [
+   "perché le ho trovate",
+   "ma non le trovassi",
+   "ma non le ho trovate",
+   "ma non l'ho trovato",
+   "e le troverei"
+  ],
+  "answer": 2,
+  "explain": "Direct object pronoun agrees with \"chiavi\": le … trovate.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1k5r9i9",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 3,
+  "prompt": "Mi piacerebbe viaggiare di più, ----.",
+  "options": [
+   "perciò ho molti soldi",
+   "ma non ho abbastanza soldi",
+   "quindi parto domani",
+   "così non voglio partire",
+   "infatti ho già viaggiato molto"
+  ],
+  "answer": 1,
+  "explain": "The sentence expresses a wish; ma introduces the obstacle.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1wwgz6y",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Per quanto ----, non riesco a capire.",
+  "options": [
+   "mi sforzi",
+   "mi sforzo",
+   "mi sforzerei",
+   "mi sforzavo",
+   "mi sforzerò"
+  ],
+  "answer": 0,
+  "explain": "per quanto + congiuntivo = however much: mi sforzi.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-98agcx",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Qualunque cosa ----, resterò con te.",
+  "options": [
+   "accadrà",
+   "accade",
+   "accada",
+   "accadrebbe",
+   "accadendo"
+  ],
+  "answer": 2,
+  "explain": "Qualunque cosa + congiuntivo: accada.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-k-1oip98y",
+  "section": "completion",
+  "topic": "exam.completion",
+  "level": 4,
+  "prompt": "Chiunque ----, non aprire la porta.",
+  "options": [
+   "bussa",
+   "busserà",
+   "bussando",
+   "bussi",
+   "busserebbe"
+  ],
+  "answer": 3,
+  "explain": "Chiunque + congiuntivo: bussi.",
+  "source": "hand",
+  "verified": true
  }
 ]
