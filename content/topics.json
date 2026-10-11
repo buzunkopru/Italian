@@ -8,5 +8,9 @@
   "exam.completion": "Exam: sentence completion",
   "exam.dialogue": "Exam: dialogue completion",
   "exam.paraphrase": "Exam: paraphrase",
-  "exam.reading": "Exam: reading passages"
+  "exam.reading": "Exam: reading passages",
+  "exam.grammar": "Exam: grammar",
+  "exam.translation": "Exam: translation",
+  "exam.paragraph": "Exam: paragraph completion",
+  "exam.irrelevant": "Exam: irrelevant sentence"
 }

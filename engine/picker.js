@@ -43,6 +43,7 @@ export function pickQuestions({ pool, history, n, rng = Math.random, exclude = n
 
 /** Copy of q with options in random order and `answer` re-pointed. */
 export function shuffleOptions(q, rng = Math.random) {
+  if (q.ordered) return q; // options like "Frase 1…5" keep their order
   const idx = shuffle(q.options.map((_, i) => i), rng);
   return { ...q, options: idx.map((i) => q.options[i]), answer: idx.indexOf(q.answer) };
 }

@@ -6,6 +6,10 @@ import { EXAM_COMPLETION } from './handwritten/exam-completion.js';
 import { EXAM_DIALOGUE } from './handwritten/exam-dialogue.js';
 import { EXAM_PARAPHRASE } from './handwritten/exam-paraphrase.js';
 import { EXAM_READING } from './handwritten/exam-reading.js';
+import { EXAM_GRAMMAR } from './handwritten/exam-grammar.js';
+import { EXAM_TRANSLATION } from './handwritten/exam-translation.js';
+import { EXAM_PARAGRAPH } from './handwritten/exam-paragraph.js';
+import { EXAM_IRRELEVANT } from './handwritten/exam-irrelevant.js';
 import { hash } from './util.js';
 import { shuffle } from '../engine/picker.js';
 
@@ -78,6 +82,41 @@ export function readingQuestions(rng) {
   return out;
 }
 
+export function grammarQuestions(rng) {
+  return EXAM_GRAMMAR.map(([level, prompt, answer, wrong, explain]) =>
+    build({ section: 'grammar', topic: 'exam.grammar', level, prompt, answer, wrong, explain, rng, tag: 'g' }));
+}
+
+export function translationQuestions(rng) {
+  return EXAM_TRANSLATION.map(([level, dir, sentence, answer, wrong, explain]) =>
+    build({ section: 'translation', topic: 'exam.translation', level, prompt: `${dir === 'en-it' ? 'Best Italian version of:' : 'Best English version of:'}\n${sentence}`, answer, wrong, explain, rng, tag: 't' }));
+}
+
+export function paragraphQuestions(rng) {
+  return EXAM_PARAGRAPH.map(([level, prompt, answer, wrong, explain]) =>
+    build({ section: 'paragraph', topic: 'exam.paragraph', level, prompt, answer, wrong, explain, rng, tag: 'q' }));
+}
+
+/** "Which sentence does not belong?" The options are the sentence numbers, so they stay in order. */
+export function irrelevantQuestions() {
+  return EXAM_IRRELEVANT.map(([level, sentences, odd, explain]) => {
+    const prompt = `Quale frase non appartiene al paragrafo?\n${sentences.map((s, i) => `(${i + 1}) ${s}`).join('\n')}`;
+    return {
+      id: `x-i-${hash(prompt)}`,
+      section: 'irrelevant',
+      topic: 'exam.irrelevant',
+      level,
+      prompt,
+      options: [1, 2, 3, 4, 5].map((n) => `Frase ${n}`),
+      answer: odd - 1,
+      explain,
+      source: 'hand',
+      verified: true,
+      ordered: true,
+    };
+  });
+}
+
 export function generate(rng) {
-  return [...vocabQuestions(rng), ...clozeQuestions(rng), ...completionQuestions(rng), ...dialogueQuestions(rng), ...paraphraseQuestions(rng), ...readingQuestions(rng)];
+  return [...vocabQuestions(rng), ...clozeQuestions(rng), ...completionQuestions(rng), ...dialogueQuestions(rng), ...paraphraseQuestions(rng), ...readingQuestions(rng), ...grammarQuestions(rng), ...translationQuestions(rng), ...paragraphQuestions(rng), ...irrelevantQuestions()];
 }

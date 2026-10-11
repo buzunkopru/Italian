@@ -5566,5 +5566,1856 @@
   "verified": true,
   "passage": "Da anni si discute se gli esami scritti siano il modo migliore per valutare gli studenti. I sostenitori sottolineano che una prova uguale per tutti garantisce equità e permette di confrontare i risultati. I critici, invece, osservano che molte prove misurano soprattutto la capacità di ricordare nozioni a breve termine, mentre trascurano abilità come la creatività e il lavoro di gruppo. Alcune scuole hanno quindi introdotto progetti e presentazioni orali accanto agli esami tradizionali. Non è chiaro, tuttavia, se questo metodo sia davvero più giusto: valutare un lavoro creativo richiede criteri che possono variare da insegnante a insegnante.",
   "group": "read-esami"
+ },
+ {
+  "id": "x-g-s9l0i0",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Marco ieri sera ---- a teatro con i suoi amici.",
+  "options": [
+   "ha andato",
+   "è andata",
+   "sono andato",
+   "andato",
+   "è andato"
+  ],
+  "answer": 4,
+  "explain": "\"andare\" takes essere and agrees with the subject: Marco → è andato.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-im4ey7",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Mi piace ---- musica classica.",
+  "options": [
+   "il",
+   "lo",
+   "gli",
+   "la",
+   "le"
+  ],
+  "answer": 3,
+  "explain": "\"musica\" is feminine singular → la.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-12jmu1z",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Vado ---- università ogni giorno.",
+  "options": [
+   "nell'",
+   "alla",
+   "sull'",
+   "all'",
+   "dall'"
+  ],
+  "answer": 3,
+  "explain": "a + l' = all'; \"andare all'università\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-obfm4o",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Sono nato ---- Napoli nel 1990.",
+  "options": [
+   "a",
+   "su",
+   "da",
+   "in",
+   "di"
+  ],
+  "answer": 0,
+  "explain": "Cities take a: nato a Napoli.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-s1micn",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Abito ---- Italia da tre anni.",
+  "options": [
+   "da",
+   "a",
+   "in",
+   "su",
+   "di"
+  ],
+  "answer": 2,
+  "explain": "Countries take in: abito in Italia.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-hcmx5w",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Questo libro appartiene ---- mia sorella.",
+  "options": [
+   "alla",
+   "sulla",
+   "nella",
+   "della",
+   "dalla"
+  ],
+  "answer": 0,
+  "explain": "\"appartenere a\" + la → alla.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-4pywyz",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Penso ---- te ogni giorno.",
+  "options": [
+   "su",
+   "per",
+   "a",
+   "di",
+   "in"
+  ],
+  "answer": 2,
+  "explain": "\"pensare a qualcuno\" = to think about someone (pensare di = to have an opinion of).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-4twuss",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Ho bisogno ---- aiuto.",
+  "options": [
+   "di",
+   "per",
+   "a",
+   "da",
+   "su"
+  ],
+  "answer": 0,
+  "explain": "\"avere bisogno di\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-8t19d7",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Se ---- più tempo, verrei volentieri.",
+  "options": [
+   "abbia",
+   "avrò",
+   "avrei",
+   "ho",
+   "avessi"
+  ],
+  "answer": 4,
+  "explain": "Condizionale (verrei) pairs with se + imperfetto congiuntivo: avessi.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-18rhlnf",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Sebbene ---- freddo, siamo usciti a fare una passeggiata.",
+  "options": [
+   "faceva",
+   "farebbe",
+   "facesse",
+   "faccia",
+   "fa"
+  ],
+  "answer": 2,
+  "explain": "Sebbene takes the congiuntivo, and the main verb is past → imperfetto congiuntivo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-13v2lu3",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Mentre ---- la cena, è squillato il telefono.",
+  "options": [
+   "ho preparato",
+   "preparerò",
+   "preparavo",
+   "preparo",
+   "preparassi"
+  ],
+  "answer": 2,
+  "explain": "An action in progress interrupted by another → imperfetto.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1cmnpcw",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Quando sono arrivato, loro ---- già partiti.",
+  "options": [
+   "fossero",
+   "sono",
+   "siano",
+   "saranno",
+   "erano"
+  ],
+  "answer": 4,
+  "explain": "Trapassato prossimo: erano partiti, an action before another past action.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-u9eoa8",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Domani ---- a trovarti.",
+  "options": [
+   "venni",
+   "venivo",
+   "verrò",
+   "sono venuto",
+   "venissi"
+  ],
+  "answer": 2,
+  "explain": "A future action → futuro semplice.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-bbr19b",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Il libro ---- ho letto ieri è bellissimo.",
+  "options": [
+   "dove",
+   "chi",
+   "che",
+   "quale",
+   "cui"
+  ],
+  "answer": 2,
+  "explain": "Direct object relative → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1g7td1i",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "La città ---- sono nato è molto antica.",
+  "options": [
+   "di cui",
+   "in cui",
+   "chi",
+   "che",
+   "quanto"
+  ],
+  "answer": 1,
+  "explain": "\"nascere in\" a place → in cui.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1mvrkta",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "È la ragazza ---- ho parlato ieri.",
+  "options": [
+   "con cui",
+   "in cui",
+   "che",
+   "di cui",
+   "a cui"
+  ],
+  "answer": 0,
+  "explain": "\"parlare con qualcuno\" → con cui.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-hjuvq8",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Ci siamo ---- ieri al parco.",
+  "options": [
+   "incontrati",
+   "incontrare",
+   "incontrato",
+   "incontri",
+   "incontrando"
+  ],
+  "answer": 0,
+  "explain": "Reciprocal verbs take essere and agree with the plural subject.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1xr0w9z",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Le ragazze sono ---- tardi.",
+  "options": [
+   "arrivate",
+   "arrivato",
+   "arrivata",
+   "arrivando",
+   "arrivati"
+  ],
+  "answer": 0,
+  "explain": "\"arrivare\" takes essere and agrees: le ragazze → arrivate.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-yxunwh",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Preferirei ---- a casa piuttosto che uscire.",
+  "options": [
+   "restassi",
+   "restare",
+   "resto",
+   "rimasto",
+   "resterei"
+  ],
+  "answer": 1,
+  "explain": "\"preferirei\" + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-3p8l14",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Se non ---- così tardi, avremmo preso il treno.",
+  "options": [
+   "fossimo arrivati",
+   "saremmo arrivati",
+   "arrivassimo",
+   "eravamo arrivati",
+   "siamo arrivati"
+  ],
+  "answer": 0,
+  "explain": "Condizionale passato (avremmo preso) pairs with se + trapassato congiuntivo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-ii1bm0",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "È stato premiato il ragazzo ---- ha salvato il bambino.",
+  "options": [
+   "dove",
+   "quale",
+   "che",
+   "chi",
+   "cui"
+  ],
+  "answer": 2,
+  "explain": "Subject relative → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1matkkj",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Mia nonna, ---- ha ottant'anni, cammina ancora tutti i giorni.",
+  "options": [
+   "quale",
+   "dove",
+   "cui",
+   "chi",
+   "che"
+  ],
+  "answer": 4,
+  "explain": "Subject relative → che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1acn4jf",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Gli ho dato il libro e ---- ho detto di leggerlo.",
+  "options": [
+   "le",
+   "li",
+   "gli",
+   "lo",
+   "ci"
+  ],
+  "answer": 2,
+  "explain": "Indirect object \"a lui\" → gli.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-hp1ykg",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Hai visto Maria? Sì, ---- ho vista ieri.",
+  "options": [
+   "la",
+   "le",
+   "l'",
+   "gli",
+   "ne"
+  ],
+  "answer": 2,
+  "explain": "Direct object la elides before ho: l'ho vista (and agrees: vista).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-16zuual",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Quanti libri hai letto? ---- ho letti tre.",
+  "options": [
+   "Li",
+   "Gli",
+   "Lo",
+   "Ci",
+   "Ne"
+  ],
+  "answer": 4,
+  "explain": "\"ne\" replaces the quantity: Ne ho letti tre.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1y9vnp2",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Vai al mercato? ---- vado domani.",
+  "options": [
+   "Le",
+   "Lo",
+   "Gli",
+   "Ci",
+   "Ne"
+  ],
+  "answer": 3,
+  "explain": "\"ci\" replaces a place: Ci vado.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-i1szuc",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Il documento ---- stato firmato ieri.",
+  "options": [
+   "avrà",
+   "ha",
+   "è",
+   "sia",
+   "fu"
+  ],
+  "answer": 2,
+  "explain": "Passato prossimo passive: è stato firmato.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-88zcp8",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Le lettere ---- state spedite ieri.",
+  "options": [
+   "siano",
+   "hanno",
+   "saranno",
+   "sono",
+   "sia"
+  ],
+  "answer": 3,
+  "explain": "Passato prossimo passive, plural: sono state spedite.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1lpwj8y",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Si ---- molte lingue in Svizzera.",
+  "options": [
+   "parlato",
+   "parlando",
+   "parlano",
+   "parla",
+   "parlare"
+  ],
+  "answer": 2,
+  "explain": "si passivante: the verb agrees with the plural noun \"lingue\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-3rlod5",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 2,
+  "prompt": "Quando ---- piccolo, andavo sempre dai nonni.",
+  "options": [
+   "sia",
+   "fossi",
+   "sono",
+   "ero",
+   "sarò"
+  ],
+  "answer": 3,
+  "explain": "A past state or habit → imperfetto.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1dqvruz",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Penso di ---- un errore.",
+  "options": [
+   "fatto",
+   "avendo fatto",
+   "aver fatto",
+   "fare avendo",
+   "faccio"
+  ],
+  "answer": 2,
+  "explain": "Same subject: di + infinito passato (aver fatto) for a past action.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-13dgrlb",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Dopo ---- il lavoro, sono tornato a casa.",
+  "options": [
+   "finisco",
+   "finire",
+   "finendo",
+   "aver finito",
+   "aver finire"
+  ],
+  "answer": 3,
+  "explain": "dopo + infinito passato (aver + participle).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-9ab769",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Marco si è ---- molto alla festa.",
+  "options": [
+   "divertito",
+   "divertita",
+   "divertiti",
+   "divertire",
+   "divertendo"
+  ],
+  "answer": 0,
+  "explain": "Reflexive verbs take essere; Marco is masculine singular → divertito.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1by2uy1",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Ha parlato come se ---- tutto.",
+  "options": [
+   "sapesse",
+   "saprà",
+   "saprebbe",
+   "sa",
+   "ha saputo"
+  ],
+  "answer": 0,
+  "explain": "come se + imperfetto congiuntivo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-xdtbn0",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Era necessario che ---- tutti.",
+  "options": [
+   "parteciperebbero",
+   "partecipavano",
+   "partecipassero",
+   "partecipano",
+   "partecipino"
+  ],
+  "answer": 2,
+  "explain": "The main verb is past → imperfetto congiuntivo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1t8m2b6",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Per quanto lui ---- ricco, non è felice.",
+  "options": [
+   "sarà",
+   "essendo",
+   "sia",
+   "è",
+   "sarebbe"
+  ],
+  "answer": 2,
+  "explain": "Per quanto + congiuntivo presente.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-wfce2j",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Quel ragazzo, ---- padre è medico, studia legge.",
+  "options": [
+   "cui",
+   "il quale",
+   "che",
+   "di cui",
+   "il cui"
+  ],
+  "answer": 4,
+  "explain": "\"il cui padre\" = whose father; cui is preceded by the article and agrees with the thing possessed.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-10y1sdk",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Gli studenti, ---- ho parlato, erano preoccupati.",
+  "options": [
+   "cui",
+   "dove",
+   "quali",
+   "con cui",
+   "che"
+  ],
+  "answer": 3,
+  "explain": "\"parlare con\" + cui; \"che\" cannot follow a preposition.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-1e55t06",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Prima di ----, controlla sempre la mappa.",
+  "options": [
+   "parti",
+   "partendo",
+   "partito",
+   "partire",
+   "partì"
+  ],
+  "answer": 3,
+  "explain": "prima di + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-127neq0",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Ha detto di ---- stanco.",
+  "options": [
+   "fosse",
+   "è",
+   "essere",
+   "sia",
+   "essendo"
+  ],
+  "answer": 2,
+  "explain": "Same subject: dire di + infinitive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-v8w03r",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Non appena ---- finito, ti chiamo.",
+  "options": [
+   "avevo",
+   "ebbi",
+   "abbia",
+   "avessi",
+   "avrò"
+  ],
+  "answer": 4,
+  "explain": "Future perfect (avrò finito) for an action completed before a future one.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-3yknvl",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Benché ---- molto tardi, siamo rimasti a parlare.",
+  "options": [
+   "fu",
+   "sarebbe",
+   "era",
+   "sia",
+   "fosse"
+  ],
+  "answer": 4,
+  "explain": "Benché + congiuntivo; past context → imperfetto congiuntivo.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-13032zd",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "Maria è più alta ---- sua sorella.",
+  "options": [
+   "a",
+   "di",
+   "come",
+   "da",
+   "che"
+  ],
+  "answer": 1,
+  "explain": "Comparing two persons → più… di.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-j6wosz",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 3,
+  "prompt": "In Italia si mangia più pasta ---- riso.",
+  "options": [
+   "che",
+   "quanto",
+   "a",
+   "di",
+   "da"
+  ],
+  "answer": 0,
+  "explain": "Comparing two nouns → più… che.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-g-9bv1ty",
+  "section": "grammar",
+  "topic": "exam.grammar",
+  "level": 4,
+  "prompt": "Domani, se ---- bel tempo, andremo al mare.",
+  "options": [
+   "faccia",
+   "facesse",
+   "avrebbe fatto",
+   "farebbe",
+   "farà"
+  ],
+  "answer": 4,
+  "explain": "Real possibility: se + futuro (or presente) with a future main clause.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-qos8j8",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best Italian version of:\nI have been living in Rome for three years.",
+  "options": [
+   "Abito a Roma da tre anni.",
+   "Ho abitato a Roma per tre anni.",
+   "Abiterò a Roma tra tre anni.",
+   "Abito a Roma fra tre anni.",
+   "Abitavo a Roma tre anni fa."
+  ],
+  "answer": 0,
+  "explain": "\"since/for + still true\" = presente + da. \"Ho abitato per tre anni\" would mean it is over.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-10to6y1",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best Italian version of:\nIf I had known, I would not have come.",
+  "options": [
+   "Se l'avessi saputo, non sarei venuto.",
+   "Se lo so, non sarei venuto.",
+   "Se l'avessi saputo, non verrei.",
+   "Se lo saprò, non verrò.",
+   "Se lo avrei saputo, non sarei venuto."
+  ],
+  "answer": 0,
+  "explain": "Unreal past: se + trapassato congiuntivo, condizionale passato. Never \"se\" + condizionale.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-zjxa0t",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best Italian version of:\nShe is used to getting up early.",
+  "options": [
+   "Era abituata a svegliare presto.",
+   "Si è abituata a tardi.",
+   "Sta abituandosi ad alzarsi tardi.",
+   "È abituata ad alzarsi presto.",
+   "Si alzava presto una volta."
+  ],
+  "answer": 3,
+  "explain": "essere abituato a + infinitive = to be used to doing.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-k1p02",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best Italian version of:\nHe told me that he would come tomorrow.",
+  "options": [
+   "Mi dirà che sarebbe venuto domani.",
+   "Mi ha detto che sarebbe venuto domani.",
+   "Mi ha detto che venne domani.",
+   "Mi ha detto che è venuto ieri.",
+   "Mi dice che veniva domani."
+  ],
+  "answer": 1,
+  "explain": "Future in the past → condizionale passato: sarebbe venuto.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1ngu61h",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best Italian version of:\nThe more I study, the more I learn.",
+  "options": [
+   "Studio più, imparo più di.",
+   "Meno studio, più imparo.",
+   "Più studio, più imparo.",
+   "Più studio, meno imparo.",
+   "Tanto studio, tanto imparo che."
+  ],
+  "answer": 2,
+  "explain": "più… più… = the more… the more…",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-18p7pf7",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best Italian version of:\nHe is taller than his brother.",
+  "options": [
+   "È meno alto di suo fratello.",
+   "È alto come suo fratello.",
+   "È più alto di suo fratello.",
+   "È più alto che suo fratello.",
+   "È il più alto di suo fratello."
+  ],
+  "answer": 2,
+  "explain": "più + adjective + di + noun.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1hibbs0",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best Italian version of:\nI have just arrived.",
+  "options": [
+   "Sono appena arrivato.",
+   "Appena arrivo.",
+   "Sono arrivato da appena.",
+   "Ho appena arrivato.",
+   "Arrivo appena."
+  ],
+  "answer": 0,
+  "explain": "\"arrivare\" takes essere.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1sgtap9",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best Italian version of:\nNobody knows the answer.",
+  "options": [
+   "Qualcuno conosce la risposta.",
+   "Nessuno non conosce la risposta.",
+   "Tutti conoscono la risposta.",
+   "Non nessuno conosce la risposta.",
+   "Nessuno conosce la risposta."
+  ],
+  "answer": 4,
+  "explain": "Nessuno before the verb takes no \"non\".",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-pwtuw",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best Italian version of:\nI am looking forward to seeing you.",
+  "options": [
+   "Sto guardando avanti per vederti.",
+   "Cerco di vederti avanti.",
+   "Guardo avanti a te.",
+   "Spero di non vederti.",
+   "Non vedo l'ora di vederti."
+  ],
+  "answer": 4,
+  "explain": "\"Non vedo l'ora di\" = I can't wait to.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1jwaw59",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best Italian version of:\nIt depends on the weather.",
+  "options": [
+   "Dipende dal tempo.",
+   "Dipende al tempo.",
+   "Dipende del tempo.",
+   "Dipende nel tempo.",
+   "Dipende per il tempo."
+  ],
+  "answer": 0,
+  "explain": "dipendere da.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-dmzg60",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best Italian version of:\nWe should have left earlier.",
+  "options": [
+   "Avremmo dovuto partire prima.",
+   "Siamo dovuti partire prima.",
+   "Dobbiamo partire prima.",
+   "Dovremmo partire prima.",
+   "Abbiamo dovuto partire prima."
+  ],
+  "answer": 0,
+  "explain": "\"should have\" (a missed obligation) → condizionale passato of dovere.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-3js27f",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best Italian version of:\nThe book was written by a famous author.",
+  "options": [
+   "Il libro è scritto di un autore famoso.",
+   "Il libro scrive un autore famoso.",
+   "Un autore famoso ha scritto da il libro.",
+   "Il libro ha scritto da un autore famoso.",
+   "Il libro è stato scritto da un autore famoso."
+  ],
+  "answer": 4,
+  "explain": "Passive: essere + participle + da.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-4jdfyd",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best Italian version of:\nI used to play football when I was young.",
+  "options": [
+   "Giocavo a calcio quando ero giovane.",
+   "Gioco a calcio da giovane.",
+   "Giocherò a calcio quando sarò giovane.",
+   "Sono abituato a calcio.",
+   "Giocassi a calcio da giovane."
+  ],
+  "answer": 0,
+  "explain": "\"used to\" = imperfetto.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-6f5jom",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best Italian version of:\nHe pretended to be asleep.",
+  "options": [
+   "Pretendeva di essere sveglio.",
+   "Ha voluto dormire.",
+   "Ha finto di essere sveglio.",
+   "Ha fatto finta di dormire.",
+   "Ha preteso di dormire."
+  ],
+  "answer": 3,
+  "explain": "False friend: pretendere = to demand. To pretend = fingere / far finta.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1xui1v7",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best Italian version of:\nI am actually very tired.",
+  "options": [
+   "Veramente sono poco stanco.",
+   "Solo adesso sono stanco.",
+   "Davvero non sono stanco.",
+   "In realtà sono molto stanco.",
+   "Attualmente sono molto stanco."
+  ],
+  "answer": 3,
+  "explain": "False friend: attualmente = currently. Actually = in realtà / in effetti.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1f5k9mr",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best Italian version of:\nShe is very sensible.",
+  "options": [
+   "È molto sensitiva.",
+   "È molto sentimentale.",
+   "È molto sensibile.",
+   "È molto sensuale.",
+   "È molto ragionevole."
+  ],
+  "answer": 4,
+  "explain": "False friend: sensibile = sensitive. Sensible = ragionevole / sensato.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1mpk5nx",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best English version of:\nFaccio il medico da dieci anni.",
+  "options": [
+   "I make the doctor ten years ago.",
+   "I will be a doctor in ten years.",
+   "I have been a doctor for ten years.",
+   "I was a doctor ten years ago.",
+   "I did the doctor for ten years."
+  ],
+  "answer": 2,
+  "explain": "presente + da = for / since, still true.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1vrcnmb",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best English version of:\nHo incontrato per caso un vecchio amico.",
+  "options": [
+   "I ran into an old friend by chance.",
+   "An old friend met me by case.",
+   "I met a friend of old age by chance.",
+   "I have an old friend by chance.",
+   "I met an old friend on purpose."
+  ],
+  "answer": 0,
+  "explain": "per caso = by chance.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-rlb8w9",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best English version of:\nNon vedo l'ora di partire.",
+  "options": [
+   "I never see when to leave.",
+   "I do not want to leave.",
+   "I can't wait to leave.",
+   "I don't see the hour to leave.",
+   "I am not looking at the time to leave."
+  ],
+  "answer": 2,
+  "explain": "Idiom: non vedere l'ora di = can't wait to.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1aopjim",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best English version of:\nHa ottenuto la laurea l'anno scorso.",
+  "options": [
+   "He graduated three years ago.",
+   "He has to graduate next year.",
+   "He obtained the laurel last year.",
+   "He got his degree last year.",
+   "He got a lawyer last year."
+  ],
+  "answer": 3,
+  "explain": "laurea = university degree (not \"laurel\").",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-btputt",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best English version of:\nIl film mi ha deluso.",
+  "options": [
+   "The film deluded me.",
+   "The film disappointed me.",
+   "The film pleased me.",
+   "I deluded the film.",
+   "The film made me laugh."
+  ],
+  "answer": 1,
+  "explain": "False friend: deludere = to disappoint. To delude = illudere.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-i5m72j",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best English version of:\nIl direttore ha ritirato le dimissioni.",
+  "options": [
+   "The director has retired.",
+   "The director accepted the resignation.",
+   "The director retired from the dismissals.",
+   "The director withdrew his resignation.",
+   "The director dismissed everyone."
+  ],
+  "answer": 3,
+  "explain": "ritirare = to withdraw; dimissioni = resignation.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1gnems9",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best English version of:\nSto per uscire.",
+  "options": [
+   "I am for going out.",
+   "I am staying to go out.",
+   "I was going out.",
+   "I have gone out.",
+   "I am about to go out."
+  ],
+  "answer": 4,
+  "explain": "stare per + infinitive = to be about to.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-uslyi9",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best English version of:\nHo già mangiato.",
+  "options": [
+   "I am eating again.",
+   "I will eat already.",
+   "I already eat.",
+   "I have already eaten.",
+   "I did not eat yet."
+  ],
+  "answer": 3,
+  "explain": "già = already; ho mangiato = I have eaten.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-emu8yb",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best English version of:\nMi dispiace, non ho potuto aiutarti.",
+  "options": [
+   "I'm sorry, I didn't want to help you.",
+   "I'm sorry, I couldn't help you.",
+   "I'm sorry, I can't help you.",
+   "I'm sorry, you could not help me.",
+   "I'm sorry, I will not help you."
+  ],
+  "answer": 1,
+  "explain": "Past inability: non ho potuto = I could not (and did not).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1p6rcv2",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best English version of:\nParla italiano perché è nato in Italia.",
+  "options": [
+   "He was born in Italy and doesn't speak Italian.",
+   "He speaks Italian so he was born in Italy.",
+   "He speaks Italian although he was born in Italy.",
+   "He speaks Italian when he was born in Italy.",
+   "He speaks Italian because he was born in Italy."
+  ],
+  "answer": 4,
+  "explain": "perché = because (cause).",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-19s30he",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 3,
+  "prompt": "Best English version of:\nDopo aver mangiato, siamo usciti.",
+  "options": [
+   "We ate and then stayed home.",
+   "After eating, we went out.",
+   "Before eating, we went out.",
+   "While eating, we went out.",
+   "After we will eat, we went out."
+  ],
+  "answer": 1,
+  "explain": "dopo aver + participle = after doing.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-1c0n78w",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best English version of:\nSi è rotto il computer, quindi non posso lavorare.",
+  "options": [
+   "My computer is working, so I can't work.",
+   "The computer will break, so I will not work.",
+   "My computer has broken down, but I can work.",
+   "I broke my computer, because I cannot work.",
+   "My computer has broken down, so I can't work."
+  ],
+  "answer": 4,
+  "explain": "quindi = so/therefore; si è rotto = has broken down.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-uzghug",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best English version of:\nNonostante la pioggia, abbiamo fatto una passeggiata.",
+  "options": [
+   "Thanks to the rain, we went for a walk.",
+   "After the rain, we did not go for a walk.",
+   "Because of the rain, we went for a walk.",
+   "Despite the rain, we went for a walk.",
+   "During the rain, we stayed at home."
+  ],
+  "answer": 3,
+  "explain": "nonostante = despite.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-t-u6ujs7",
+  "section": "translation",
+  "topic": "exam.translation",
+  "level": 4,
+  "prompt": "Best English version of:\nSe avessi tempo, ti aiuterei.",
+  "options": [
+   "If I have time, I will help you.",
+   "If I had time, I would help you.",
+   "When I have time, I help you.",
+   "If I had time, I helped you.",
+   "If I had had time, I would have helped you."
+  ],
+  "answer": 1,
+  "explain": "se + imperfetto congiuntivo, condizionale = second conditional.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-1oqjbam",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 3,
+  "prompt": "Molte persone pensano che il caffè faccia male alla salute. ---- Alcuni studi suggeriscono addirittura che possa ridurre il rischio di certe malattie. Naturalmente è meglio non esagerare.",
+  "options": [
+   "Il tè, invece, contiene più zucchero del caffè.",
+   "Tutti dovrebbero berne almeno dieci tazze al giorno.",
+   "Per questo molti medici lo vietano completamente.",
+   "In realtà, bevuto con moderazione, non sembra causare danni.",
+   "Il caffè è nato in Italia nel Seicento."
+  ],
+  "answer": 3,
+  "explain": "\"addirittura\" adds to a reassuring claim; \"meglio non esagerare\" confirms moderation.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-15lsndi",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 4,
+  "prompt": "Le api sono fondamentali per l'agricoltura. ---- Senza di loro, molte colture produrrebbero molto meno. Per questo la scomparsa delle api preoccupa gli scienziati.",
+  "options": [
+   "Le api producono il miele in primavera e in estate.",
+   "Il miele è più dolce dello zucchero.",
+   "Impollinano infatti una grande quantità di piante da cui dipende la produzione di cibo.",
+   "Le api vivono soltanto nelle città.",
+   "Gli scienziati preferiscono studiare gli uccelli."
+  ],
+  "answer": 2,
+  "explain": "\"Senza di loro\" needs the reason crops depend on bees: pollination.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-wsmhlp",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 3,
+  "prompt": "Imparare una lingua straniera richiede costanza. ---- Chi studia venti minuti ogni giorno ottiene risultati migliori di chi studia tre ore una volta alla settimana. La regolarità conta più della quantità.",
+  "options": [
+   "Le lingue straniere sono tutte molto simili.",
+   "Conviene studiare solo prima degli esami.",
+   "Non serve studiare molto in una volta sola, ma farlo spesso.",
+   "Chi ha talento non ha bisogno di studiare.",
+   "Basta un weekend di studio intensivo."
+  ],
+  "answer": 2,
+  "explain": "The following sentences compare daily short study with one long session.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-1qhvg0v",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 4,
+  "prompt": "Negli ultimi anni il lavoro a distanza è aumentato in molti settori. ---- Tuttavia non tutte le professioni possono svolgersi da casa: un medico o un muratore, per esempio, devono essere presenti.",
+  "options": [
+   "Tutti i lavori richiedono la presenza fisica.",
+   "Il lavoro a distanza è stato vietato dalla legge.",
+   "Gli uffici sono sempre pieni di persone.",
+   "I muratori preferiscono lavorare di notte.",
+   "Molte aziende hanno scoperto che i dipendenti possono lavorare bene anche senza andare in ufficio."
+  ],
+  "answer": 4,
+  "explain": "\"Tuttavia\" introduces a limit to a positive statement about remote work.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-1ezre49",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 3,
+  "prompt": "Il fiume è stato per secoli la principale via di comunicazione della regione. ---- Oggi, con le strade e le ferrovie, il suo ruolo è molto diminuito, ma resta importante per il turismo.",
+  "options": [
+   "I turisti non visitano mai le rive del fiume.",
+   "Il fiume è molto lontano dal mare.",
+   "Il fiume oggi è completamente asciutto.",
+   "Le ferrovie sono state costruite prima della nascita delle città.",
+   "Lungo le sue rive sorsero città e mercati che vivevano del trasporto delle merci."
+  ],
+  "answer": 4,
+  "explain": "\"Oggi… il suo ruolo è molto diminuito\" contrasts with a past in which the river was central.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-yoe2ew",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 4,
+  "prompt": "Non tutti sanno che anche il cervello ha bisogno di riposo. ---- Per questo, dopo ore di studio, una breve pausa o una passeggiata può migliorare la concentrazione.",
+  "options": [
+   "Gli studenti più bravi non fanno mai pause.",
+   "La concentrazione aumenta con ogni ora di studio.",
+   "Il cervello lavora meglio senza dormire.",
+   "Dopo molto tempo di attività intensa, la capacità di concentrarsi diminuisce.",
+   "Camminare fa male alla memoria."
+  ],
+  "answer": 3,
+  "explain": "\"Per questo\" needs the reason a break helps: concentration drops.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-honfbt",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 4,
+  "prompt": "Il governo ha annunciato un piano per ridurre il traffico nel centro storico. ---- I residenti, tuttavia, temono che i negozi perdano clienti e hanno chiesto di rivedere la proposta.",
+  "options": [
+   "Dal prossimo anno alcune strade saranno chiuse alle auto durante il giorno.",
+   "Tutte le auto potranno entrare gratuitamente.",
+   "Il governo ha ritirato il piano.",
+   "I negozi del centro hanno già chiuso.",
+   "Il centro storico sarà completamente demolito."
+  ],
+  "answer": 0,
+  "explain": "The next sentence reacts to a proposal, so the missing one must describe it.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-1onf6e7",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 3,
+  "prompt": "La lettura ad alta voce ai bambini ha molti vantaggi. ---- Inoltre, il momento della lettura rafforza il legame tra genitori e figli.",
+  "options": [
+   "Impedisce ai bambini di imparare a leggere da soli.",
+   "Non ha nessun effetto sul linguaggio.",
+   "Rende i bambini più stanchi di sera.",
+   "Arricchisce il loro vocabolario e stimola la fantasia.",
+   "Costringe i genitori a comprare molti libri."
+  ],
+  "answer": 3,
+  "explain": "\"Inoltre\" adds a second advantage, so the first sentence must also be an advantage.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-1d4s1wt",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 3,
+  "prompt": "Il Colosseo è uno dei monumenti più visitati d'Italia. ---- Per evitare le file, molti turisti prenotano il biglietto online con settimane di anticipo.",
+  "options": [
+   "Il Colosseo è sempre vuoto la mattina.",
+   "Le file sono state vietate dal comune.",
+   "Ogni giorno migliaia di persone aspettano di entrare.",
+   "Nessuno visita il Colosseo in estate.",
+   "I biglietti si comprano solo il giorno della visita."
+  ],
+  "answer": 2,
+  "explain": "\"le file\" must already be implied: a queue of waiting visitors.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-6bdzpa",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 4,
+  "prompt": "Molti giovani lasciano il paese d'origine per cercare lavoro altrove. ---- Il risultato è che alcune zone, soprattutto di montagna, si spopolano e i servizi, come scuole e ambulatori, chiudono.",
+  "options": [
+   "Nelle zone di montagna ci sono moltissimi posti di lavoro.",
+   "I giovani preferiscono vivere lontano dalle città.",
+   "I servizi sanitari sono migliorati.",
+   "Le scuole di montagna sono le più frequentate.",
+   "Dove le opportunità sono poche, restare significa spesso rinunciare a una carriera."
+  ],
+  "answer": 4,
+  "explain": "\"Il risultato è che…\" follows the cause: few opportunities push young people away.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-9lbq0z",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 3,
+  "prompt": "Per preparare una buona torta servono ingredienti freschi. ---- Si mescolano poi con cura, aggiungendo il latte poco alla volta.",
+  "options": [
+   "Si comincia togliendo la torta dal forno.",
+   "Il forno va tenuto spento per tutto il tempo.",
+   "Si comincia mettendo in una ciotola le uova, lo zucchero e la farina.",
+   "Il latte non si usa mai nei dolci.",
+   "La torta si mangia meglio d'estate."
+  ],
+  "answer": 2,
+  "explain": "\"poi… si mescolano\" needs a first step that puts the ingredients together.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-q-1514ody",
+  "section": "paragraph",
+  "topic": "exam.paragraph",
+  "level": 4,
+  "prompt": "La memoria non funziona come una videocamera. ---- Per questo due testimoni dello stesso episodio possono ricordarlo in modo molto diverso.",
+  "options": [
+   "Le videocamere si ricordano meglio delle persone.",
+   "La memoria funziona solo di notte.",
+   "Ricordiamo con precisione ogni dettaglio di ciò che vediamo.",
+   "Ogni volta che ricordiamo un fatto, lo ricostruiamo e a volte lo modifichiamo.",
+   "I testimoni ricordano sempre la stessa versione."
+  ],
+  "answer": 3,
+  "explain": "\"Per questo\" needs the reason witnesses differ: memory is reconstructive.",
+  "source": "hand",
+  "verified": true
+ },
+ {
+  "id": "x-i-b39n2z",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Il caffè è una delle bevande più diffuse al mondo.\n(2) Contiene caffeina, una sostanza che stimola il sistema nervoso.\n(3) Molte persone ne bevono una tazza appena sveglie per sentirsi più attive.\n(4) Il tè verde, invece, ha origine in Cina.\n(5) Bevuto in eccesso, però, può causare nervosismo e difficoltà a dormire.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "The paragraph is about coffee; the sentence about green tea changes subject.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-1mivz18",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Andare in bicicletta fa bene alla salute.\n(2) Rafforza i muscoli delle gambe e migliora la circolazione.\n(3) Inoltre non inquina e non richiede carburante.\n(4) Il Duomo di Milano è stato costruito nel corso di cinque secoli.\n(5) Chi la usa ogni giorno riesce anche a risparmiare sui costi dei trasporti.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "Everything is about the benefits of cycling except the sentence on the Duomo.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-19qp1sr",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Dormire a sufficienza è essenziale per il benessere.\n(2) Durante il sonno il corpo recupera le energie.\n(3) Chi dorme poco fatica a concentrarsi durante il giorno.\n(4) Gli adulti dovrebbero dormire in media tra le sette e le nove ore.\n(5) Il primo treno per Torino parte alle sei e quindici.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 4,
+  "explain": "The train timetable has nothing to do with sleep.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-usi8wu",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Venezia è costruita su più di cento piccole isole.\n(2) Al posto delle strade ci sono canali, percorsi da barche di ogni tipo.\n(3) Ogni anno milioni di turisti visitano la città.\n(4) Molti italiani preferiscono il caffè al bar piuttosto che a casa.\n(5) L'alta marea, in autunno, allaga spesso le zone più basse.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "The paragraph describes Venice; coffee habits are a different subject.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-go5n8r",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) All'università gli studenti seguono corsi e preparano esami.\n(2) Molti scelgono di studiare all'estero per un semestre.\n(3) I professori ricevono gli studenti in orari stabiliti.\n(4) La pizza napoletana è considerata un patrimonio culturale.\n(5) Per laurearsi bisogna spesso scrivere una tesi finale.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "University life is the topic; the pizza sentence is unrelated.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-ryyho8",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) In autunno le piogge diventano più frequenti.\n(2) Il terreno, bagnato, assorbe meno acqua.\n(3) I fiumi possono gonfiarsi e uscire dagli argini.\n(4) Per questo i comuni controllano con attenzione il livello dell'acqua.\n(5) La nuova biblioteca del quartiere apre il lunedì mattina.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 4,
+  "explain": "The library opening has no connection to rain and rivers.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-4ip5yx",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) La lettura sviluppa l'immaginazione.\n(2) Chi legge spesso ha un vocabolario più ricco.\n(3) Leggere prima di dormire aiuta molte persone a rilassarsi.\n(4) L'allenamento in palestra va svolto almeno tre volte alla settimana.\n(5) Per questo molti insegnanti consigliano di leggere ogni giorno.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "The gym sentence breaks the thread about reading; \"Per questo\" in sentence 5 refers to reading.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-1fvtjkc",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Il servizio di autobus della città è stato rinnovato.\n(2) Sono state aggiunte tre nuove linee verso la periferia.\n(3) I biglietti si possono ora acquistare anche con il telefono.\n(4) Il Mediterraneo è un mare quasi completamente chiuso.\n(5) Gli orari sono stati modificati per ridurre le attese.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "The paragraph is about the city bus service; the sea is unrelated.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-56dswj",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Mangiare frutta e verdura ogni giorno è un'abitudine sana.\n(2) Questi alimenti contengono vitamine e sali minerali.\n(3) Aiutano inoltre a mantenere un peso corretto.\n(4) Il ristorante in fondo alla strada chiude il martedì.\n(5) Gli esperti consigliano di mangiarne almeno cinque porzioni al giorno.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "The restaurant's closing day is not about eating fruit and vegetables.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-1u1jiir",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 4,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Roma fu fondata, secondo la tradizione, nel 753 a.C.\n(2) Per secoli fu il centro di un impero che si estendeva su tre continenti.\n(3) Il latino, la lingua dei Romani, è all'origine dell'italiano.\n(4) Oggi la città ospita ogni giorno uffici, ministeri e milioni di visitatori.\n(5) Il frigorifero deve essere pulito almeno una volta al mese.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 4,
+  "explain": "Sentence 5 is about household hygiene, not about Rome.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-ssjecf",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Per studiare bene è utile avere un luogo tranquillo.\n(2) Conviene fare brevi pause ogni quarantacinque minuti.\n(3) Scrivere i concetti con parole proprie aiuta a ricordarli.\n(4) Il campionato di calcio inizia a fine agosto.\n(5) Ripassare il giorno dopo rafforza la memoria.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "The paragraph gives study tips; football is another subject.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-1qbap3t",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Separare i rifiuti è un gesto semplice ma importante.\n(2) Carta, plastica e vetro vengono raccolti in contenitori diversi.\n(3) Il riciclo permette di riutilizzare molti materiali.\n(4) Molti ragazzi guardano film in lingua originale per imparare l'inglese.\n(5) Così si riduce la quantità di rifiuti portati in discarica.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "The paragraph is about recycling; learning English from films is unrelated.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-1saf0vi",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 3,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Prima di un colloquio di lavoro è importante informarsi sull'azienda.\n(2) Conviene arrivare in anticipo e vestirsi in modo adeguato.\n(3) Durante l'incontro bisogna rispondere con calma e sincerità.\n(4) Il cinema più grande della città ha otto sale.\n(5) Alla fine è utile fare qualche domanda sul lavoro proposto.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "The paragraph advises on job interviews; the cinema is unrelated.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-1w1ny0",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 4,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) L'urbanizzazione ha trasformato profondamente la vita sociale.\n(2) Nelle grandi città le relazioni tendono a essere più rapide e impersonali.\n(3) Molti studiosi collegano questo fenomeno a un aumento della solitudine.\n(4) Le comunità rurali, al contrario, mantengono spesso legami più stretti.\n(5) La produzione di olio d'oliva è concentrata soprattutto nel Sud.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 4,
+  "explain": "The paragraph compares urban and rural social life; olive oil production is a different topic.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
+ },
+ {
+  "id": "x-i-1iazfnz",
+  "section": "irrelevant",
+  "topic": "exam.irrelevant",
+  "level": 4,
+  "prompt": "Quale frase non appartiene al paragrafo?\n(1) Le fonti rinnovabili producono energia senza esaurire le risorse naturali.\n(2) Il sole, il vento e l'acqua sono tra le più utilizzate.\n(3) Il loro sviluppo richiede però investimenti iniziali elevati.\n(4) Un buon traduttore deve conoscere a fondo entrambe le culture.\n(5) Nel lungo periodo, tuttavia, i costi di gestione risultano inferiori.",
+  "options": [
+   "Frase 1",
+   "Frase 2",
+   "Frase 3",
+   "Frase 4",
+   "Frase 5"
+  ],
+  "answer": 3,
+  "explain": "The paragraph is about renewable energy; translation is unrelated.",
+  "source": "hand",
+  "verified": true,
+  "ordered": true
  }
 ]
