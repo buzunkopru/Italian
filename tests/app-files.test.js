@@ -32,3 +32,9 @@ test('manifest icons exist', () => {
 test('no PDFs are tracked by the ignore rules', () => {
   assert.match(readFileSync(join(root, '.gitignore'), 'utf8'), /^\*\.pdf$/m);
 });
+
+test('question index lists exactly the question files on disk', async () => {
+  const { listFiles } = await import('../tools/build-index.js');
+  const idx = JSON.parse(readFileSync(join(root, 'content/questions/index.json'), 'utf8'));
+  assert.deepEqual(idx.files, listFiles(), 'run: npm run index');
+});

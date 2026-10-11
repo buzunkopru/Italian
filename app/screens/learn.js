@@ -85,7 +85,7 @@ async function renderLesson(root, ctx, levelId, lessonId) {
     ${quiz}
 
     <button class="btn block" id="markRead">Mark lesson as read</button>
-    <p class="small muted" style="margin:8px 0 16px;text-align:center">Practice drills for this lesson arrive in step 2.</p>
+    <a class="btn ghost block" style="margin:10px 0 16px" href="#/practice/${esc(lesson.topic)}">⚡ Practice this lesson</a>
 
     <div class="row between">
       ${prev ? `<a class="btn ghost" href="#/learn/${esc(levelId)}/${esc(prev.id)}">‹ ${esc(prev.id)}</a>` : '<span></span>'}

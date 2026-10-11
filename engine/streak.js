@@ -1,18 +1,7 @@
 // Daily streak, based on the user's LOCAL calendar day (not UTC).
+import { localDay, dayDiff } from './dates.js';
 
-export function localDay(date = new Date()) {
-  const y = date.getFullYear();
-  const m = String(date.getMonth() + 1).padStart(2, '0');
-  const d = String(date.getDate()).padStart(2, '0');
-  return `${y}-${m}-${d}`;
-}
-
-function dayDiff(a, b) {
-  // whole days from a to b (both YYYY-MM-DD), DST-safe because we use UTC midnights
-  const [ay, am, ad] = a.split('-').map(Number);
-  const [by, bm, bd] = b.split('-').map(Number);
-  return Math.round((Date.UTC(by, bm - 1, bd) - Date.UTC(ay, am - 1, ad)) / 86400000);
-}
+export { localDay };
 
 /** Streak to DISPLAY right now: still alive if last study was today or yesterday. */
 export function currentStreak(state, today) {

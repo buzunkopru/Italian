@@ -16,3 +16,14 @@ async function getJSON(path) {
 export const loadLevels = () => getJSON('content/levels.json');
 export const loadLevel = (id) => getJSON(`content/lessons/level-${id}.json`);
 export const loadWords = () => getJSON('content/words.json');
+
+/** All lessons in study order: [{id, title, topic, level}] */
+export async function loadAllLessons() {
+  const levels = await loadLevels();
+  const out = [];
+  for (const l of levels) {
+    const lvl = await loadLevel(l.id);
+    for (const les of lvl.lessons) out.push({ id: les.id, title: les.title, topic: les.topic, level: l.id });
+  }
+  return out;
+}

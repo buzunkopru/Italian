@@ -16,7 +16,7 @@ for (const f of readdirSync(join(root, 'content', 'lessons'))) {
 }
 
 const all = [];
-for (const f of readdirSync(qdir).filter((n) => n.endsWith('.json'))) {
+for (const f of readdirSync(qdir).filter((n) => n.endsWith('.json') && n !== 'index.json')) {
   const list = JSON.parse(readFileSync(join(qdir, f), 'utf8'));
   all.push(...list);
   console.log(`${f}: ${list.length} questions`);
